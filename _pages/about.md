@@ -12,8 +12,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in College of Computer Science, Sichuan University, 2012
 * Ph.D in National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academic of Sciences, 2017, supervised by [Prof. Stan Z. Li](http://www.cbsr.ia.ac.cn/users/szli/)
+* B.S. in College of Computer Science, Sichuan University, 2012
 
 Work experience
 ======
