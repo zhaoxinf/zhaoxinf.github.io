@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@XiangyuZhu-open 
-academicpages
-/
-academicpages.github.io
-Public
-Code
-Issues
-134
-Pull requests
-152
-Actions
-Projects
-Wiki
-Security
-Insights
-academicpages.github.io/_config.yml
-@ning-y
-ning-y Add vendor as excluded dir
-Latest commit 5a8a8db on 15 Apr 2019
- History
- 7 contributors
-@staeiou@tlcaputi@a-paxton@ning-y@luismmontilla@jacobtfisher@aki-nishimura
-311 lines (285 sloc)  7.92 KB
-   
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
