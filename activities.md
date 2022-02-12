@@ -1,26 +1,3 @@
-<br/>
-
-<!--
-Journal Papers Highlights
-======
-<iframe src="https://www.youtube.com/embed/K5_VnSci9uE" 
-    width="200" 
-    frameborder="0" 
-    allowfullscreen>
-</iframe>
-
-<br/>
-
-<iframe src="https://www.youtube.com/embed/b3gUwkJJuRs" 
-    width="400" 
-    height="225"
-    frameborder="0" 
-    allowfullscreen>
-</iframe>
-
-<br/>
---> 
-
 
 Tutorial
 ======
