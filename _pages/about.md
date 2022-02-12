@@ -31,7 +31,7 @@ News:
 * Jan. 2022: Obtain Second Class Prize of the Science and Technology Award, Chinese Institute of Electronics.
 
 
-Selected Publications:
+Selected Publications
 ======
 <div class="row">
   <div class="column left">
