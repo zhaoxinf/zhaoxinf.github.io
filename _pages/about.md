@@ -23,4 +23,7 @@ Work experience
 * 2017～2019: Assistant Professor
   * Institute of Automation, Chinese Academy of Sciences
   
+Research Interest
+======
+My research interest includes machine learning and pattern recognition, especially 3D face reconstruction, face antispoofing and face recognition.
 
