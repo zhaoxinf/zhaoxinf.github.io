@@ -1,20 +1,9 @@
----
-permalink: /
-title: "My CV"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-{% include base_path %}
 
 About Me
 ======
 * I am now an Associate Professor at National Laboratory of Pattern Recognition (NLPR), Institute of Automation Chinese Academic of Sciences (CASIA).
 * My research interest includes machine learning and pattern recognition, especially 3D face reconstruction, face antispoofing and face recognition.
-* 
+* Hope for talent join the biometrics research.
 
 Education
 ======
@@ -37,7 +26,7 @@ News:
 
 Honors & Awards
 ======
-* 2021 Young Elite Scientist Sponsorship Program by the Beijing Association for Science and Technology (北京科协青年人才托举工程) 
+* 2021 Young Elite Scientist Sponsorship Program by Beijing Association for Science and Technology (北京科协青年人才托举工程) 
 * 2021 Second Class Prize of the Science and Technology Award, Chinese Institute of Electronics （中国电子学会科学技术二等奖）.
 * 2020 Member of the Youth Innovation Promotion Association, Chinese Academy of Sciences. （中国科学院青年创新促进会）
 * 2019 Best Doctoral Dissertation Finalist, China Society of Image and Graphics (CSIG).
