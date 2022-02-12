@@ -23,7 +23,7 @@ Journal Papers Highlights
 
 Ph.D
 ======
-*Ph.D student Chang Yu, work on capsule network and 3D face. (together with Prof. Zhen Lei)
+* Ph.D student Chang Yu, work on capsule network and 3D face. (together with Prof. Zhen Lei)
 
 Master
 ======
