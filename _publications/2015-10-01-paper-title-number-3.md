@@ -1,183 +1,4 @@
-
-Journal Papers
-======
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/j1.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Decomposed Meta Batch Normalization for Fast Domain Adaptation in Face Recognition,</strong><br/>
-      Jianzhu Guo, <u>Xiangyu Zhu</u>, Zhen Lei, Stan Z Li. (co-first author)<br/>
-      IEEE Transactions on Information Forensics and Security (TIFS), 2021.<br/>
-      [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/TIFS21decomposed.pdf">PDF</a>]
-    </p>
-  </div>
-</div>
-
-___
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/j2.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Out-of-Distribution Detection for Reliable Face Recognition,</strong><br/>
-      Chang Yu, <u>Xiangyu Zhu</u>, Zhen Lei, Stan Z Li. (co-first author).<br/>
-      IEEE Signal Processing Letters (SPL)，2020.<br/>
-      [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/spl20out.pdf">PDF</a>]
-    </p>
-  </div>
-</div>
-
-___
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/j3.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Fast Adapting without Forgetting for Face Recognition,</strong><br/>
-      Hao Liu, Xiangyu Zhu, Zhen Lei, Dong Cao, Stan Z Li. <br/>
-      IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)，2020.<br/>
-      [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/tcsvt20fast.pdf">PDF</a>]
-    </p>
-  </div>
-</div>
-
-
-___
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/j4.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Prior-knowledge and attention based meta-learning for few-shot learning,</strong><br/>
-      Yunxiao Qin, Weiguo Zhang, Chenxu Zhao, Zezheng Wang, Xiangyu Zhu, Jingping Shi, Guojun Qi, Zhen Lei. <br/>
-      Knowledge-Based Systems，2020.<br/>
-     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/kbs20prior.pdf">PDF</a>]
-    </p>
-  </div>
-</div>
-
-___
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/j5.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Large-scale Bisample Learning on ID versus Spot Face Recognition,</strong><br/>
-      Xiangyu Zhu, Hao Liu, Zhen Lei, Hailin Shi, Fan Yang, Dong Yi, Guojun Qi, Stan Z. Li.<br/>
-      Special issue on Deep Learning for Face Analysis. International Journal of Computer Vision (IJCV)，2019. <br/> 
-     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/xiangyu2018large.pdf">PDF</a>][<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/LBL/main.htm">Project</a>]
-    </p>
-  </div>
-</div>
-
-___
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/j6.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Efficient Face Alignment with Fast Normalization and Contour Fitting Loss,</strong><br/>
-      Zhiwei Liu, Xiangyu Zhu, Ming Tang, Zhen Lei, Jinqiao Wang.<br/>
-      ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2019, 15: 89. <br/>
-     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/tomm19efficient.pdf">PDF</a>]
-    </p>
-  </div>
-</div>
-
-___
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/j7.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Detecting face with densely connected face proposal network,</strong><br/>
-      Shifeng Zhang, Xiangyu Zhu, Zhen Lei, Xiaobo Wang, Hailin Shi, Stan Z Li.<br/>
-      Neurocomputing, 2018, 284: 119-127.<br/> 
-     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/neuro18detecting.pdf">PDF</a>]
-    </p>
-  </div>
-</div>
-
-
-___
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/j8.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Face Alignment In Full Pose Range: A 3D Total Solution,</strong><br/>
-      Xiangyu Zhu, Xiaoming Liu, Zhen Lei, Stan Z. Li.<br/>
-      IEEE transactions on pattern analysis and machine intelligence (T-PAMI), 2017, 41(1): 78-92.<br/> 
-     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/xiangyu2017face.pdf">PDF</a>][<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/xiangyu2017face_sup.pdf">Supplemental Material</a>][<a href="https://github.com/cleardusk/3DDFA">Github</a>]
-    </p>
-  </div>
-</div>
-
-
-___
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/j9.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Cross-Modality Face Recognition via Heterogeneous Joint Bayesian,</strong><br/>
-      Hailin Shi, Xiaobo Wang, Dong Yi, Zhen Lei, Xiangyu Zhu, Stan Z. Li.<br/>
-      IEEE Signal Processing Letters (SPL), 24(1): 81-85, 2017.<br/> 
-     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/hailin2017cross.pdf">PDF</a>]
-    </p>
-  </div>
-</div>
-
-___
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/j10.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>A Comparison of Image Inpainting Techniques</strong><br/>
-      <u>Yaojie Liu</u>, Chang Shu<br/>
-      Sixth International Conference on Graphic and Image Processing (ICGIP 2014), 2014<br/> 
-     [<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9443/1/A-comparison-of-image-inpainting-techniques/10.1117/12.2178820.full?SSO=1">Link</a>]
-    </p>
-  </div>
-</div>
-
-
-
-<br/>
-
-
-Conference Papers
+2021
 ======
 <div class="row">
   <div class="column left">
@@ -190,6 +11,23 @@ Conference Papers
       Xiangyu Zhu, Hao Wang, Hongyan Fei, Zhen Lei, Stan Z. Li.<br/>
       IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021.<br/>
       [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/CVPR21face.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/j1.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Decomposed Meta Batch Normalization for Fast Domain Adaptation in Face Recognition,</strong><br/>
+      Jianzhu Guo, <u>Xiangyu Zhu</u>, Zhen Lei, Stan Z Li. (co-first author)<br/>
+      IEEE Transactions on Information Forensics and Security (TIFS), 2021.<br/>
+      [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/TIFS21decomposed.pdf">PDF</a>]
     </p>
   </div>
 </div>
@@ -229,6 +67,8 @@ ___
 </div>
 
 
+2020
+======
 ___
 
 <div class="row">
@@ -333,7 +173,98 @@ ___
   </div>
 </div>
 
+
 ___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/j3.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Fast Adapting without Forgetting for Face Recognition,</strong><br/>
+      Hao Liu, Xiangyu Zhu, Zhen Lei, Dong Cao, Stan Z Li. <br/>
+      IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)，2020.<br/>
+      [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/tcsvt20fast.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/j2.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Out-of-Distribution Detection for Reliable Face Recognition,</strong><br/>
+      Chang Yu, <u>Xiangyu Zhu</u>, Zhen Lei, Stan Z Li. (co-first author).<br/>
+      IEEE Signal Processing Letters (SPL)，2020.<br/>
+      [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/spl20out.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/j4.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Prior-knowledge and attention based meta-learning for few-shot learning,</strong><br/>
+      Yunxiao Qin, Weiguo Zhang, Chenxu Zhao, Zezheng Wang, Xiangyu Zhu, Jingping Shi, Guojun Qi, Zhen Lei. <br/>
+      Knowledge-Based Systems，2020.<br/>
+     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/kbs20prior.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+2019
+======
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/j5.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Large-scale Bisample Learning on ID versus Spot Face Recognition,</strong><br/>
+      Xiangyu Zhu, Hao Liu, Zhen Lei, Hailin Shi, Fan Yang, Dong Yi, Guojun Qi, Stan Z. Li.<br/>
+      Special issue on Deep Learning for Face Analysis. International Journal of Computer Vision (IJCV)，2019. <br/> 
+     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/xiangyu2018large.pdf">PDF</a>][<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/LBL/main.htm">Project</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/j6.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Efficient Face Alignment with Fast Normalization and Contour Fitting Loss,</strong><br/>
+      Zhiwei Liu, Xiangyu Zhu, Ming Tang, Zhen Lei, Jinqiao Wang.<br/>
+      ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2019, 15: 89. <br/>
+     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/tomm19efficient.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
 
 <div class="row">
   <div class="column left">
@@ -483,6 +414,27 @@ ___
 
 ___
 
+2018
+======
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/j7.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Detecting face with densely connected face proposal network,</strong><br/>
+      Shifeng Zhang, Xiangyu Zhu, Zhen Lei, Xiaobo Wang, Hailin Shi, Stan Z Li.<br/>
+      Neurocomputing, 2018, 284: 119-127.<br/> 
+     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/neuro18detecting.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+
+
+___
+
 <div class="row">
   <div class="column left">
     <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/c18.png?raw=true">  
@@ -536,6 +488,45 @@ ___
 </div>
 
 
+
+___
+
+
+2017
+======
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/j8.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Face Alignment In Full Pose Range: A 3D Total Solution,</strong><br/>
+      Xiangyu Zhu, Xiaoming Liu, Zhen Lei, Stan Z. Li.<br/>
+      IEEE transactions on pattern analysis and machine intelligence (T-PAMI), 2017, 41(1): 78-92.<br/> 
+     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/xiangyu2017face.pdf">PDF</a>][<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/xiangyu2017face_sup.pdf">Supplemental Material</a>][<a href="https://github.com/cleardusk/3DDFA">Github</a>]
+    </p>
+  </div>
+</div>
+
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/j9.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Cross-Modality Face Recognition via Heterogeneous Joint Bayesian,</strong><br/>
+      Hailin Shi, Xiaobo Wang, Dong Yi, Zhen Lei, Xiangyu Zhu, Stan Z. Li.<br/>
+      IEEE Signal Processing Letters (SPL), 24(1): 81-85, 2017.<br/> 
+     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/hailin2017cross.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
 
 ___
 
@@ -635,6 +626,10 @@ ___
 
 ___
 
+2016
+======
+
+
 <div class="row">
   <div class="column left">
     <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/c26.png?raw=true">  
@@ -673,6 +668,10 @@ ___
 
 
 ___
+
+2015
+======
+
 
 <div class="row">
   <div class="column left">
@@ -747,6 +746,10 @@ ___
 
 
 ___
+
+2014
+======
+
 
 <div class="row">
   <div class="column left">
