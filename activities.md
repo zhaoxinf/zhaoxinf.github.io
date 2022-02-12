@@ -1,3 +1,27 @@
+<br/>
+
+<!--
+Journal Papers Highlights
+======
+<iframe src="https://www.youtube.com/embed/K5_VnSci9uE" 
+    width="200" 
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
+
+<br/>
+
+<iframe src="https://www.youtube.com/embed/b3gUwkJJuRs" 
+    width="400" 
+    height="225"
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
+
+<br/>
+--> 
+
+
 Tutorial
 ======
 * Tutorial “Image Generation and Antispoofing” in NCIG 2020 [<a href="http://ncig2020.csig.org.cn/%e5%9b%be%e5%83%8f%e7%94%9f%e6%88%90%e4%b8%8e%e9%98%b2%e4%bc%aa/">Link</a>]
