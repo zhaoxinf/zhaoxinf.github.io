@@ -8,7 +8,7 @@ author_profile: true
 
 Ph.D
 ======
-* Ph.D student Chang Yu, work on capsule network and 3D face. (together with Prof. Zhen Lei)
+* Chang Yu, work on capsule network and 3D face. (together with Prof. Zhen Lei)
 
 Master
 ======
