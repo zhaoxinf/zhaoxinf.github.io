@@ -35,7 +35,7 @@ Selected Publications
 ======
 <div class="row">
   <div class="column left">
-    <img align="left" width="100%" src="https://xiangyuzhu-open.github.io/homepage/pic/c1.png?raw=true">  
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/c1.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
