@@ -35,7 +35,7 @@ Selected Publications
 ======
 <div class="row">
   <div class="column left">
-    <img align="left" width="100%" src="https://xiangyuzhu-open.github.io/pic/c1.png?raw=true">  
+    <img align="left" width="100%" src="https://xiangyuzhu-open.github.io/homepage/pic/c1.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
@@ -52,7 +52,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/c4.png?raw=true">  
+    <img align="left" width="100%" src="xiangyuzhu-open.github.io/homepage/pic/c4.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
@@ -69,7 +69,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/j5.png?raw=true">  
+    <img align="left" width="100%" src="xiangyuzhu-open.github.io/homepage/pic/j5.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
@@ -86,7 +86,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/c25.png?raw=true">  
+    <img align="left" width="100%" src="xiangyuzhu-open.github.io/homepage/pic/c25.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
@@ -105,7 +105,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/2016cvpr_3ddfa.png?raw=true">  
+    <img align="left" width="100%" src="xiangyuzhu-open.github.io/homepage/pic/2016cvpr_3ddfa.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
@@ -127,7 +127,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/c28.png?raw=true">  
+    <img align="left" width="100%" src="xiangyuzhu-open.github.io/homepage/pic/c28.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
