@@ -16,6 +16,43 @@
   }
 }
 
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.column {
+  float: left;
+}
+
+.left {
+  width: 15%;
+  display: flex;
+  align-items: center;
+}
+
+.middle {
+  width: 2%;
+}
+
+.right {
+  width: 83%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+  vertical-align:middle;
+}
+
+#row { vertical-align:top; }
+#left { vertical-align:middle;}
+#middle { vertical-align:middle;}
+#right { vertical-align:middle;}
+
+
 .page {
   @include breakpoint($large) {
     @include span(10 of 12 last);
@@ -43,6 +80,10 @@
   }
 }
 
+.page__block{
+   padding-left: 1em;
+}
+
 .page__lead {
   font-family: $global-font-family;
   font-size: $type-size-4;
@@ -56,7 +97,12 @@
   }
 
   p, li, dl {
-    font-size: 1em;
+    font-size: 0.875em;
+  }
+   
+  ul {
+    margin: 0; /* To remove default bottom margin */ 
+    padding-left: 1em; /* To remove default left padding */
   }
 
   /* paragraph indents */
