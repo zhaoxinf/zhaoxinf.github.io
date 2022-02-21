@@ -105,7 +105,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="100%" src="https://xiangyuzhu-open.github.io/homepage/pic/2016cvpr_3ddfa.png?raw=true">  
+    <img align="left" width="100%" src="https://xiangyuzhu-open.github.io/homepage/pic/2016cvpr.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
