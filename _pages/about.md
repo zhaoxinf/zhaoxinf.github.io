@@ -11,14 +11,14 @@ redirect_from:
 * My research interest includes machine learning and pattern recognition, especially 3D face reconstruction, face antispoofing and face recognition.
 * Hope for talent join the biometrics research.
 
-\<br>
+<br>
 
 Education
 ======
 * Ph.D in Institute of Automation, Chinese Academic of Sciences, 2017, supervised by [Prof. Stan Z. Li](http://www.cbsr.ia.ac.cn/users/szli/)
 * B.S. in College of Computer Science, Sichuan University, 2012
 
-\<br>
+<br>
 
 Work experience
 ======
@@ -35,7 +35,7 @@ News:
 * Jan. 2022: One paper accepted by ICLR 2022.
 * Jan. 2022: Obtain Second Class Prize of the Science and Technology Award, Chinese Institute of Electronics.
 
-\<br>
+<br>
 Selected Publications
 ======
 <div class="row">
@@ -149,7 +149,7 @@ ___
 
 ___
 
-\<br>
+<br>
 Honors & Awards
 ======
 * 2021 Young Elite Scientist Sponsorship Program by Beijing Association for Science and Technology (北京科协青年人才托举工程) 
