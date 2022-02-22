@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=1rbNk5oAAAAJ"
   email            : "xiangyu.zhu@nlpr.ia.ac.cn"
   researchgate     :  
-  uri              :
+  uri              :  
   bitbucket        :
   codepen          :
   dribbble         :
@@ -116,6 +116,7 @@ author:
   youtube          :
   wikipedia        :
   resume           : 
+  chinese          : http://people.ucas.ac.cn/~xiangyuzhu
 
 
 # Reading Files
