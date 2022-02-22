@@ -9,7 +9,7 @@ redirect_from:
 ---
 * I am now an Associate Professor at National Laboratory of Pattern Recognition (NLPR), Institute of Automation Chinese Academic of Sciences (CASIA).
 * My research interest includes machine learning and pattern recognition, especially 3D face reconstruction, face antispoofing and face recognition.
-* Hope for talent join the biometrics research.
+* **Looking for talents working on 3D face/body reconstruction and biometrics. If you are interested, please send me an email with your CV.**.
 
 <br>
 
@@ -36,6 +36,7 @@ News:
 * Jan. 2022: Obtain Second Class Prize of the Science and Technology Award, Chinese Institute of Electronics.
 
 <br>
+
 Selected Publications
 ======
 <div class="row">
@@ -46,7 +47,7 @@ Selected Publications
   <div class="column right">
     <p>
       <strong>Face Forgery Detection by 3D Decomposition,</strong><br/>
-      **Xiangyu Zhu**, Hao Wang, Hongyan Fei, Zhen Lei, Stan Z. Li.<br/>
+      Xiangyu Zhu, Hao Wang, Hongyan Fei, Zhen Lei, Stan Z. Li.<br/>
       IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021.<br/>
       [<a href="https://xiangyuzhu-open.github.io/homepage/files/cvpr21face.pdf">PDF</a>]
     </p>
