@@ -40,6 +40,9 @@ News
 
 Selected Publications
 ======
+
+___
+
 <div class="row">
   <div class="column left">
     <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/c1.png?raw=true">  
