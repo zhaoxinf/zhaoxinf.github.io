@@ -10,7 +10,7 @@ redirect_from:
 * I am now an Associate Professor at National Laboratory of Pattern Recognition (NLPR), Institute of Automation Chinese Academic of Sciences (CASIA).
 * My research interest includes machine learning and pattern recognition, especially 3D face reconstruction, face antispoofing and face recognition.
 * Hope for talent join the biometrics research.
-
+<br>
 Education
 ======
 * Ph.D in Institute of Automation, Chinese Academic of Sciences, 2017, supervised by [Prof. Stan Z. Li](http://www.cbsr.ia.ac.cn/users/szli/)
