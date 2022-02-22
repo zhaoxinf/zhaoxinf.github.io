@@ -41,7 +41,7 @@ Selected Publications
   <div class="column right">
     <p>
       <strong>Face Forgery Detection by 3D Decomposition,</strong><br/>
-      Xiangyu Zhu, Hao Wang, Hongyan Fei, Zhen Lei, Stan Z. Li.<br/>
+      'Xiangyu Zhu', Hao Wang, Hongyan Fei, Zhen Lei, Stan Z. Li.<br/>
       IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021.<br/>
       [<a href="https://xiangyuzhu-open.github.io/homepage/files/cvpr21face.pdf">PDF</a>]
     </p>
