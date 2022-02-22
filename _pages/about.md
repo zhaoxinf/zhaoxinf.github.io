@@ -30,7 +30,7 @@ Work experience
 
 <br>
 
-News:
+News
 ======
 * Jan. 2022: One paper accepted by ICLR 2022.
 * Jan. 2022: Obtain Second Class Prize of the Science and Technology Award, Chinese Institute of Electronics.
@@ -151,6 +151,7 @@ ___
 ___
 
 <br>
+
 Honors & Awards
 ======
 * 2021 Young Elite Scientist Sponsorship Program by Beijing Association for Science and Technology (北京科协青年人才托举工程) 
