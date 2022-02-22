@@ -37,7 +37,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/c1.png?raw=true">  
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/c1.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
@@ -45,7 +45,7 @@ ___
       <strong>Face Forgery Detection by 3D Decomposition,</strong><br/>
       Xiangyu Zhu, Hao Wang, Hongyan Fei, Zhen Lei, Stan Z. Li.<br/>
       IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021.<br/>
-      [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/CVPR21face.pdf">PDF</a>]
+      [<a href="https://xiangyuzhu-open.github.io/homepage/files/cvpr21face.pdf">PDF</a>]
     </p>
   </div>
 </div>
@@ -110,7 +110,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/c4.png?raw=true">  
+    <img align="left" width="100%" src="https://xiangyuzhu-open.github.io/homepage/pic/c4.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
@@ -118,7 +118,7 @@ ___
       <strong>Beyond 3DMM Space: Towards Fine-grained 3D Face Reconstruction,</strong><br/>
       Xiangyu Zhu, Fan Yang, Di Huang, Chang Yu, Hao Wang, Jianzhu Guo, Zhen Lei, Stan Z. Li.<br/>
       In European Conference on Computer Vision (ECCV), 2020.<br/>
-     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/2020beyond.pdf">PDF</a>]
+     [<a href="https://xiangyuzhu-open.github.io/homepage/files/2020beyond.pdf">PDF</a>]
     </p>
   </div>
 </div>
@@ -272,7 +272,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/j5.png?raw=true">  
+    <img align="left" width="100%" src="https://xiangyuzhu-open.github.io/homepage/pic/2019ijcv.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
@@ -280,7 +280,7 @@ ___
       <strong>Large-scale Bisample Learning on ID versus Spot Face Recognition,</strong><br/>
       Xiangyu Zhu, Hao Liu, Zhen Lei, Hailin Shi, Fan Yang, Dong Yi, Guojun Qi, Stan Z. Li.<br/>
       Special issue on Deep Learning for Face Analysis. International Journal of Computer Vision (IJCV)，2019. <br/> 
-     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/xiangyu2018large.pdf">PDF</a>][<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/LBL/main.htm">Project</a>]
+     [<a href="https://xiangyuzhu-open.github.io/homepage/files/xiangyu2018large.pdf">PDF</a>][<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/LBL/main.htm">Project</a>]
     </p>
   </div>
 </div>
@@ -539,7 +539,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/j8.png?raw=true">  
+    <img align="left" width="100%" src="https://xiangyuzhu-open.github.io/homepage/pic/c25.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
@@ -547,7 +547,7 @@ ___
       <strong>Face Alignment In Full Pose Range: A 3D Total Solution,</strong><br/>
       Xiangyu Zhu, Xiaoming Liu, Zhen Lei, Stan Z. Li.<br/>
       IEEE transactions on pattern analysis and machine intelligence (T-PAMI), 2017, 41(1): 78-92.<br/> 
-     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/xiangyu2017face.pdf">PDF</a>][<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/xiangyu2017face_sup.pdf">Supplemental Material</a>][<a href="https://github.com/cleardusk/3DDFA">Github</a>]
+     [<a href="https://xiangyuzhu-open.github.io/homepage/files/xiangyu2017face.pdf">PDF</a>][<a href="https://xiangyuzhu-open.github.io/homepage/files/xiangyu2017face_sup.pdf">Supplemental Material</a>][<a href="https://github.com/cleardusk/3DDFA">Github</a>]
     </p>
   </div>
 </div>
@@ -677,15 +677,15 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/c26.png?raw=true">  
+    <img align="left" width="100%" src="https://xiangyuzhu-open.github.io/homepage/pic/2016cvpr.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>Embedding Deep Metric for Person Re-identification: A Study Against Large Variations,</strong><br/>
-      Hailin Shi, Yang Yang, Xiangyu Zhu, Shengcai Liao, Zhen Lei, Weishi Zheng, Stan Z. Li.<br/>
-      In Proceedings of European Conference on Computer Vision (ECCV). Amsterdam, Oct. 8-16, 2016.<br/> 
-     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/hailin2016embedding.pdf">PDF</a>]
+      <strong>Face Alignment Across Large Poses: A 3D Solution,</strong><br/>
+      Xiangyu Zhu, Zhen Lei, Xiaoming Liu, Hailin Shi, Stan Z. Li.<br/>
+      IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021, (Oral).<br/> 
+     [<a href="https://xiangyuzhu-open.github.io/homepage/files/ARXIV2015_FaceAlignment.pdf">PDF</a>][<a href="https://xiangyuzhu-open.github.io/homepage/files/xiangyu2017face_sup.pdf">Supplemental Material</a>][<a href="https://github.com/cleardusk/3DDFA">Github</a>]
     </p>
   </div>
 </div>
@@ -721,7 +721,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/c28.png?raw=true">  
+    <img align="left" width="100%" src="https://xiangyuzhu-open.github.io/homepage/pic/2015cvpr.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
@@ -729,7 +729,7 @@ ___
       <strong>High-Fidelity Pose and Expression Normalization for Face Recognition in the Wild,</strong><br/>
       Xiangyu Zhu, Zhen Lei, Junjie Yan, Dong Yi, Stan Z. Li.<br/>
       In Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition (CVPR).Boston, June 7-12, 2015.<br/> 
-     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/CVPR2015_High-Fidelity.pdf">PDF</a>][<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/CVPR2015_High-Fidelity_Sup.pdf">Supplemental Material</a>][<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/HPEN/main.htm">Project</a>]
+     [<a href="https://xiangyuzhu-open.github.io/homepage/files/CVPR2015_High-Fidelity.pdf">PDF</a>][<a href="https://xiangyuzhu-open.github.io/homepage/files/CVPR2015_High-Fidelity_Sup.pdf">Supplemental Material</a>][<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/HPEN/main.htm">Project</a>]
     </p>
   </div>
 </div>
