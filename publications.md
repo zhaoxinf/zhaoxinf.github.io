@@ -30,7 +30,8 @@ Journal Papers Highlights
 
 ___
 2021
-======
+___
+
 <div class="row">
   <div class="column left">
     <img align="left" width="100%" src="https://keshuixm.github.io/xiangyuzhu.github.io/pic/c1.png?raw=true">  
@@ -99,7 +100,6 @@ ___
 
 ___
 2020
-======
 ___
 
 <div class="row">
@@ -258,10 +258,8 @@ ___
 </div>
 
 ___
-
-======
 2019
-======
+___
 
 <div class="row">
   <div class="column left">
@@ -445,10 +443,8 @@ ___
 
 
 ___
-
-======
 2018
-======
+___
 
 <div class="row">
   <div class="column left">
@@ -658,9 +654,8 @@ ___
 
 
 ___
-======
 2016
-======
+___
 
 
 <div class="row">
@@ -701,9 +696,8 @@ ___
 
 
 ___
-======
 2015
-======
+___
 
 
 <div class="row">
@@ -779,9 +773,8 @@ ___
 
 
 ___
-======
 2014
-======
+___
 
 
 <div class="row">
