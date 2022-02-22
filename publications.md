@@ -28,7 +28,7 @@ Journal Papers Highlights
 <br/>
 --> 
 
-======
+___
 2021
 ======
 <div class="row">
@@ -97,8 +97,7 @@ ___
   </div>
 </div>
 
-======
-
+___
 2020
 ======
 ___
