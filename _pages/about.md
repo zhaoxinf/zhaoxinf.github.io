@@ -28,7 +28,7 @@ Work experience
 * 2017～2019: Assistant Professor
   * Institute of Automation, Chinese Academy of Sciences
 
-\<br>
+<br>
 
 News:
 ======
