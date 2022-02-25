@@ -46,22 +46,6 @@ Transmission for Counterfactual Prediction,</strong><br/>
 
 ___
 
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="https://xiangyuzhu-open.github.io/homepage/pic/j1.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Decomposed Meta Batch Normalization for Fast Domain Adaptation in Face Recognition,</strong><br/>
-      Jianzhu Guo, <strong>Xiangyu Zhu</strong>, Zhen Lei, Stan Z Li. (co-first author)<br/>
-      IEEE Transactions on Information Forensics and Security (TIFS), 2021.<br/>
-      [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/TIFS21decomposed.pdf">PDF</a>]
-    </p>
-  </div>
-</div>
-
-___
 
 
 
