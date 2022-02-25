@@ -52,7 +52,7 @@ ___
   <div class="column right">
     <p>
       <strong>Face Forgery Detection by 3D Decomposition,</strong><br/>
-      Xiangyu Zhu, Hao Wang, Hongyan Fei, Zhen Lei, Stan Z. Li.<br/>
+      <strong>Xiangyu Zhu</strong>, Hao Wang, Hongyan Fei, Zhen Lei, Stan Z. Li.<br/>
       IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Oral, 2021.<br/>
       [<a href="https://xiangyuzhu-open.github.io/homepage/files/cvpr21face.pdf">PDF</a>]
     </p>
@@ -69,7 +69,7 @@ ___
   <div class="column right">
     <p>
       <strong>Beyond 3DMM Space: Towards Fine-grained 3D Face Reconstruction,</strong><br/>
-      Xiangyu Zhu, Fan Yang, Di Huang, Chang Yu, Hao Wang, Jianzhu Guo, Zhen Lei, Stan Z. Li.<br/>
+      <strong>Xiangyu Zhu</strong>, Fan Yang, Di Huang, Chang Yu, Hao Wang, Jianzhu Guo, Zhen Lei, Stan Z. Li.<br/>
       In European Conference on Computer Vision (ECCV), 2020.<br/>
      [<a href="https://xiangyuzhu-open.github.io/homepage/files/2020beyond.pdf">PDF</a>]
     </p>
@@ -86,7 +86,7 @@ ___
   <div class="column right">
     <p>
       <strong>Large-scale Bisample Learning on ID versus Spot Face Recognition,</strong><br/>
-      Xiangyu Zhu, Hao Liu, Zhen Lei, Hailin Shi, Fan Yang, Dong Yi, Guojun Qi, Stan Z. Li.<br/>
+      <strong>Xiangyu Zhu</strong>, Hao Liu, Zhen Lei, Hailin Shi, Fan Yang, Dong Yi, Guojun Qi, Stan Z. Li.<br/>
       Special issue on Deep Learning for Face Analysis. International Journal of Computer Vision (IJCV)，2019. <br/> 
      [<a href="https://xiangyuzhu-open.github.io/homepage/files/xiangyu2018large.pdf">PDF</a>][<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/LBL/main.htm">Project</a>]
     </p>
@@ -103,7 +103,7 @@ ___
   <div class="column right">
     <p>
       <strong>Face Alignment In Full Pose Range: A 3D Total Solution,</strong><br/>
-      Xiangyu Zhu, Xiaoming Liu, Zhen Lei, Stan Z. Li.<br/>
+      <strong>Xiangyu Zhu</strong>, Xiaoming Liu, Zhen Lei, Stan Z. Li.<br/>
       IEEE transactions on pattern analysis and machine intelligence (T-PAMI), 2017, 41(1): 78-92.<br/> 
      [<a href="https://xiangyuzhu-open.github.io/homepage/files/xiangyu2017face.pdf">PDF</a>][<a href="https://xiangyuzhu-open.github.io/homepage/files/xiangyu2017face_sup.pdf">Supplemental Material</a>][<a href="https://github.com/cleardusk/3DDFA">Github</a>]
     </p>
@@ -122,7 +122,7 @@ ___
   <div class="column right">
     <p>
       <strong>Face Alignment Across Large Poses: A 3D Solution,</strong><br/>
-      Xiangyu Zhu, Zhen Lei, Xiaoming Liu, Hailin Shi, Stan Z. Li.<br/>
+      <strong>Xiangyu Zhu</strong>, Zhen Lei, Xiaoming Liu, Hailin Shi, Stan Z. Li.<br/>
       IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Oral, 2021.<br/> 
      [<a href="https://xiangyuzhu-open.github.io/homepage/files/ARXIV2015_FaceAlignment.pdf">PDF</a>][<a href="https://xiangyuzhu-open.github.io/homepage/files/xiangyu2017face_sup.pdf">Supplemental Material</a>][<a href="https://github.com/cleardusk/3DDFA">Github</a>]
     </p>
@@ -144,7 +144,7 @@ ___
   <div class="column right">
     <p>
       <strong>High-Fidelity Pose and Expression Normalization for Face Recognition in the Wild,</strong><br/>
-      Xiangyu Zhu, Zhen Lei, Junjie Yan, Dong Yi, Stan Z. Li.<br/>
+      <strong>Xiangyu Zhu</strong>, Zhen Lei, Junjie Yan, Dong Yi, Stan Z. Li.<br/>
       In Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition (CVPR).Boston, June 7-12, 2015.<br/> 
      [<a href="https://xiangyuzhu-open.github.io/homepage/files/CVPR2015_High-Fidelity.pdf">PDF</a>][<a href="https://xiangyuzhu-open.github.io/homepage/files/CVPR2015_High-Fidelity_Sup.pdf">Supplemental Material</a>][<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/HPEN/main.htm">Project</a>]
     </p>
