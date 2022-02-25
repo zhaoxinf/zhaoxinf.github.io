@@ -1,12 +1,16 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+About me
+======
+
 * I am now an Associate Professor at National Laboratory of Pattern Recognition (NLPR), Institute of Automation Chinese Academic of Sciences (CASIA).
 * My research interest includes machine learning and pattern recognition, especially 3D face reconstruction, face antispoofing and face recognition.
 * **Looking for talents working on 3D face/body reconstruction and biometrics. If you are interested, please send me an email with your CV.**
