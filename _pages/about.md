@@ -10,7 +10,13 @@ redirect_from:
 * I am now an Associate Professor at National Laboratory of Pattern Recognition (NLPR), Institute of Automation Chinese Academic of Sciences (CASIA).
 * My research interest includes machine learning and pattern recognition, especially 3D face reconstruction, face antispoofing and face recognition.
 * **Looking for talents working on 3D face/body reconstruction and biometrics. If you are interested, please send me an email with your CV.**
-* [Chinese Homepage](https://teacher.ucas.ac.cn/~xiangyuzhu)
+
+<br>
+
+News
+======
+* Jan. 2022: One paper accepted by ICLR 2022.
+* Jan. 2022: Obtain Second Class Prize of the Science and Technology Award, Chinese Institute of Electronics.
 
 <br>
 
@@ -31,12 +37,7 @@ Work experience
 
 <br>
 
-News
-======
-* Jan. 2022: One paper accepted by ICLR 2022.
-* Jan. 2022: Obtain Second Class Prize of the Science and Technology Award, Chinese Institute of Electronics.
 
-<br>
 
 Selected Publications
 ======
