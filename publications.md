@@ -6,6 +6,66 @@ author_profile: true
 ---
 
 
+2022
+======
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2022-iclr-tang.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Object Dynamics Distillation for Scene Decomposition and Representation,</strong><br/>
+      Qu Tang, <strong>Xiangyu Zhu</strong>, Zhen Lei, Zhaoxiang Zhang,<br/>
+     International Conference on Learning Representations (ICLR) , 2022.<br/>
+      [<a href="https://openreview.net/forum?id=oJGDYQFKL3i">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2022-aaai-li.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Deconfounding Physical Dynamics with Global Causal Relation and Confounder
+Transmission for Counterfactual Prediction,</strong><br/>
+      Zongzhao Li, <strong>Xiangyu Zhu</strong>, Zhen Lei, Zhaoxiang Zhang,<br/>
+     36th Annual AAAI Conference on Artificial Intelligence (AAAI), 2022.<br/>
+      [<a href="https://xiangyuzhu-open.github.io/homepage/files/2022-aaai-li.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="https://xiangyuzhu-open.github.io/homepage/pic/j1.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Decomposed Meta Batch Normalization for Fast Domain Adaptation in Face Recognition,</strong><br/>
+      Jianzhu Guo, <strong>Xiangyu Zhu</strong>, Zhen Lei, Stan Z Li. (co-first author)<br/>
+      IEEE Transactions on Information Forensics and Security (TIFS), 2021.<br/>
+      [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/TIFS21decomposed.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+
+
+
 2021
 ======
 
