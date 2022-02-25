@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Xiangyu Zhu's Homepage"
 title_separator          :  
-name                     : &name "Xiangyu Zhu"
+name                     : &name "Xiangyu Zhu (朱翔昱)"
 description              : &description "personal description"
 url                      : https://xiangyuzhu-open.github.io/homepage # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
