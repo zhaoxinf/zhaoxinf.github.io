@@ -97,7 +97,7 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="100%" src="https://xiangyuzhu-open.github.io/homepage/pic/c25.png?raw=true">  
+    <img align="left" width="100%" src="https://xiangyuzhu-open.github.io/homepage/pic/2017pami.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
