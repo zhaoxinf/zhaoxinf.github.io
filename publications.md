@@ -1,12 +1,4 @@
 
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
-___
-
 2021
 ======
 
@@ -216,7 +208,7 @@ ___
   <div class="column right">
     <p>
       <strong>Out-of-Distribution Detection for Reliable Face Recognition,</strong><br/>
-      Chang Yu, <u><strong>Xiangyu Zhu</strong></u>, Zhen Lei, Stan Z Li. (co-first author).<br/>
+      Chang Yu, <strong>Xiangyu Zhu</strong>, Zhen Lei, Stan Z Li. (co-first author).<br/>
       IEEE Signal Processing Letters (SPL)，2020.<br/>
       [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/spl20out.pdf">PDF</a>]
     </p>
