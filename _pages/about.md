@@ -17,7 +17,7 @@ About me
 
 <br>
 
-News
+News!
 ======
 * Jan. 2022: One paper accepted by ICLR 2022.
 * Jan. 2022: Obtain Second Class Prize of the Science and Technology Award, Chinese Institute of Electronics.
