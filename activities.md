@@ -20,7 +20,6 @@ Competition Organization
 
 Conference Service
 ======
-* Tutorial Chair for CCBR 2022.
 * Area Chair for ACM MM 2020, 2021.
 * Program Committee for CVPR, ICCV, ECCV, AAAI, FG, ICB.
 * Reviewer for IJCV, TIP, TMM, TIFS, TSVCT, PR, Neurocomputing.
