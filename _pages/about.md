@@ -19,7 +19,7 @@ About me
 
 News!
 ======
-* Mar. 2022: One paper working on </strong>Capsule Network</strong> accepted by CVPR 2022.
+* Mar. 2022: One paper working on **Capsule Network** accepted by CVPR 2022.
 * Jan. 2022: One paper accepted by ICLR 2022.
 * Jan. 2022: Obtain Second Class Prize of the Science and Technology Award, Chinese Institute of Electronics.
 
