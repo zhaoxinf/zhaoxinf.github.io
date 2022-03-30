@@ -21,7 +21,7 @@ ___
     <p>
       <strong>Beyond 3DMM: Learning to Capture High-fidelity 3D Face Shape,</strong><br/>
       <strong>Xiangyu Zhu</strong>, Chang Yu, Di Huang, Zhen Lei, Hao Wang, Stan Z. Li<br/>
-      IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2022.<br/>
+      IEEE Transactions on Pattern Analysis and Machine Intelligence (**PAMI**), 2022.<br/>
       [<a href="https://arxiv.org/abs/2203.10699">PDF</a>]
     </p>
   </div>
@@ -39,7 +39,7 @@ ___
     <p>
       <strong>HP-Capsule: Unsupervised Face Part Discovery by Hierarchical Parsing Capsule Network,</strong><br/>
       Chang Yu, <strong>Xiangyu Zhu</strong>, Xiaomei Zhang, Zidu Wang, Zhaoxiang Zhang, Zhen Lei<br/>
-     IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022.<br/>
+     IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2022.<br/>
       [<a href="https://arxiv.org/abs/2203.10699">PDF</a>]
     </p>
   </div>
@@ -56,7 +56,7 @@ ___
     <p>
       <strong>Object Dynamics Distillation for Scene Decomposition and Representation,</strong><br/>
       Qu Tang, <strong>Xiangyu Zhu</strong>, Zhen Lei, Zhaoxiang Zhang,<br/>
-     International Conference on Learning Representations (ICLR) , 2022.<br/>
+     International Conference on Learning Representations (**ICLR**) , 2022.<br/>
       [<a href="https://openreview.net/forum?id=oJGDYQFKL3i">PDF</a>]
     </p>
   </div>
@@ -74,7 +74,7 @@ ___
       <strong>Deconfounding Physical Dynamics with Global Causal Relation and Confounder
 Transmission for Counterfactual Prediction,</strong><br/>
       Zongzhao Li, <strong>Xiangyu Zhu</strong>, Zhen Lei, Zhaoxiang Zhang,<br/>
-     36th Annual AAAI Conference on Artificial Intelligence (AAAI), 2022.<br/>
+     36th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2022.<br/>
       [<a href="https://xiangyuzhu-open.github.io/homepage/files/2022-aaai-li.pdf">PDF</a>]
     </p>
   </div>
@@ -100,7 +100,7 @@ ___
     <p>
       <strong>Face Forgery Detection by 3D Decomposition,</strong><br/>
       <strong>Xiangyu Zhu</strong>, Hao Wang, Hongyan Fei, Zhen Lei, Stan Z. Li.<br/>
-      IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021.<br/>
+      IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2021.<br/>
       [<a href="https://xiangyuzhu-open.github.io/homepage/files/cvpr21face.pdf">PDF</a>]
     </p>
   </div>
@@ -117,7 +117,7 @@ ___
     <p>
       <strong>Decomposed Meta Batch Normalization for Fast Domain Adaptation in Face Recognition,</strong><br/>
       Jianzhu Guo, <strong>Xiangyu Zhu</strong>, Zhen Lei, Stan Z Li. (co-first author)<br/>
-      IEEE Transactions on Information Forensics and Security (TIFS), 2021.<br/>
+      IEEE Transactions on Information Forensics and Security (**TIFS**), 2021.<br/>
       [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/TIFS21decomposed.pdf">PDF</a>]
     </p>
   </div>
@@ -134,7 +134,7 @@ ___
     <p>
       <strong>Multi-initialization Optimization Network for Accurate 3D Human Pose and Shape Estimation,</strong><br/>
       Zhiwei Liu*, <strong>Xiangyu Zhu</strong>*, Ming Tang, Zhen Lei, Jinqiao Wang. (co-first author)<br/>
-      ACM International Conference on Multimedia (MM), 2021.<br/>
+      ACM International Conference on Multimedia (**MM**), 2021.<br/>
       [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/MM21multi.pdf">PDF</a>]
     </p>
   </div>
@@ -151,7 +151,7 @@ ___
     <p>
       <strong>3D Context-Aware PIFu for Clothed Human Reconstruction,</strong><br/>
       Tingting Liao, <strong>Xiangyu Zhu</strong>, Zhen Lei, and Stan Z. Li. (co-first author) <br/>
-      Chinese Conference on Biometrics Recognition (CCBR), 2021.<br/>
+      Chinese Conference on Biometrics Recognition (**CCBR**), 2021.<br/>
       [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/CCBR21face.pdf">PDF</a>]
     </p>
   </div>
@@ -173,7 +173,7 @@ ___
     <p>
       <strong>Beyond 3DMM Space: Towards Fine-grained 3D Face Reconstruction,</strong><br/>
       <strong>Xiangyu Zhu</strong>, Fan Yang, Di Huang, Chang Yu, Hao Wang, Jianzhu Guo, Zhen Lei, Stan Z. Li.<br/>
-      In European Conference on Computer Vision (ECCV), 2020.<br/>
+      In European Conference on Computer Vision (**ECCV**), 2020.<br/>
      [<a href="https://xiangyuzhu-open.github.io/homepage/files/2020beyond.pdf">PDF</a>] [<a href="https://github.com/XiangyuZhu-open/Beyond3DMM">Github</a>]
     </p>
   </div>
@@ -190,7 +190,7 @@ ___
     <p>
       <strong>Towards Fast, Accurate and Stable 3D Dense Face Alignment,</strong><br/>
       Jianzhu Guo, <strong>Xiangyu Zhu</strong>, Yang Yang, Fan Yang, Zhen Lei, Stan Z. Li. (co-first author).<br/>
-      In European Conference on Computer Vision (ECCV), 2020. <br/> 
+      In European Conference on Computer Vision (**ECCV**), 2020. <br/> 
      [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/2020towards.pdf">PDF</a>] [<a href="https://github.com/cleardusk/3DDFA_V2">Github</a>]
     </p>
   </div>
@@ -207,7 +207,7 @@ ___
     <p>
       <strong>Domain Balancing: Face Recognition on Long-Tailed Domains,</strong><br/>
       Dong Cao, <strong>Xiangyu Zhu</strong>, Xingyu Huang, Jianzhu Guo, Zhen Lei (co-first author).<br/>
-      IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020. <br/>
+      IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020. <br/>
      [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/2020domain.pdf">PDF</a>]
     </p>
   </div>
@@ -224,7 +224,7 @@ ___
     <p>
       <strong>Learning Meta Face Recognition in Unseen Domains,</strong><br/>
       Jianzhu Guo, <strong>Xiangyu Zhu</strong>, Chenxu Zhao, Dong Cao, Zhen Lei, Stan Z. Li.<br/>
-      IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.<br/> 
+      IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020.<br/> 
      [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/2020learning.pdf">PDF</a>]
     </p>
   </div>
@@ -242,7 +242,7 @@ ___
     <p>
       <strong>Deep spatial gradient and temporal depth learning for face anti-spoofing,</strong><br/>
       Zezheng Wang, Zitong Yu, Chenxu Zhao, <strong>Xiangyu Zhu</strong>, Yunxiao Qin, Qiusheng Zhou, Feng Zhou, Zhen Lei.<br/>
-      IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.<br/> 
+      IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2020.<br/> 
      [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/cvpr20deep.pdf">PDF</a>]
     </p>
   </div>
@@ -260,7 +260,7 @@ ___
     <p>
       <strong>Learning Meta Model for Zero-and Few-shot Face Anti-spoofing,</strong><br/>
       Yunxiao Qin, Chenxu Zhao, <strong>Xiangyu Zhu</strong>, Zezheng Wang, Zitong Yu, Tianyu Fu, Feng Zhou, Jingping Shi, Zhen Lei.<br/>
-      AAAI Conference on Artificial Intelligence (AAAI). 2020.<br/> 
+      AAAI Conference on Artificial Intelligence (**AAAI**). 2020.<br/> 
      [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/aaai19learning.pdf">PDF</a>]
     </p>
   </div>
