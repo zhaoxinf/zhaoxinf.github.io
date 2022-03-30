@@ -153,7 +153,7 @@ ___
       <strong>Beyond 3DMM Space: Towards Fine-grained 3D Face Reconstruction,</strong><br/>
       <strong>Xiangyu Zhu</strong>, Fan Yang, Di Huang, Chang Yu, Hao Wang, Jianzhu Guo, Zhen Lei, Stan Z. Li.<br/>
       In European Conference on Computer Vision (ECCV), 2020.<br/>
-     [<a href="https://xiangyuzhu-open.github.io/homepage/files/2020beyond.pdf">PDF</a>]
+     [<a href="https://xiangyuzhu-open.github.io/homepage/files/2020beyond.pdf">PDF</a>] [<a href="https://github.com/XiangyuZhu-open/Beyond3DMM">Github</a>]
     </p>
   </div>
 </div>
@@ -170,7 +170,7 @@ ___
       <strong>Towards Fast, Accurate and Stable 3D Dense Face Alignment,</strong><br/>
       Jianzhu Guo, <strong>Xiangyu Zhu</strong>, Yang Yang, Fan Yang, Zhen Lei, Stan Z. Li. (co-first author).<br/>
       In European Conference on Computer Vision (ECCV), 2020. <br/> 
-     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/2020towards.pdf">PDF</a>] [<a href="https://github.com/XiangyuZhu-open/Beyond3DMM">Github</a>]
+     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/2020towards.pdf">PDF</a>] [<a href="https://github.com/cleardusk/3DDFA_V2">Github</a>]
     </p>
   </div>
 </div>
