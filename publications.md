@@ -8,6 +8,25 @@ author_profile: true
 
 2022
 ======
+
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2022-pami-zhu.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>HP-Capsule: Beyond 3DMM: Learning to Capture High-fidelity 3D Face Shape,</strong><br/>
+      <strong>Xiangyu Zhu</strong>, Chang Yu, Di Huang, Zhen Lei, Hao Wang, Stan Z. Li<br/>
+      IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2022.<br/>
+      [<a href="https://arxiv.org/abs/2203.10699">PDF</a>]
+    </p>
+  </div>
+</div>
+
 ___
 
 <div class="row">
