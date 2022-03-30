@@ -56,7 +56,7 @@ ___
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>Object Dynamics Distillation for Scene Decomposition and Representation,</strong><br/>
+      <strong>HP-Capsule: Unsupervised Face Part Discovery by Hierarchical Parsing Capsule Network,</strong><br/>
       Chang Yu, <strong>Xiangyu Zhu</strong>, Xiaomei Zhang, Zidu Wang, Zhaoxiang Zhang, Zhen Lei<br/>
      IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022.<br/>
       [<a href="https://arxiv.org/abs/2203.10699">PDF</a>]
