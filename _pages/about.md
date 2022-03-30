@@ -48,6 +48,7 @@ Work experience
 Selected Publications
 ======
 
+
 ___
 
 <div class="row">
@@ -57,7 +58,7 @@ ___
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>HP-Capsule: Beyond 3DMM: Learning to Capture High-fidelity 3D Face Shape,</strong><br/>
+      <strong>Beyond 3DMM: Learning to Capture High-fidelity 3D Face Shape,</strong><br/>
       <strong>Xiangyu Zhu</strong>, Chang Yu, Di Huang, Zhen Lei, Hao Wang, Stan Z. Li<br/>
       IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2022.<br/>
       [<a href="https://arxiv.org/abs/2203.10699">PDF</a>]
@@ -65,7 +66,9 @@ ___
   </div>
 </div>
 
+
 ___
+
 
 <div class="row">
   <div class="column left">
