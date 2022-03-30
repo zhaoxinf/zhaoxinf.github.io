@@ -72,6 +72,24 @@ ___
 
 <div class="row">
   <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2022-cvpr-yu.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>HP-Capsule: Unsupervised Face Part Discovery by Hierarchical Parsing Capsule Network,</strong><br/>
+      Chang Yu, <strong>Xiangyu Zhu</strong>, Xiaomei Zhang, Zidu Wang, Zhaoxiang Zhang, Zhen Lei<br/>
+     IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022.<br/>
+      [<a href="https://arxiv.org/abs/2203.10699">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+
+<div class="row">
+  <div class="column left">
     <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/c1.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
