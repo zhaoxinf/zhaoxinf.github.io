@@ -93,7 +93,7 @@ ___
       <strong>Beyond 3DMM Space: Towards Fine-grained 3D Face Reconstruction,</strong><br/>
       <strong>Xiangyu Zhu</strong>, Fan Yang, Di Huang, Chang Yu, Hao Wang, Jianzhu Guo, Zhen Lei, Stan Z. Li.<br/>
       In European Conference on Computer Vision (ECCV), 2020.<br/>
-     [<a href="https://xiangyuzhu-open.github.io/homepage/files/2020beyond.pdf">PDF</a>]
+     [<a href="https://xiangyuzhu-open.github.io/homepage/files/2020beyond.pdf">PDF</a>][<a href="https://github.com/XiangyuZhu-open/Beyond3DMM">Github</a>]
     </p>
   </div>
 </div>
