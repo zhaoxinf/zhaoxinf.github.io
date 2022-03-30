@@ -19,6 +19,7 @@ About me
 
 News!
 ======
+* Mar. 2022: One paper working on </strong>Capsule Network</strong> accepted by CVPR 2022.
 * Jan. 2022: One paper accepted by ICLR 2022.
 * Jan. 2022: Obtain Second Class Prize of the Science and Technology Award, Chinese Institute of Electronics.
 
@@ -45,6 +46,23 @@ Work experience
 
 Selected Publications
 ======
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2022-cvpr-yu.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Object Dynamics Distillation for Scene Decomposition and Representation,</strong><br/>
+      Chang Yu, <strong>Xiangyu Zhu</strong>, Xiaomei Zhang, Zidu Wang, Zhaoxiang Zhang, Zhen Lei<br/>
+     IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022.<br/>
+      [<a href="https://arxiv.org/abs/2203.10699">PDF</a>]
+    </p>
+  </div>
+</div>
 
 ___
 
