@@ -19,6 +19,7 @@ About me
 
 News!
 ======
+* Apr. 2022: My first-author paper is accepted by PAMI.
 * Mar. 2022: One paper working on **Capsule Network** accepted by CVPR 2022.
 * Jan. 2022: One paper accepted by ICLR 2022.
 * Jan. 2022: Obtain Second Class Prize of the Science and Technology Award, Chinese Institute of Electronics.
@@ -51,14 +52,14 @@ ___
 
 <div class="row">
   <div class="column left">
-    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2022-cvpr-yu.png?raw=true">  
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2022-pami-zhu.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>HP-Capsule: Unsupervised Face Part Discovery by Hierarchical Parsing Capsule Network,</strong><br/>
-      Chang Yu, <strong>Xiangyu Zhu</strong>, Xiaomei Zhang, Zidu Wang, Zhaoxiang Zhang, Zhen Lei<br/>
-     IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022.<br/>
+      <strong>HP-Capsule: Beyond 3DMM: Learning to Capture High-fidelity 3D Face Shape,</strong><br/>
+      <strong>Xiangyu Zhu</strong>, Chang Yu, Di Huang, Zhen Lei, Hao Wang, Stan Z. Li<br/>
+      IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2022.<br/>
       [<a href="https://arxiv.org/abs/2203.10699">PDF</a>]
     </p>
   </div>
