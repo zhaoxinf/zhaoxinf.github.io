@@ -98,7 +98,28 @@ ___
   </div>
 </div>
 
+
 ___
+
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="https://xiangyuzhu-open.github.io/homepage/pic/c5.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Towards Fast, Accurate and Stable 3D Dense Face Alignment,</strong><br/>
+      Jianzhu Guo, <strong>Xiangyu Zhu</strong>, Yang Yang, Fan Yang, Zhen Lei, Stan Z. Li. (co-first author).<br/>
+      In European Conference on Computer Vision (ECCV), 2020. <br/> 
+     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/2020towards.pdf">PDF</a>] [<a href="https://github.com/cleardusk/3DDFA_V2">Github</a>]
+    </p>
+  </div>
+</div>
+
+
+___
+
 
 <div class="row">
   <div class="column left">
