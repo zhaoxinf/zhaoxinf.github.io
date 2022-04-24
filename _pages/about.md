@@ -19,7 +19,7 @@ About me
 
 News!
 ======
-* Apr. 2022: I am supported by Tencent AI Lab Rhino-Bird Focused Research Program （腾讯AI Lab犀牛鸟专项研究计划）.
+* Apr. 2022: I am supported by Tencent AI Lab Rhino-Bird Focused Research Program. （腾讯AI Lab犀牛鸟专项研究计划）
 * Apr. 2022: My paper (first author) is accepted by **PAMI**.
 * Mar. 2022: One paper working on **Capsule Network** accepted by CVPR 2022.
 * Jan. 2022: One paper accepted by **ICLR** 2022.
