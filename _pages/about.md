@@ -19,6 +19,7 @@ About me
 
 News!
 ======
+* Apr. 2022: I am supported by Tencent AI Lab Rhino-Bird Focused Research Program (腾讯AI Lab犀牛鸟专项研究计划).
 * Apr. 2022: My first-author paper is accepted by **PAMI**.
 * Mar. 2022: One paper working on **Capsule Network** accepted by CVPR 2022.
 * Jan. 2022: One paper accepted by **ICLR** 2022.
@@ -224,6 +225,7 @@ ___
 
 Honors & Awards
 ======
+* 2022 Supported by Tencent AI Lab Rhino-Bird Focused Research Program (腾讯AI Lab犀牛鸟专项研究计划).
 * 2021 Young Elite Scientist Sponsorship Program by Beijing Association for Science and Technology (北京科协青年人才托举工程) 
 * 2021 Second Class Prize of the Science and Technology Award, Chinese Institute of Electronics （中国电子学会科学技术二等奖）.
 * 2020 Member of the Youth Innovation Promotion Association, Chinese Academy of Sciences. （中国科学院青年创新促进会）
