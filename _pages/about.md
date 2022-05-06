@@ -19,7 +19,7 @@ About me
 
 News!
 ======
-* Mar. 2022: I am select by Baidu Xueshu 2022 Chinese Young AI Scholars List. (百度学术AI华人青年学者榜单)
+* Mar. 2022: I am selected by Baidu Xueshu 2022 Chinese Young AI Scholars List. (百度学术AI华人青年学者榜单)
 * Apr. 2022: I am supported by Tencent AI Lab Rhino-Bird Focused Research Program. （腾讯AI Lab犀牛鸟专项研究计划）
 * Apr. 2022: My paper (first author) is accepted by **PAMI**.
 * Mar. 2022: One paper working on **Capsule Network** accepted by CVPR 2022.
