@@ -12,6 +12,6 @@ Ph.D
 
 Master
 ======
-* Zido Wang, work on 3D face.
+* Zidu Wang, work on 3D face.
 * ZongZhao Li, work on visual reasoning (together with Prof. Zhen Lei)
 * Tingting Liao, work on 3D human. (together with Prof. Zhen Lei)
