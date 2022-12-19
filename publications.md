@@ -5,10 +5,30 @@ permalink: /publications/
 author_profile: true
 ---
 
+2023
+=====
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2022-aaai-zhao.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Grouped Knowledge Distillation For Deep Face Recognition,</strong><br/>
+      Weisong Zhao, <strong>Xiangyu Zhu</strong>, Kaiwen Guo, Xiao-Yu Zhang, Zhen Lei<br/>
+      Association for the Advancement of Artificial Intelligence (<strong>AAAI</strong>), 2023.<br/>
+      [<a href="https://xiangyuzhu-open.github.io/homepage/files/2022-aaai-zhao.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+
+
 
 2022
 ======
-
 
 ___
 
