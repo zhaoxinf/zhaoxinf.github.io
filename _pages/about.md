@@ -20,7 +20,7 @@ About me
 News!
 ======
 * Feb. 2023: My paper (first author) is accepted by **T-PAMI**.
-* Mar. 2022: I am selected by Baidu Xueshu 2022 Global Top Chinese Young Scholars in AI. （<a href="https://xueshu.baidu.com/usercenter/index/aischolar2022">百度学术2022年全球华人AI青年学者榜单</a>）
+* May. 2022: I am selected by Baidu Xueshu 2022 Global Top Chinese Young Scholars in AI. （<a href="https://xueshu.baidu.com/usercenter/index/aischolar2022">百度学术2022年全球华人AI青年学者榜单</a>）
 * Apr. 2022: I am supported by Tencent AI Lab Rhino-Bird Focused Research Program. （腾讯AI Lab犀牛鸟专项研究计划）
 * Apr. 2022: My paper (first author) is accepted by **T-PAMI**.
 * Mar. 2022: One paper working on **Capsule Network** accepted by CVPR 2022.
@@ -63,7 +63,7 @@ ___
     <p>
       <strong>Face Forgery Detection by 3D Decomposition and Composition Search,</strong><br/>
       <strong>Xiangyu Zhu</strong>, Hongyan Fei, Bin Zhang, Tianshuo Zhang, Xiaoyu Zhang, Stan Z. Li, Zhen Lei<br/>
-      IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>T-PAMI</strong>), 2022.<br/>
+      IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>T-PAMI</strong>), 2023.<br/>
       [<a href="https://ieeexplore.ieee.org/abstract/document/10005010/">PDF</a>]
     </p>
   </div>
