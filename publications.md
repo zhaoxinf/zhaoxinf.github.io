@@ -18,7 +18,7 @@ ___
     <p>
       <strong>Face Forgery Detection by 3D Decomposition and Composition Search,</strong><br/>
       <strong>Xiangyu Zhu</strong>, Hongyan Fei, Bin Zhang, Tianshuo Zhang, Xiaoyu Zhang, Stan Z. Li, Zhen Lei<br/>
-      IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>T-PAMI</strong>), 2022.<br/>
+      IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>T-PAMI</strong>), 2023.<br/>
       [<a href="https://ieeexplore.ieee.org/abstract/document/10005010/">PDF</a>]
     </p>
   </div>
