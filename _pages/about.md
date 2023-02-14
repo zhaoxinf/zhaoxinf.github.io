@@ -245,7 +245,7 @@ ___
 
 Honors & Awards
 ======
-* 2022 CCBR Best Poster Paper
+* 2022 CCBR Best Poster Paper Award.
 * 2022 Baidu Xueshu 2022 Global Top Chinese Young Scholars in AI. （<a href="https://xueshu.baidu.com/usercenter/index/aischolar2022">百度学术2022年全球华人AI青年学者榜单</a>）
 * 2022 Tencent AI Lab Rhino-Bird Focused Research Program. （腾讯AI Lab犀牛鸟专项研究计划）
 * 2021 Second Class Prize of the Science and Technology Award, Chinese Institute of Electronics. （中国电子学会科学技术二等奖）
