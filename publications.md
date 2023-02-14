@@ -41,6 +41,7 @@ ___
   </div>
 </div>
 
+___
 
 
 2022
@@ -118,8 +119,23 @@ Transmission for Counterfactual Prediction,</strong><br/>
 
 ___
 
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2023-ccbr-zhang.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Face Forgery Detection by Multi-dimensional Image Decomposition,</strong><br/>
+      Tianshuo Zhang, <strong>Xiangyu Zhu</strong>, Feng Pan, Ke Xiang, and Zhen Lei<br/>
+      The 16th Chinese Conference on Biometric Recognition(<strong>CCBR</strong>), 2022.<br/>
+      <strong>Best Poster Paper Award</strong><br/>
+      [<a href="https://xiangyuzhu-open.github.io/homepage/files/2022-ccbr-zhang.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
 
-
+___
 
 
 2021
