@@ -28,6 +28,77 @@ ___
 
 <div class="row">
   <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2023-cvpr-yu.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Graphics Capsule: Learning Hierarchical 3D Face Representations from 2D Images,</strong><br/>
+      <strong>Chang Yu, <strong>Xiangyu Zhu</strong>, Xiaomei Zhang, Zhaoxiang Zhang, Zhen Lei (corresponding author)<br/>
+      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023.<br/>
+      [<a href="https://arxiv.org/abs/2303.10896">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2023-cvpr-tang.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Intrinsic Physical Concepts Discovery with Object-Centric Predictive Models,</strong><br/>
+      Qu Tang, <strong>Xiangyu Zhu</strong>, Zhen Lei, ZhaoXiang Zhang<br/>
+      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023.<br/>
+      [<a href="https://arxiv.org/abs/2303.01869">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2023-cvpr-ma.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>OTAvatar: One-shot Talking Face Avatar with Controllable Tri-plane Rendering,</strong><br/>
+      Zhiyuan Ma, <strong>Xiangyu Zhu</strong>, Guojun Qi, Zhen Lei, Lei Zhang<br/>
+      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023.<br/>
+      [<a href="https://arxiv.org/abs/2303.14662">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2023-cvpr-liao.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>High-Fidelity Clothed Avatar Reconstruction from a Single Image,</strong><br/>
+      Tingting Liao, Xiaomei Zhang, Yuliang Xiu, Hongwei Yi, Xudong Liu,Guo-Jun Qi, Yong Zhang, Xuan Wang, <strong>Xiangyu Zhu</strong>, Zhen Lei<br/>
+      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023.<br/>
+    </p>
+  </div>
+</div>
+
+___
+
+
+<div class="row">
+  <div class="column left">
     <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2023-aaai-zhao.png?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
@@ -168,7 +239,7 @@ ___
   <div class="column right">
     <p>
       <strong>Decomposed Meta Batch Normalization for Fast Domain Adaptation in Face Recognition,</strong><br/>
-      Jianzhu Guo, <strong>Xiangyu Zhu</strong>, Zhen Lei, Stan Z Li. (co-first author)<br/>
+      Jianzhu Guo, <strong>Xiangyu Zhu</strong>, Zhen Lei, Stan Z Li. <br/>
       IEEE Transactions on Information Forensics and Security (<strong>TIFS</strong>), 2021.<br/>
       [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/TIFS21decomposed.pdf">PDF</a>]
     </p>
@@ -202,7 +273,7 @@ ___
   <div class="column right">
     <p>
       <strong>3D Context-Aware PIFu for Clothed Human Reconstruction,</strong><br/>
-      Tingting Liao, <strong>Xiangyu Zhu</strong>, Zhen Lei, and Stan Z. Li. (co-first author) <br/>
+      Tingting Liao, <strong>Xiangyu Zhu</strong>, Zhen Lei, and Stan Z. Li. <br/>
       Chinese Conference on Biometrics Recognition (<strong>CCBR</strong>), 2021.<br/>
       [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/CCBR21face.pdf">PDF</a>]
     </p>
@@ -347,7 +418,7 @@ ___
   <div class="column right">
     <p>
       <strong>Out-of-Distribution Detection for Reliable Face Recognition,</strong><br/>
-      Chang Yu, <strong>Xiangyu Zhu</strong>, Zhen Lei, Stan Z Li. (co-first author).<br/>
+      Chang Yu, <strong>Xiangyu Zhu</strong>, Zhen Lei, Stan Z Li.<br/>
       IEEE Signal Processing Letters (<strong>SPL</strong>)，2020.<br/>
       [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/spl20out.pdf">PDF</a>]
     </p>
