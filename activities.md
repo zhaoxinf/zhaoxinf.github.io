@@ -23,6 +23,7 @@ Competition Organization
 
 Conference Service
 ======
-* Area Chair for ACM MM 2020, 2021.
+* Area Chair for IJCB 2023.
+* Area Chair for ACM MM 2020, 2021, 2022.
 * Program Committee for CVPR, ICCV, ECCV, AAAI, FG, ICB.
 * Reviewer for IJCV, TIP, TMM, TIFS, TSVCT, PR, Neurocomputing.
