@@ -5,6 +5,9 @@ permalink: /activities/
 author_profile: true
 ---
 
+Workshop
+======
+* "1st International Workshop and Challenge on People Analysis: From Face, Body and Fashion to 3D Virtual Avatars" in ECCV 2022 [<a href="https://sites.google.com/view/wcpa2022/">Link</a>]
 
 Tutorial
 ======
