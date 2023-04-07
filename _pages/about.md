@@ -13,7 +13,7 @@ About me
 
 * I am now an Associate Professor at National Laboratory of Pattern Recognition (NLPR), Institute of Automation Chinese Academic of Sciences (CASIA).
 * My research interest includes machine learning and pattern recognition, especially **3D face reconstruction**, **face antispoofing** and **face recognition**.
-* **Looking for talents working on 3D face/body reconstruction, biometrics, and AI fundamental. If you are interested, please send me an email with your CV.** (欢迎报考研究生的同学联系我。)
+* **Looking for talents working on 3D face/body reconstruction, biometrics, and AI fundamental. If you are interested, please send me an email with your CV.** 
 
 <br>
 
