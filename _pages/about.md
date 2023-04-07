@@ -22,7 +22,6 @@ News!
 * Mar. 2023: Four papers are accepted by **CVPR**. Congrats to all collaborators!
 * Feb. 2023: We won the Best Poster Paper in CCBR2022. Congrats to Tianshuo!
 * Feb. 2023: My paper (first author) is accepted by **T-PAMI**.
-* Feb. 2023: CCBR 2022 Best Poster Paper Award.
 * May. 2022: I am selected by Baidu Xueshu 2022 Global Top Chinese Young Scholars in AI. （<a href="https://xueshu.baidu.com/usercenter/index/aischolar2022">百度学术2022年全球华人AI青年学者榜单</a>）
 * Apr. 2022: I am supported by Tencent AI Lab Rhino-Bird Focused Research Program. （腾讯AI Lab犀牛鸟专项研究计划）
 * Apr. 2022: My paper (first author) is accepted by **T-PAMI**.
