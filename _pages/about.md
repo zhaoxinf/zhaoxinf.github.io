@@ -41,10 +41,10 @@ Education
 Work experience
 ======
 * 2019～now: Associate Professor
-  * Institute of Automation, Chinese Academy of Sciences
+  * National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
 
 * 2017～2019: Assistant Professor
-  * Institute of Automation, Chinese Academy of Sciences
+  * National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
 
 <br>
 
@@ -265,6 +265,7 @@ ___
 
 Honors & Awards
 ======
+* IEEE Senior Member
 * 2022 CCBR Best Poster Paper Award.
 * 2022 Baidu Xueshu 2022 Global Top Chinese Young Scholars in AI. （<a href="https://xueshu.baidu.com/usercenter/index/aischolar2022">百度学术2022年全球华人AI青年学者榜单</a>）
 * 2022 Tencent AI Lab Rhino-Bird Focused Research Program. （腾讯AI Lab犀牛鸟专项研究计划）
