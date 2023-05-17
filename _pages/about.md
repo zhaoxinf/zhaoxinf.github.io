@@ -83,7 +83,7 @@ ___
   <div class="column right">
     <p>
       <strong>Graphics Capsule: Learning Hierarchical 3D Face Representations from 2D Images,</strong><br/>
-      Chang Yu, <strong>Xiangyu Zhu</strong>, Xiaomei Zhang, Zhaoxiang Zhang, Zhen Lei <strong>(corresponding author)</strong><br/>
+      Chang Yu, <strong>Xiangyu Zhu (corresponding author)</strong>, Xiaomei Zhang, Zhaoxiang Zhang, Zhen Lei<br/>
       IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023.<br/>
       [<a href="https://arxiv.org/abs/2303.10896">PDF</a>]
     </p>
