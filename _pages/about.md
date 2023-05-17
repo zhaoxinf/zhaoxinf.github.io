@@ -19,7 +19,9 @@ About me
 
 News!
 ======
+* Mar. 2023: One paer is accepted by **TIP**. 
 * Mar. 2023: Four papers are accepted by **CVPR**. Congrats to all collaborators!
+* Mar. 2023: My paper (first author) is accepted by **TBIOM**. 
 * Feb. 2023: We won the Best Poster Paper in CCBR2022. Congrats to Tianshuo!
 * Feb. 2023: My paper (first author) is accepted by **T-PAMI**.
 * May. 2022: I am selected by Baidu Xueshu 2022 Global Top Chinese Young Scholars in AI. （<a href="https://xueshu.baidu.com/usercenter/index/aischolar2022">百度学术2022年全球华人AI青年学者榜单</a>）
@@ -85,6 +87,24 @@ ___
       Chang Yu, <strong>Xiangyu Zhu</strong>, Xiaomei Zhang, Zhaoxiang Zhang, Zhen Lei <strong>(corresponding author)</strong><br/>
       IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023.<br/>
       [<a href="https://arxiv.org/abs/2303.10896">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2023-tbiom-zhu.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>MVP-Human Dataset for 3D Clothed Human Avatar Reconstruction from Multiple Frames,</strong><br/>
+      <strong>Xiangyu Zhu</strong>, Tingting Liao, Xiaomei Zhang, Jiangjing Lyu, Zhiwen Chen, Yunfeng Wang, Kan Guo, Qiong Cao, Stan Z. Li, Zhen Lei<br/>
+      IEEE Transactions on Biometrics, Behavior, and Identity Science (<strong>TBIOM</strong>), 2023.<br/>
+      [<a href="https://arxiv.org/abs/2204.11184">PDF</a>]
     </p>
   </div>
 </div>
