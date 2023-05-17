@@ -19,7 +19,7 @@ About me
 
 News!
 ======
-* Mar. 2023: One paer is accepted by **TIP**, and my paper (first author) is accepted by **TBIOM**. 
+* Mar. 2023: My paper (first author) is accepted by **TBIOM**, and one paper is accepted by **TIP**. 
 * Mar. 2023: Four papers are accepted by **CVPR**. Congrats to all collaborators!
 * Feb. 2023: We won the Best Poster Paper in CCBR2022. Congrats to Tianshuo!
 * Feb. 2023: My paper (first author) is accepted by **T-PAMI**.
