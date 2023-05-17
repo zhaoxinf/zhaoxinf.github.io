@@ -26,6 +26,43 @@ ___
 
 ___
 
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2023-tbiom-zhu.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>MVP-Human Dataset for 3D Clothed Human Avatar Reconstruction from Multiple Frames,</strong><br/>
+      <strong>Xiangyu Zhu</strong>, Tingting Liao, Xiaomei Zhang, Jiangjing Lyu, Zhiwen Chen, Yunfeng Wang, Kan Guo, Qiong Cao, Stan Z. Li, Zhen Lei<br/>
+      IEEE Transactions on Biometrics, Behavior, and Identity Science (<strong>TBIOM</strong>), 2023.<br/>
+      [<a href="https://arxiv.org/abs/2204.11184">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2023-tip-kao.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Towards 3D Face Reconstruction in Perspective Projection: Estimating 6DoF Face Pose from Monocular Image,</strong><br/>
+      Yueying Kao, Bowen Pan, Miao Xu, Jiangjing Lyu, <strong>Xiangyu Zhu</strong>, Yuanzhang Chang, Xiaobo Li, and Zhen Lei <strong>(corresponding author)</strong><br/>
+      IEEE Transactions on Image Processing (<strong>TIP</strong>), 2023.<br/>
+      [<a href="https://arxiv.org/pdf/2205.04126.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+
+
 <div class="row">
   <div class="column left">
     <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2023-cvpr-yu.png?raw=true">  
