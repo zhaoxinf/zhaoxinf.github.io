@@ -37,7 +37,7 @@ ___
       <strong>MVP-Human Dataset for 3D Clothed Human Avatar Reconstruction from Multiple Frames,</strong><br/>
       <strong>Xiangyu Zhu</strong>, Tingting Liao, Xiaomei Zhang, Jiangjing Lyu, Zhiwen Chen, Yunfeng Wang, Kan Guo, Qiong Cao, Stan Z. Li, Zhen Lei<br/>
       IEEE Transactions on Biometrics, Behavior, and Identity Science (<strong>TBIOM</strong>), 2023.<br/>
-      [<a href="https://arxiv.org/abs/2204.11184">PDF</a>]
+      [<a href="https://arxiv.org/abs/2204.11184">PDF</a>][<a href="https://github.com/TingtingLiao/MVPHuman">Github</a>]
     </p>
   </div>
 </div>
@@ -52,9 +52,9 @@ ___
   <div class="column right">
     <p>
       <strong>Towards 3D Face Reconstruction in Perspective Projection: Estimating 6DoF Face Pose from Monocular Image,</strong><br/>
-      Yueying Kao, Bowen Pan, Miao Xu, Jiangjing Lyu, <strong>Xiangyu Zhu</strong>, Yuanzhang Chang, Xiaobo Li, and Zhen Lei <strong>(corresponding author)</strong><br/>
+      Yueying Kao, Bowen Pan, Miao Xu, Jiangjing Lyu, <strong>Xiangyu Zhu (corresponding author)</strong>, Yuanzhang Chang, Xiaobo Li, and Zhen Lei<br/>
       IEEE Transactions on Image Processing (<strong>TIP</strong>), 2023.<br/>
-      [<a href="https://arxiv.org/pdf/2205.04126.pdf">PDF</a>]
+      [<a href="https://arxiv.org/pdf/2205.04126.pdf">PDF</a>][<a href="https://github.com/cbsropenproject/6dof_face">Github</a>]
     </p>
   </div>
 </div>
@@ -71,7 +71,7 @@ ___
   <div class="column right">
     <p>
       <strong>Graphics Capsule: Learning Hierarchical 3D Face Representations from 2D Images,</strong><br/>
-      Chang Yu, <strong>Xiangyu Zhu</strong>, Xiaomei Zhang, Zhaoxiang Zhang, Zhen Lei <strong>(corresponding author)</strong><br/>
+      Chang Yu, <strong>Xiangyu Zhu(corresponding author)</strong>, Xiaomei Zhang, Zhaoxiang Zhang, Zhen Lei<br/>
       IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023.<br/>
       [<a href="https://arxiv.org/abs/2303.10896">PDF</a>]
     </p>
