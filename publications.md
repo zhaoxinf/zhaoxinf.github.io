@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 * **EmoTalk: Speech-driven emotional disentanglement for 3D face animation** [[paper]](https://arxiv.org/pdf/2303.11089.pdf)[[code]](https://github.com/ZiqiaoPeng/EmoTalk)   
 Ziqiao Peng, Haoyu Wu, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**.  
 International Conference on Computer Vision, ICCV 2023.
@@ -111,7 +112,9 @@ Arxiv paper
 
 * **ACR-Pose: Adversarial Canonical Representation Reconstruction Network for Category Level 6D Object Pose Estimation** [[paper]](https://arxiv.org/pdf/2111.10524.pdf)    
 **Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
-Arxiv paper 
+Arxiv paper
+
+
 
 
 
