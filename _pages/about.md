@@ -111,7 +111,7 @@ Computer Graphics Forum, CGF 2020
 
 Group Outings
 ======
-![](../psyche.jpeg)
+![1](https://github.com/zhaoxinf/zhaoxinf.github.io/psyche.jpeg)
 
 <br>
 
