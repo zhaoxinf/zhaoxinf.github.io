@@ -109,6 +109,10 @@ Computer Graphics Forum, CGF 2020
 Computer Graphics Forum, CGF 2020 
 
 
+Group Outings
+======
+![](../psyche.jpeg)
+
 <br>
 
 
