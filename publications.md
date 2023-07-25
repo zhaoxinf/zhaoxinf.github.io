@@ -13,16 +13,10 @@ ICCV 2023
 Xueting Yang, Yihao Luo, Yuliang Xiu, Wei Wang, Hao Xu, **Zhaoxin Fan(corresponding author)**.  
 ICCV 2023
 
-* **DenseMP: Unsupervised Dense Pre-training for Few-shot Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2307.09604.pdf)  
-**Jason Zhaoxin Fan**, Puquan Pan, Zeren Zhang, Ce Chen, Tianyang Wang, Siyang Zheng, and Min Xu.  
-Arxiv
 
-* **SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces** [[paper]](https://arxiv.org/pdf/2306.10799.pdf)  
-Ziqiao Peng, Yihao Luo, Yue Shi, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**.  
-Arxiv
 
 * **Deep Semantic-aware Remote Sensing Image Deblurring** [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0165168423001822)    
-Zhenbo Song, Zhenyuan Zhang, Feiyi Fang, **Zhaoxin Fan**, Jianfeng Lu 
+Zhenbo Song, Zhenyuan Zhang, Feiyi Fang, **Zhaoxin Fan**, Jianfeng Lu
 Signal Processing
 
 
@@ -64,7 +58,15 @@ PRCV 2022.
 
 * **Deep Learning on Monocular Object Pose Detection and Tracking: A Comprehensive Overview** [[paper]](https://arxiv.org/pdf/2105.14291.pdf)  
 **Zhaoxin Fan**, Yazhi Zhu, Yulin He, Qi Sun, Hongyan Liu, and Jun He  
-ACM Computing Surveys, 2022 (CSUR). 
+ACM Computing Surveys, 2022 (CSUR).
+
+* **DenseMP: Unsupervised Dense Pre-training for Few-shot Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2307.09604.pdf)  
+**Jason Zhaoxin Fan**, Puquan Pan, Zeren Zhang, Ce Chen, Tianyang Wang, Siyang Zheng, and Min Xu.  
+Arxiv
+
+* **SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces** [[paper]](https://arxiv.org/pdf/2306.10799.pdf)  
+Ziqiao Peng, Yihao Luo, Yue Shi, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**.  
+Arxiv
 
 * **SHLE: Devices Tracking and Depth Filtering for Stereo-based Height Limit Estimation** [[paper]](https://arxiv.org/pdf/2212.11538.pdf)[[code]](https://github.com/Yang-Kaixing/SHLE)    
 **Zhaoxin Fan**, Kaixing Yang, Min Zhang, Zhenbo Song, Hongyan Liu, and Jun He  
