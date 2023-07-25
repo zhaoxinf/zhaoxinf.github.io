@@ -13,10 +13,10 @@ International Conference on Computer Vision, ICCV 2023.
 Xueting Yang, Yihao Luo, Yuliang Xiu, Wei Wang, Hao Xu, **Zhaoxin Fan(corresponding author)**.  
 International Conference on Computer Vision, ICCV 2023.
 
-* **Deep Semantic-aware Remote Sensing Image Deblurring** [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0165168423001822)
-Zhenbo Song, Zhenyuan Zhang, Feiyi Fang, **Zhaoxin Fan**, Jianfeng Lu.  
-Signal Processing, 2023.
 
+* **Deep Semantic-aware Remote Sensing Image Deblurring** [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0165168423001822)  
+Zhenbo Song, Zhenyuan Zhang, Feiyi Fang, **Zhaoxin Fan**, Jianfeng Lu  
+Signal Processing, 2023.
 
 * **Reconstruction-Aware Prior Distillation for Semi-supervised Point Cloud Completion** [[paper]](https://arxiv.org/pdf/2204.09186.pdf)  
 **Zhaoxin Fan**, Yulin He, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
@@ -50,8 +50,9 @@ European Conference on Computer Vision-the 3rd Autonomous Vehicle Vision Worksho
 Haoyi Zhu, Chuting Wang, Yuanxin Wang, **Zhaoxin Fan**, Mostofa Rafid Uddin, Xin Gao, Jing Zhang, Xiangrui Zeng and Min Xu  
 IEEE International Conference on Information Processing, ICIP 2022.
 
-* **PilotAttnNet: Multi-Modal Attention Network for End-to-End Steering Control** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-18913-5_14)    
-Jincan Zhang, Zhenbo Song, Jianfeng Lu, Xingwei Qu, **Zhaoxin Fan** 
+
+* **PilotAttnNet: Multi-Modal Attention Network for End-to-End Steering Control** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-18913-5_14) 
+Jincan Zhang, Zhenbo Song, Jianfeng Lu, Xingwei Qu, **Zhaoxin Fan**  
 Chinese Conference on Pattern Recognition and Computer Vision, PRCV 2022.
 
 * **Deep Learning on Monocular Object Pose Detection and Tracking: A Comprehensive Overview** [[paper]](https://arxiv.org/pdf/2105.14291.pdf)  
@@ -72,6 +73,10 @@ Computer Graphics Forum, CGF 2020.
 **Zhaoxin Fan**, Hongyan Liu, Jun He, Min Zhang, and Xiaoyong Du  
 2021 IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2021.
 
+
+* **DAGC: Employing Dual Attention and Graph Convolution for Point Cloud based Place Recognition** [[paper]](https://dl.acm.org/doi/abs/10.1145/3372278.3390693)  
+Qi Sun, Hongyan Liu, Jun He, **Zhaoxin Fan**, and Xiaoyong Du  
+2020 ACM International Conference on Multimedia Retrieval  (ICMR 2020)
 
 * **PointFPN: A Frustum-based Feature Pyramid Network for 3D Object Detection** [[paper]](https://ieeexplore.ieee.org/abstract/document/9288277)  
 **Zhaoxin Fan**, Hongyan Liu, Jun He, Siwei Jiang, and Xiaoyong Du  
@@ -112,6 +117,3 @@ Arxiv paper
 
 
 
-* **DAGC: Employing Dual Attention and Graph Convolution for Point Cloud based Place Recognition** [[paper]](https://dl.acm.org/doi/abs/10.1145/3372278.3390693)  
-Qi Sun, Hongyan Liu, Jun He, **Zhaoxin Fan**, and Xiaoyong Du  
-2020 ACM International Conference on Multimedia Retrieval  (ICMR 2020)
