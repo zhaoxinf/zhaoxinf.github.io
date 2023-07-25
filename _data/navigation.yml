@@ -6,8 +6,8 @@ main:
   - title: "Activities"
     url: /activities/     
     
-  - title: "Students"
-    url: /students/
+  - title: "Collaborator"
+    url: /Collaborator/
 
   - title: "Psyche AI Inc"
     url: https://www.psyai.com/home
