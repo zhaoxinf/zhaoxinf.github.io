@@ -46,26 +46,22 @@ Education
 
 Work experience
 ======
-* 2021～now:  Chief Young Scientist
-* Psyche AI Inc
+* 2021～now:  Chief Young Scientist, Psyche AI Inc
   * Human body reconstruction
   * Talking head
   * 3d foundation models
 
-* 2021～now: Remote algorithm researcher
-* Xreal
+* 2021～now: Remote algorithm researcher, Xreal
   * 6D object pose estimation
   * Point cloud completion
   * 3d foundation models
  
-* 2020～2021: Intern
-* Bytedance Inc
+* 2020～2021: Intern, Bytedance Inc
   * 6D object pose estimation
   * 3D object detection
   * 3D object tracking
  
-* 2020～2020: Intern
-* DeepGLInt
+* 2020～2020: Intern, DeepGLInt
    * 3D segmentation
    * 3D fault detection
 
