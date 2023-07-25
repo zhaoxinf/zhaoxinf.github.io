@@ -13,10 +13,8 @@ ICCV 2023
 Xueting Yang, Yihao Luo, Yuliang Xiu, Wei Wang, Hao Xu, **Zhaoxin Fan(corresponding author)**.  
 ICCV 2023
 
-
-
-* **Deep Semantic-aware Remote Sensing Image Deblurring** [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0165168423001822)    
-Zhenbo Song, Zhenyuan Zhang, Feiyi Fang, **Zhaoxin Fan**, Jianfeng Lu
+* **Deep Semantic-aware Remote Sensing Image Deblurring** [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0165168423001822)
+Zhenbo Song, Zhenyuan Zhang, Feiyi Fang, **Zhaoxin Fan**, Jianfeng Lu.  
 Signal Processing
 
 
