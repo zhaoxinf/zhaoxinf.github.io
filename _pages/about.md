@@ -11,7 +11,7 @@ redirect_from:
 About me
 ======
 
-* I am a PhD student at the Hong Kong University of Science, supervised by Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/) at HKUST. Additionally, I am a scholar at Carnegie Mellon University (CMU), working with Prof [Min Xu](https://xulabs.github.io/group/). I also serve as the director of the  [Psyche.AI AVATAR Lab](https://www.psyai.com/home).
+* I am a PhD student at the Hong Kong University of Science and Technology, supervised by Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/) at HKUST. Additionally, I am a scholar at Carnegie Mellon University (CMU), working with Prof [Min Xu](https://xulabs.github.io/group/). I also serve as the director of the  [Psyche.AI AVATAR Lab](https://www.psyai.com/home).
 
 * My dream is to use technology to change the world. Specifically, I hope to build robots and digital humans that are indistinguishable from real humans, with the goal of achieving artificial general intelligence. Prior to joining HKUST, I was a PhD student at Renmin University of China, co-supervised by Prof. [Jun He](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/758fdda1a0354792847b9e69d1289f6f.htm) from RUC and Prof. [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1210/32067.htm) from Tsinghua University (THU). Additionally, I have worked as a researcher at ByteDance, Neal, and DeepGLInt, focusing on computer vision research.
 
