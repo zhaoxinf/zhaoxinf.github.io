@@ -77,7 +77,7 @@ International Conference on Computer Vision, ICCV 2023
 
 * **D-IF: Uncertainty-aware Human Digitization via Implicit Distribution Field** [[paper]](https://arxiv.org/pdf/2303.11089.pdf)[[code]](https://github.com/ZiqiaoPeng/EmoTalk)   
 Xueting Yang, Yihao Luo, Yuliang Xiu, Wei Wang, Hao Xu, **Zhaoxin Fan(corresponding author)**.  
-International Conference on Computer Vision,,ICCV 2023
+International Conference on Computer Vision, ICCV 2023
 
 * **Reconstruction-Aware Prior Distillation for Semi-supervised Point Cloud Completion** [[paper]](https://arxiv.org/pdf/2204.09186.pdf)  
 **Zhaoxin Fan**, Yulin He, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
