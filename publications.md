@@ -120,8 +120,3 @@ Arxiv paper
 *  Chinese National Invention Patent:一种基于关键点映射的单目人体动作捕捉技术. 国家发明专利. 在申
 *  Chinese National Invention Patent:一种基于自监督语音-文本对齐的说话人唇形驱动方法. 国家发明专利. 在申
 *  Chinese National Invention Patent: 一种基于音频驱动的实时超写实数字人驱动方法. 国家发明专利. 在申
-
-
-
-
-
