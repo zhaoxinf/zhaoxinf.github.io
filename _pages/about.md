@@ -111,8 +111,7 @@ Computer Graphics Forum, CGF 2020
 
 Group Outings
 ======
-![Outing with members of Psyche AI Inc](https://github.com/zhaoxinf/zhaoxinf.github.io/tree/master/psyche.jpeg)
-
+<img src="https://github.com/zhaoxinf/zhaoxinf.github.io/tree/master/psyche.jpeg" width="500" height="600" />
 <br>
 
 
