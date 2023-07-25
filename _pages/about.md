@@ -109,9 +109,6 @@ Computer Graphics Forum, CGF 2020
 Computer Graphics Forum, CGF 2020 
 
 
-Group Outings
-======
-<img src="https://github.com/zhaoxinf/zhaoxinf.github.io/tree/master/psyche.jpeg" width="960" height="480" />
 <br>
 
 
