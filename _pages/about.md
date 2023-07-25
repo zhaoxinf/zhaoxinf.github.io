@@ -11,41 +11,52 @@ redirect_from:
 About me
 ======
 
-* I am now an Associate Professor at National Laboratory of Pattern Recognition (NLPR), Institute of Automation Chinese Academic of Sciences (CASIA).
-* My research interest includes machine learning and pattern recognition, especially **3D face/body reconstruction**, **face recognition**, and **neural network interpretability**.
-* **Looking for talents working on 3D face/body reconstruction, biometrics, and AI fundamental. If you are interested, please send me an email with your CV.** (欢迎报考研究生的同学联系我。课题组常年招收博士后（北京/香港）和优秀实习生。)
+* I am a PhD student at the Hong Kong University of Science, supervised by Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/) at HKUST. Additionally, I am a scholar at Carnegie Mellon University (CMU), working with Prof [Min Xu](https://xulabs.github.io/group/). I also serve as the director of the  [Psyche.AI AVATAR Lab](https://www.psyai.com/home).
+
+* My dream is to use technology to change the world. Specifically, I hope to build robots and digital humans that are indistinguishable from real humans, with the goal of achieving artificial general intelligence. Prior to joining HKUST, I was a PhD student at Renmin University of China, co-supervised by Prof. [Jun He](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/758fdda1a0354792847b9e69d1289f6f.htm) from RUC and Prof. [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1210/32067.htm) from Tsinghua University (THU). Additionally, I have worked as a researcher at ByteDance, Neal, and DeepGLInt, focusing on computer vision research.
+
+* My research interests lie in the areas of computer vision and machine learning, specifically in place recognition, 6D pose estimation, human body reconstruction, and medical image segmentation. Please feel free to contact me by email if you are interested in my research.
+
 
 <br>
 
 News!
 ======
-* Mar. 2023: My paper (first author) is accepted by **TBIOM**, and one paper is accepted by **TIP**. 
-* Mar. 2023: Four papers are accepted by **CVPR**. Congrats to all collaborators!
-* Feb. 2023: We won the Best Poster Paper in CCBR2022. Congrats to Tianshuo!
-* Feb. 2023: My paper (first author) is accepted by **T-PAMI**.
-* May. 2022: I am selected by Baidu Xueshu 2022 Global Top Chinese Young Scholars in AI. （<a href="https://xueshu.baidu.com/usercenter/index/aischolar2022">百度学术2022年全球华人AI青年学者榜单</a>）
-* Apr. 2022: I am supported by Tencent AI Lab Rhino-Bird Focused Research Program. （腾讯AI Lab犀牛鸟专项研究计划）
-* Apr. 2022: My paper (first author) is accepted by **T-PAMI**.
-* Mar. 2022: One paper working on **Capsule Network** accepted by CVPR 2022.
-* Jan. 2022: One paper accepted by **ICLR** 2022.
-* Jan. 2022: Obtain Second Class Prize of the Science and Technology Award, Chinese Institute of Electronics. （中国电子学会科学技术二等奖）
+* Two papers D-IF and Emo-Talk are accepted by ICCV 2023, one of the best conference in computer vision.
+*  Excited to annouce that one of our  papers has been accepted by signal processing, IF=4.729
+*  Excited to annouce that one of my papers has been accepted by IJCAI 2023.
+*  I am honored to have returned to Carnegie Mellon University as a visiting scholar.
+*  One of my papers has been accepted for presentation at CVPR 2023, which is considered one of the most prestigious computer vision conferences in the world.
+* I am thrilled to have had one of my papers accepted for presentation at ICRA 2023, which is a leading robotics conference.
+*  My research has been recognized at ECCV Workshop 2022, PRCV 2022, and ECCV 2022, all of which are highly-regarded international conferences in the field of computer vision.
+*  I am proud to have had a paper accepted for publication in the ACM Computing Surveys journal, which is widely considered one of the best ACM journals with an impact factor of 14.324.
+*  The virtual actor An-Ruohan of Psyai, which I helped to develop, performs her show daily on bilibili.
+*  My research has also been recognized at ICIP 2022, which is a top-tier computer vision conference with a long-standing reputation for excellence.
+* I am excited to announce that one of my papers has been accepted for presentation at AAAI 2022, which is a leading artificial intelligence conference.
 
 <br>
 
 Education
 ======
-* Ph.D in Institute of Automation, Chinese Academic of Sciences, 2017, supervised by [Prof. Stan Z. Li](http://www.cbsr.ia.ac.cn/users/szli/)
-* B.S. in College of Computer Science, Sichuan University, 2012
+* PhD student at **Hong Kong University of Science and Technology**. Computer Science. 2023.1 to now.
+* Visiting scholar at **Carnegie Mellon University**. Computer Science. 2021.12 to now.
+* PhD student at **Renmin University of China**. Computer Science. 2019.09-2023.1
 
 <br>
 
 Work experience
 ======
-* 2019～now: Associate Professor
-  * National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
+* 2021～now:  Chief Young Scientist
+  * Psyche AI Inc
 
-* 2017～2019: Assistant Professor
-  * National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
+* 2021～now: Remote algorithm researcher
+  * Xreal
+ 
+* 2021～now: Remote algorithm researcher
+  * Xreal
+  * 
+* 2020～2021: Intern
+  * Bytedance Inc
 
 <br>
 
@@ -57,245 +68,12 @@ Selected Publications
 
 ___
 
-<div class="row">
-  <div class="column left">
-    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2023-pami-zhu.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Face Forgery Detection by 3D Decomposition and Composition Search,</strong><br/>
-      <strong>Xiangyu Zhu</strong>, Hongyan Fei, Bin Zhang, Tianshuo Zhang, Xiaoyu Zhang, Stan Z. Li, Zhen Lei<br/>
-      IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>T-PAMI</strong>), 2023.<br/>
-      [<a href="https://ieeexplore.ieee.org/abstract/document/10005010/">PDF</a>]
-    </p>
-  </div>
-</div>
-
-___
-
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2023-cvpr-yu.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Graphics Capsule: Learning Hierarchical 3D Face Representations from 2D Images,</strong><br/>
-      Chang Yu, <strong>Xiangyu Zhu (corresponding author)</strong>, Xiaomei Zhang, Zhaoxiang Zhang, Zhen Lei<br/>
-      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023.<br/>
-      [<a href="https://arxiv.org/abs/2303.10896">PDF</a>]
-    </p>
-  </div>
-</div>
-
-___
-
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2023-tbiom-zhu.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>MVP-Human Dataset for 3D Clothed Human Avatar Reconstruction from Multiple Frames,</strong><br/>
-      <strong>Xiangyu Zhu</strong>, Tingting Liao, Xiaomei Zhang, Jiangjing Lyu, Zhiwen Chen, Yunfeng Wang, Kan Guo, Qiong Cao, Stan Z. Li, Zhen Lei<br/>
-      IEEE Transactions on Biometrics, Behavior, and Identity Science (<strong>TBIOM</strong>), 2023.<br/>
-      [<a href="https://arxiv.org/abs/2204.11184">PDF</a>][<a href="https://github.com/TingtingLiao/MVPHuman">Github</a>]
-    </p>
-  </div>
-</div>
-
-___
-
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2022-pami-zhu.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Beyond 3DMM: Learning to Capture High-fidelity 3D Face Shape,</strong><br/>
-      <strong>Xiangyu Zhu</strong>, Chang Yu, Di Huang, Zhen Lei, Hao Wang, Stan Z. Li<br/>
-      IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>T-PAMI</strong>), 2022.<br/>
-      [<a href="https://arxiv.org/pdf/2204.04379.pdf">PDF</a>]
-    </p>
-  </div>
-</div>
-
-
-___
-
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/2022-cvpr-yu.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>HP-Capsule: Unsupervised Face Part Discovery by Hierarchical Parsing Capsule Network,</strong><br/>
-      Chang Yu, <strong>Xiangyu Zhu</strong>, Xiaomei Zhang, Zidu Wang, Zhaoxiang Zhang, Zhen Lei<br/>
-     IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2022.<br/>
-      [<a href="https://arxiv.org/abs/2203.10699">PDF</a>]
-    </p>
-  </div>
-</div>
-
-___
-
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="200%" src="https://xiangyuzhu-open.github.io/homepage/pic/c1.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Face Forgery Detection by 3D Decomposition,</strong><br/>
-      <strong>Xiangyu Zhu</strong>, Hao Wang, Hongyan Fei, Zhen Lei, Stan Z. Li.<br/>
-      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), Oral, 2021.<br/>
-      [<a href="https://xiangyuzhu-open.github.io/homepage/files/cvpr21face.pdf">PDF</a>]
-    </p>
-  </div>
-</div>
-
-___
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="https://xiangyuzhu-open.github.io/homepage/pic/c4.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Beyond 3DMM Space: Towards Fine-grained 3D Face Reconstruction,</strong><br/>
-      <strong>Xiangyu Zhu</strong>, Fan Yang, Di Huang, Chang Yu, Hao Wang, Jianzhu Guo, Zhen Lei, Stan Z. Li.<br/>
-      In European Conference on Computer Vision (<strong>ECCV</strong>), 2020.<br/>
-     [<a href="https://xiangyuzhu-open.github.io/homepage/files/2020beyond.pdf">PDF</a>][<a href="https://github.com/XiangyuZhu-open/Beyond3DMM">Github</a>]
-    </p>
-  </div>
-</div>
-
-
-___
-
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="https://xiangyuzhu-open.github.io/homepage/pic/c5.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Towards Fast, Accurate and Stable 3D Dense Face Alignment,</strong><br/>
-      Jianzhu Guo, <strong>Xiangyu Zhu</strong>, Yang Yang, Fan Yang, Zhen Lei, Stan Z. Li. (co-first author).<br/>
-      In European Conference on Computer Vision (<strong>ECCV</strong>), 2020. <br/> 
-     [<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/papers/2020towards.pdf">PDF</a>] [<a href="https://github.com/cleardusk/3DDFA_V2">Github</a>]
-    </p>
-  </div>
-</div>
-
-
-___
-
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="https://xiangyuzhu-open.github.io/homepage/pic/2019ijcv.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Large-scale Bisample Learning on ID versus Spot Face Recognition,</strong><br/>
-      <strong>Xiangyu Zhu</strong>, Hao Liu, Zhen Lei, Hailin Shi, Fan Yang, Dong Yi, Guojun Qi, Stan Z. Li.<br/>
-      Special issue on Deep Learning for Face Analysis. International Journal of Computer Vision (<strong>IJCV</strong>)，2019. <br/> 
-     [<a href="https://xiangyuzhu-open.github.io/homepage/files/xiangyu2018large.pdf">PDF</a>][<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/LBL/main.htm">Project</a>]
-    </p>
-  </div>
-</div>
-
-___
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="https://xiangyuzhu-open.github.io/homepage/pic/2017pami.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Face Alignment In Full Pose Range: A 3D Total Solution,</strong><br/>
-      <strong>Xiangyu Zhu</strong>, Xiaoming Liu, Zhen Lei, Stan Z. Li.<br/>
-      IEEE transactions on pattern analysis and machine intelligence (<strong>T-PAMI</strong>), 2017, 41(1): 78-92.<br/> 
-     [<a href="https://xiangyuzhu-open.github.io/homepage/files/xiangyu2017face.pdf">PDF</a>][<a href="https://xiangyuzhu-open.github.io/homepage/files/xiangyu2017face_sup.pdf">Supplemental Material</a>][<a href="https://github.com/cleardusk/3DDFA">Github</a>]
-    </p>
-  </div>
-</div>
-
-
-
-___
-
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="https://xiangyuzhu-open.github.io/homepage/pic/2016cvpr.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>Face Alignment Across Large Poses: A 3D Solution,</strong><br/>
-      <strong>Xiangyu Zhu</strong>, Zhen Lei, Xiaoming Liu, Hailin Shi, Stan Z. Li.<br/>
-      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), Oral, 2021.<br/> 
-     [<a href="https://xiangyuzhu-open.github.io/homepage/files/ARXIV2015_FaceAlignment.pdf">PDF</a>][<a href="https://xiangyuzhu-open.github.io/homepage/files/xiangyu2017face_sup.pdf">Supplemental Material</a>][<a href="https://github.com/cleardusk/3DDFA">Github</a>]
-    </p>
-  </div>
-</div>
-
-
-
-___
 
 
 
 
-<div class="row">
-  <div class="column left">
-    <img align="left" width="100%" src="https://xiangyuzhu-open.github.io/homepage/pic/2015cvpr.png?raw=true">  
-  </div>
-  <div class="column middle">&nbsp;</div>
-  <div class="column right">
-    <p>
-      <strong>High-Fidelity Pose and Expression Normalization for Face Recognition in the Wild,</strong><br/>
-      <strong>Xiangyu Zhu</strong>, Zhen Lei, Junjie Yan, Dong Yi, Stan Z. Li.<br/>
-      In Proceedings of IEEE International Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>).Boston, June 7-12, 2015.<br/> 
-     [<a href="https://xiangyuzhu-open.github.io/homepage/files/CVPR2015_High-Fidelity.pdf">PDF</a>][<a href="https://xiangyuzhu-open.github.io/homepage/files/CVPR2015_High-Fidelity_Sup.pdf">Supplemental Material</a>][<a href="http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/HPEN/main.htm">Project</a>]
-    </p>
-  </div>
-</div>
-
-
-
-___
 
 <br>
 
-Honors & Awards
-======
-* IEEE Senior Member
-* 2022 CCBR Best Poster Paper Award.
-* 2022 Baidu Xueshu 2022 Global Top Chinese Young Scholars in AI. （<a href="https://xueshu.baidu.com/usercenter/index/aischolar2022">百度学术2022年全球华人AI青年学者榜单</a>）
-* 2022 Tencent AI Lab Rhino-Bird Focused Research Program. （腾讯AI Lab犀牛鸟专项研究计划）
-* 2021 Second Class Prize of the Science and Technology Award, Chinese Institute of Electronics. （中国电子学会科学技术二等奖）
-* 2021 Young Elite Scientist Sponsorship Program by Beijing Association for Science and Technology. （北京科协青年人才托举工程） 
-* 2020 Member of the Youth Innovation Promotion Association, Chinese Academy of Sciences. （中国科学院青年创新促进会）
-* 2019 Best Doctoral Dissertation Finalist, China Society of Image and Graphics (CSIG).
-* 2019 The Champion of ICCV19 DeepGlint-Large Track in Light Weight Face Recognition Challenge.
-* 2018 ICME Best Student Paper Award Runner-up.
-* 2017 The Winner of FG2017 facial micro-expression recognition competition.
-* 2017 CCBR Best Student Paper Award.
-* 2017 National scholarship in Chinese Academy of Sciences.
-* 2011 National scholarship in Sichuan University.
+
 
