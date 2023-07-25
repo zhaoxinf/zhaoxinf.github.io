@@ -52,11 +52,11 @@ Work experience
 * 2021～now: Remote algorithm researcher
   * Xreal
  
-* 2021～now: Remote algorithm researcher
-  * Xreal
-  * 
 * 2020～2021: Intern
   * Bytedance Inc
+ 
+* 2020～2020: Intern
+  * DeepGLInt
 
 <br>
 
@@ -64,13 +64,42 @@ Work experience
 
 Selected Publications
 ======
+* **EmoTalk: Speech-driven emotional disentanglement for 3D face animation** [[paper]](https://arxiv.org/pdf/2303.11089.pdf)[[code]](https://github.com/ZiqiaoPeng/EmoTalk)   
+Ziqiao Peng, Haoyu Wu, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**.  
+ICCV 2023
+
+* **D-IF: Uncertainty-aware Human Digitization via Implicit Distribution Field** [[paper]](https://arxiv.org/pdf/2303.11089.pdf)[[code]](https://github.com/ZiqiaoPeng/EmoTalk)   
+Xueting Yang, Yihao Luo, Yuliang Xiu, Wei Wang, Hao Xu, **Zhaoxin Fan(corresponding author)**.  
+ICCV 2023
+
+* **Reconstruction-Aware Prior Distillation for Semi-supervised Point Cloud Completion** [[paper]](https://arxiv.org/pdf/2204.09186.pdf)  
+**Zhaoxin Fan**, Yulin He, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
+IJCAI 2023
+
+* **Robust Single Image Reflection Removal Against Adversarial Attacks** [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Song_Robust_Single_Image_Reflection_Removal_Against_Adversarial_Attacks_CVPR_2023_paper.pdf)    
+Zhenbo Song, Zhenyuan Zhang, Kaihao Zhang, Wenhan Luo, **Zhaoxin Fan**, Wenqi Ren, Jianfeng Lu   
+CVPR 2023
+
+* **Object Level Depth Reconstruction for Category Level 6D Object Pose Estimation From Monocular RGB Image** [[paper]](https://arxiv.org/pdf/2204.01586.pdf)[[code]](https://github.com/FANzhaoxin666/OLD_Net_release)       
+**Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
+European Conference on Computer Vision. (ECCV 2022)
+
+* **SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place Recognition** [[paper]](https://arxiv.org/pdf/2105.00149.pdf)[[code]](https://github.com/ZhenboSong/SVTNet)    
+**Zhaoxin Fan**, Zhenbo Song, Zhiwu Lu, Hongyan Liu, Jun He, and Xiaoyong Du  
+36th AAAI Conference on Artificial Intelligence. (AAAI 2022)
+
+* **Deep Learning on Monocular Object Pose Detection and Tracking: A Comprehensive Overview** [[paper]](https://arxiv.org/pdf/2105.14291.pdf)  
+**Zhaoxin Fan**, Yazhi Zhu, Yulin He, Qi Sun, Hongyan Liu, and Jun He  
+ACM Computing Surveys, 2022 (CSUR).
+
+* **SRNet: A 3D Scene Recognition Network using Static Graph and Dense Semantic Fusion** [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14146)    
+**Zhaoxin Fan**, Hongyan Liu, Jun He, Qi Sun, and Xiaoyong Du  
+Computer Graphics Forum, 2020  (CGF)
 
 
-___
-
-
-
-
+* **A Graph‐based One‐Shot Learning Method for Point Cloud Recognition** [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14147)    
+**Zhaoxin Fan**, Hongyan Liu, Jun He, Qi Sun, and Xiaoyong Du  
+Computer Graphics Forum, 2020  (CGF)
 
 
 <br>
