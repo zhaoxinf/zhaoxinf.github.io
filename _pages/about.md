@@ -50,12 +50,12 @@ Work experience
 * 2021～now:  Chief Young Scientist, Psyche AI Inc
   * Human body reconstruction
   * Talking head
-  * 3d foundation models
+  * 3D foundation models
 
 * 2021～now: Remote algorithm researcher, Xreal
   * 6D object pose estimation
   * Point cloud completion
-  * 3d foundation models
+  * 3D foundation models
  
 * 2020～2021: Intern, Bytedance Inc
   * 6D object pose estimation
