@@ -22,7 +22,7 @@ About me
 
 News!
 ======
-*  July 26 2023, I am thrilled to announce that our latest work, SelfTalk, has been accepted by ACM MM 2023!
+*  July/26/2023, I am thrilled to announce that our latest work, SelfTalk, has been accepted by ACM MM 2023!
 *  Two papers D-IF and Emo-Talk are accepted by ICCV 2023, one of the best conference in computer vision.
 *  Excited to annouce that one of our  papers has been accepted by signal processing, IF=4.729
 *  Excited to annouce that one of my papers has been accepted by IJCAI 2023.
