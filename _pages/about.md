@@ -22,17 +22,18 @@ About me
 
 News!
 ======
-* Two papers D-IF and Emo-Talk are accepted by ICCV 2023, one of the best conference in computer vision.
+*  July 26 2023, I am thrilled to announce that our latest work, SelfTalk, has been accepted by ACM MM 2023!
+*  Two papers D-IF and Emo-Talk are accepted by ICCV 2023, one of the best conference in computer vision.
 *  Excited to annouce that one of our  papers has been accepted by signal processing, IF=4.729
 *  Excited to annouce that one of my papers has been accepted by IJCAI 2023.
 *  I am honored to have returned to Carnegie Mellon University as a visiting scholar.
 *  One of my papers has been accepted for presentation at CVPR 2023, which is considered one of the most prestigious computer vision conferences in the world.
-* I am thrilled to have had one of my papers accepted for presentation at ICRA 2023, which is a leading robotics conference.
+*  I am thrilled to have had one of my papers accepted for presentation at ICRA 2023, which is a leading robotics conference.
 *  My research has been recognized at ECCV Workshop 2022, PRCV 2022, and ECCV 2022, all of which are highly-regarded international conferences in the field of computer vision.
 *  I am proud to have had a paper accepted for publication in the ACM Computing Surveys journal, which is widely considered one of the best ACM journals with an impact factor of 14.324.
 *  The virtual actor An-Ruohan of Psyai, which I helped to develop, performs her show daily on bilibili.
 *  My research has also been recognized at ICIP 2022, which is a top-tier computer vision conference with a long-standing reputation for excellence.
-* I am excited to announce that one of my papers has been accepted for presentation at AAAI 2022, which is a leading artificial intelligence conference.
+*  I am excited to announce that one of my papers has been accepted for presentation at AAAI 2022, which is a leading artificial intelligence conference.
 
 <br>
 
@@ -78,6 +79,12 @@ International Conference on Computer Vision, ICCV 2023
 * **D-IF: Uncertainty-aware Human Digitization via Implicit Distribution Field** [[paper]](https://arxiv.org/pdf/2303.11089.pdf)[[code]](https://github.com/ZiqiaoPeng/EmoTalk)   
 Xueting Yang, Yihao Luo, Yuliang Xiu, Wei Wang, Hao Xu, **Zhaoxin Fan(corresponding author)**.  
 International Conference on Computer Vision, ICCV 2023
+
+
+* **SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces** [[paper]](https://arxiv.org/pdf/2306.10799.pdf)  
+Ziqiao Peng, Yihao Luo, Yue Shi, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**.  
+ACM International Conference on Multimedia, ACM MM 2023
+
 
 * **Reconstruction-Aware Prior Distillation for Semi-supervised Point Cloud Completion** [[paper]](https://arxiv.org/pdf/2204.09186.pdf)  
 **Zhaoxin Fan**, Yulin He, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
