@@ -106,6 +106,10 @@ European Conference on Computer Vision, ECCV 2022
 **Zhaoxin Fan**, Yazhi Zhu, Yulin He, Qi Sun, Hongyan Liu, and Jun He  
 ACM Computing Surveys, CSUR, 2022.
 
+* **GIDP: Learning a Good Initialization and Inducing Descriptor Post-enhancing for Large-scale Place Recognition** [[paper]](https://arxiv.org/pdf/2209.11488.pdf)    
+**Zhaoxin Fan**, Zhenbo Song, Hongyan Liu, and Jun He  
+International Conference on Robotics and Automation, ICRA 2023.
+
 * **SRNet: A 3D Scene Recognition Network using Static Graph and Dense Semantic Fusion** [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14146)    
 **Zhaoxin Fan**, Hongyan Liu, Jun He, Qi Sun, and Xiaoyong Du  
 Computer Graphics Forum, CGF 2020  
