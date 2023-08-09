@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-* **New!** I will join Institute for AI Industry Research, Tsinghua University [(AIR)](https://air.tsinghua.edu.cn/en/) as a research fellow next year. We are now hiring  self-movivated interns and research assistant and we select PhD students from our interns an Ra
+* **New!** I will join the Institute for AI Industry Research, Tsinghua University [(AIR)](https://air.tsinghua.edu.cn/en/) as a research fellow since 2024. I am now hiring  self-motivated interns and RAs to join my team. Our PhD students are seleted from our Intern-RA pools.
 
 * I am a PhD student at the Hong Kong University of Science and Technology, supervised by Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/) at HKUST. Additionally, I am a scholar at Carnegie Mellon University (CMU), working with Prof [Min Xu](https://xulabs.github.io/group/). I also serve as the director of the  [Psyche.AI AVATAR Lab](https://www.psyai.com/home).  
 
