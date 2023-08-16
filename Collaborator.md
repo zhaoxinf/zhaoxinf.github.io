@@ -15,7 +15,7 @@ Ph.D student
 
 Master student
 ======
-* Kaijung Zhang, master student of Institute of Automation, Chinese Academy of Sciences, working on nerf+human body
+* Kaijun Zhang, master student of Institute of Automation, Chinese Academy of Sciences, working on nerf+human body
 * Xiaotao Wu, master student of Institute of Automation, Chinese Academy of Sciences, working on nerf+human body
 * Ziyi Yang, master student of Communication University of China, working on text to speech.
 * Yufei Zhao, master student of Communication University of China, working on talking head.
