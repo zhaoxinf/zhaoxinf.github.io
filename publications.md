@@ -117,7 +117,6 @@ Arxiv paper
 Arxiv paper
 
 *  Chinese National Invention Patent: 一种限高装置高度检测方法和系统 - 202110986662.0 . 国家发明专利. 实审公开
-*  Chinese National Invention Patent: 基于隐式场概率分布预测的3D数字人重建方法及装置 - 202310419161.3 . 国家发明专利. 实审公开
 *  Chinese National Invention Patent: 一种基于情绪解耦的3D说话人驱动技术. 国家发明专利. 在申
 *  Chinese National Invention Patent: 一种基于关键点映射的单目人体动作捕捉技术. 国家发明专利. 在申
 *  Chinese National Invention Patent: 一种基于自监督语音-文本对齐的说话人唇形驱动方法. 国家发明专利. 在申
