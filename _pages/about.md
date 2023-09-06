@@ -10,8 +10,6 @@ redirect_from:
 
 About me
 ======
-* **New!** I will join the Institute for AI Industry Research, Tsinghua University [(AIR)](https://air.tsinghua.edu.cn/en/) as a research fellow since 2024. I am now hiring  self-motivated interns and RAs to join my team. Our PhD students are seleted from our Intern-RA pools.
-
 * I am a PhD student at the Hong Kong University of Science and Technology, supervised by Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/) at HKUST. Additionally, I am a scholar at Carnegie Mellon University (CMU), working with Prof [Min Xu](https://xulabs.github.io/group/). I also serve as the director of the  [Psyche.AI AVATAR Lab](https://www.psyai.com/home).  
 
 * My dream is to use technology to change the world. Specifically, I hope to build robots and digital humans that are indistinguishable from real humans, with the goal of achieving artificial general intelligence. Prior to joining HKUST, I was a PhD student at Renmin University of China, co-supervised by Prof. [Jun He](http://info.ruc.edu.cn/jsky/rtjs/index.htm) from RUC and Prof. [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1210/32067.htm) from Tsinghua University (THU). Additionally, I have worked as a researcher at ByteDance, Xreal, and DeepGLInt, focusing on computer vision research.
@@ -23,7 +21,6 @@ About me
 
 News!
 ======
-*  August/1/2023, I will join THU AIR as a researche fellow next year! Please contact me if you want to work with me as my student.
 *  July/26/2023, I am thrilled to announce that our latest work, SelfTalk, has been accepted by ACM MM 2023!
 *  Two papers D-IF and Emo-Talk are accepted by ICCV 2023, one of the best conference in computer vision.
 *  Excited to annouce that one of our  papers has been accepted by signal processing, IF=4.729
