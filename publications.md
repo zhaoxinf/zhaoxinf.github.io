@@ -116,8 +116,8 @@ Arxiv paper
 **Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
 Arxiv paper
 
-*  Chinese National Invention Patent: 一种限高装置高度检测方法和系统 - 202110986662.0 . 国家发明专利. 实审公开
+*  Chinese National Invention Patent: 一种限高装置高度检测方法和系统. 国家发明专利. 实审公开
+*  Chinese National Invention Patent: 一种使用单目RGB图像进行虚拟人驱动的方法. 国家发明专利. 实审公开
 *  Chinese National Invention Patent: 一种基于情绪解耦的3D说话人驱动技术. 国家发明专利. 在申
-*  Chinese National Invention Patent: 一种基于关键点映射的单目人体动作捕捉技术. 国家发明专利. 在申
 *  Chinese National Invention Patent: 一种基于自监督语音-文本对齐的说话人唇形驱动方法. 国家发明专利. 在申
 *  Chinese National Invention Patent: 一种基于音频驱动的实时超写实数字人驱动方法. 国家发明专利. 在申
