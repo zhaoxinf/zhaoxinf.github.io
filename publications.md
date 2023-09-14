@@ -116,6 +116,10 @@ Arxiv paper
 **Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
 Arxiv paper
 
+* **Multi-dimensional Fusion and Consistency for Semi-supervised Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2309.06618.pdf)    
+Yixing Lu, **Zhaoxin Fan**, Min Xu
+Arxiv paper
+
 *  Chinese National Invention Patent: 一种限高装置高度检测方法和系统. 国家发明专利. 实审公开
 *  Chinese National Invention Patent: 一种使用单目RGB图像进行虚拟人驱动的方法. 国家发明专利. 实审公开
 *  Chinese National Invention Patent: 一种基于情绪解耦的3D说话人驱动技术. 国家发明专利. 在申
