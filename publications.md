@@ -120,6 +120,7 @@ Arxiv paper
 Yixing Lu, **Zhaoxin Fan**, Min Xu
 Arxiv paper
 
+
 *  Chinese National Invention Patent: 一种限高装置高度检测方法和系统. 国家发明专利. 实审公开
 *  Chinese National Invention Patent: 一种使用单目RGB图像进行虚拟人驱动的方法. 国家发明专利. 实审公开
 *  Chinese National Invention Patent: 一种基于情绪解耦的3D说话人驱动技术. 国家发明专利. 在申
