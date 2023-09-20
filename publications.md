@@ -116,16 +116,14 @@ Arxiv paper
 **Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He 
 Arxiv paper
 
-* **Multi-dimensional Fusion and Consistency for Semi-supervised Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2309.06618.pdf)    
-Yixing Lu, **Zhaoxin Fan**, Min Xu
-Arxiv paper
-
 
 * **STDG: Semi-Teacher-Student Training Paradigram for Depth-guided One-stage Scene Graph Generation** [[paper]](https://arxiv.org/pdf/2309.08179.pdf)    
 Xukun Zhou, Zhenbo Song, Jun He, Hongyan Liu, **Zhaoxin Fan(corresponding author)**  
 Arxiv paper
 
-
+* **Multi-dimensional Fusion and Consistency for Semi-supervised Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2309.06618.pdf)    
+Yixing Lu, **Zhaoxin Fan**, Min Xu  
+Arxiv paper
 
 
 *  Chinese National Invention Patent: 一种限高装置高度检测方法和系统. 国家发明专利. 实审公开
