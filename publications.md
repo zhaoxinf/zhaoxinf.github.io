@@ -117,7 +117,7 @@ Arxiv paper
 Arxiv paper
 
 * **Multi-dimensional Fusion and Consistency for Semi-supervised Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2309.06618.pdf)    
-Yixing Lu, **Zhaoxin Fan**, Min Xu  
+Yixing Lu, **Zhaoxin Fan**, Min Xu
 Arxiv paper
 
 * **STDG: Semi-Teacher-Student Training Paradigram for Depth-guided One-stage Scene Graph Generation** [[paper]](https://arxiv.org/pdf/2309.08179.pdf)    
