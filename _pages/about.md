@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-* I now serve as the chief young scientist of [Psyche AI Inc](https://www.psyai.com/home), fosuing on developing advanced AI algorithms for avatars, including avatar driving, avatar generation, and avatar reconsctrution. Meanwhile,  Prof [Hao Zhao](https://sites.google.com/view/fromandto), Prof[Guyue Zhou](https://air.tsinghua.edu.cn/en/info/1046/1196.htm) and me together lead a research group named "AIR Avatar" in  Tsinghua University to research avatar related algorithms. We hope to build robots and avatars that are indistinguishable from real humans, with the goal of achieving artificial general intelligence.
+* I now serve as the chief young scientist of [Psyche AI Inc](https://www.psyai.com/home), fosuing on developing advanced AI algorithms for avatars, including avatar driving, avatar generation, and avatar reconsctrution. Meanwhile,  Prof.[Hao Zhao](https://sites.google.com/view/fromandto), Prof. [Guyue Zhou](https://air.tsinghua.edu.cn/en/info/1046/1196.htm) and me together lead a research group named "AIR Avatar" in  Tsinghua University to research avatar related algorithms. We hope to build robots and avatars that are indistinguishable from real humans, with the goal of achieving artificial general intelligence.
   
 * I study my PhD  at HKUST supervised by Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/) at HKUST.  I aslo study my PhD in Renmin University of China, co-supervised by Prof. [Jun He](http://info.ruc.edu.cn/jsky/rtjs/index.htm) from RUC and Prof. [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1210/32067.htm) from Tsinghua University (THU). I am now also a visitng scholar at Carnegie Mellon University (CMU), working with Prof [Min Xu](https://xulabs.github.io/group/).  
   
