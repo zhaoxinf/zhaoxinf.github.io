@@ -113,12 +113,13 @@ Arxiv paper
 
 
 * **ACR-Pose: Adversarial Canonical Representation Reconstruction Network for Category Level 6D Object Pose Estimation** [[paper]](https://arxiv.org/pdf/2111.10524.pdf)    
-**Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
+**Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He 
 Arxiv paper
 
 * **Multi-dimensional Fusion and Consistency for Semi-supervised Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2309.06618.pdf)    
 Yixing Lu, **Zhaoxin Fan**, Min Xu
 Arxiv paper
+
 
 * **STDG: Semi-Teacher-Student Training Paradigram for Depth-guided One-stage Scene Graph Generation** [[paper]](https://arxiv.org/pdf/2309.08179.pdf)    
 Xukun Zhou, Zhenbo Song, Jun He, Hongyan Liu, **Zhaoxin Fan(corresponding author)**  
