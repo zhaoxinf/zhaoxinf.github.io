@@ -10,11 +10,10 @@ redirect_from:
 
 About me
 ======
-* I now serve as the chief young scienetist of [Psyche AI Inc](https://www.psyai.com/home), fosuing on developing advanced AI algorithms for avatars, including avatar driving, avatar generation, and avatar reconsctrution.  hope to build robots and avatars that are indistinguishable from real humans, with the goal of achieving artificial general intelligence.
+* I now serve as the chief young scienetist of [Psyche AI Inc](https://www.psyai.com/home), fosuing on developing advanced AI algorithms for avatars, including avatar driving, avatar generation, and avatar reconsctrution. Meanwhile, I work with Prof [Zhao Hao](https://sites.google.com/view/fromandto) and we lead a research group named "AIR Avatar" in  Tsinghua University together to research avatar related algorithms. I hope to build robots and avatars that are indistinguishable from real humans, with the goal of achieving artificial general intelligence.
   
-*I study my a PhD student at HKUST supervised by Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/) at HKUST.  I aslo study my PhD in Additionally, Renmin University of China, co-supervised by Prof. [Jun He](http://info.ruc.edu.cn/jsky/rtjs/index.htm) from RUC and Prof. [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1210/32067.htm) from Tsinghua University (THU). I am now also a visitng scholar at Carnegie Mellon University (CMU), working with Prof [Min Xu](https://xulabs.github.io/group/).  
+* I study my PhD  at HKUST supervised by Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/) at HKUST.  I aslo study my PhD in Renmin University of China, co-supervised by Prof. [Jun He](http://info.ruc.edu.cn/jsky/rtjs/index.htm) from RUC and Prof. [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1210/32067.htm) from Tsinghua University (THU). I am now also a visitng scholar at Carnegie Mellon University (CMU), working with Prof [Min Xu](https://xulabs.github.io/group/).  
   
-
 
 * My research interests lie in the areas of computer vision and machine learning, specifically in place recognition, 6D pose estimation, human body reconstruction/generation/driving, and medical image processing. Please feel free to contact me by email if you are interested in my research.
 
