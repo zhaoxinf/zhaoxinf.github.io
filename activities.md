@@ -23,6 +23,7 @@ President and Reviewer Roles
 * Reviewer for IEEE Transactions on Industrial Informatics.
 * Reviewer for IEEE Access.
 
+
 Awards
 ======
 * National scholarship for PhD
