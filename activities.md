@@ -22,3 +22,14 @@ President and Reviewer Roles
 * Reviewer for IEEE Transactions on Multimedia.
 * Reviewer for IEEE Transactions on Industrial Informatics.
 * Reviewer for IEEE Access.
+
+Awards
+======
+* National scholarship for PhD
+* Second prize in the National Challenge Cup
+
+
+Invited Talks
+======
+* 数字人、大模型在AIGC中的应用与挑战 [link](https://www.bilibili.com/video/BV1Xh4y1F7Ec/?spm_id_from=333.337.search-card.all.click&vd_source=9b8cafd86a6ccf076687721b5d1561be)
+* 将科幻照进现实——元宇宙数字人的当下与未来 [link](https://www.bilibili.com/video/BV1Ld4y177M9/?spm_id_from=333.337.search-card.all.click&vd_source=9b8cafd86a6ccf076687721b5d1561be)
