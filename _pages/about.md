@@ -36,8 +36,9 @@ News!
 *  My research has also been recognized at ICIP 2022, which is a top-tier computer vision conference with a long-standing reputation for excellence.
 *  I am excited to announce that one of my papers has been accepted for presentation at AAAI 2022, which is a leading artificial intelligence conference.
 
-<br>
 
+
+<br>
 
 
 Work experience
@@ -51,6 +52,9 @@ Work experience
     
 * Intern, Bytedance Inc (2020 - 2021)
   * During my internship at Bytedance Inc, I gained valuable experience in the field of computer vision, specifically in the areas of 6D object pose estimation, 3D object detection, and 3D object tracking. As an intern, I actively contributed to the development of algorithms and systems, working closely with experienced professionals in the industry.
+ 
+
+
 <br>
 
 
