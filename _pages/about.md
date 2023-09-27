@@ -61,11 +61,11 @@ Work experience
 
 Selected Publications
 ======
-* **EmoTalk: Speech-driven emotional disentanglement for 3D face animation** [[paper]](https://arxiv.org/pdf/2303.11089.pdf)[[code]](https://github.com/ZiqiaoPeng/EmoTalk)   
+* **EmoTalk: Speech-driven emotional disentanglement for 3D face animation** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_D-IF_Uncertainty-aware_Human_Digitization_via_Implicit_Distribution_Field_ICCV_2023_paper.pdf) [[code]](https://github.com/psyai-net/EmoTalk_release)    
 Ziqiao Peng, Haoyu Wu, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**.  
 International Conference on Computer Vision, ICCV 2023
 
-* **D-IF: Uncertainty-aware Human Digitization via Implicit Distribution Field** [[paper]](https://arxiv.org/pdf/2308.08857.pdf)[[code]](https://github.com/psyai-net/D-IF_release)   
+* **D-IF: Uncertainty-aware Human Digitization via Implicit Distribution Field** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_D-IF_Uncertainty-aware_Human_Digitization_via_Implicit_Distribution_Field_ICCV_2023_paper.pdf)[[code]](https://github.com/psyai-net/D-IF_release)   
 Xueting Yang, Yihao Luo, Yuliang Xiu, Wei Wang, Hao Xu, **Zhaoxin Fan(corresponding author)**.  
 International Conference on Computer Vision, ICCV 2023
 
