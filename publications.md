@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-
+* **Multi-dimensional Fusion and Consistency for Semi-supervised Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2309.06618.pdf)    
+Yixing Lu, **Zhaoxin Fan (equal contribution）**, Min Xu  
+International Conference on Multimedia Modeling, MMM 2024
 
 * **EmoTalk: Speech-driven emotional disentanglement for 3D face animation** [[paper]](https://arxiv.org/pdf/2303.11089.pdf)[[code]](https://github.com/ZiqiaoPeng/EmoTalk)   
 Ziqiao Peng, Haoyu Wu, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**.  
@@ -121,9 +123,6 @@ Arxiv paper
 Xukun Zhou, Zhenbo Song, Jun He, Hongyan Liu, **Zhaoxin Fan(corresponding author)**  
 Arxiv paper
 
-* **Multi-dimensional Fusion and Consistency for Semi-supervised Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2309.06618.pdf)    
-Yixing Lu, **Zhaoxin Fan**, Min Xu  
-Arxiv paper
 
 
 *  Chinese National Invention Patent: 一种限高装置高度检测方法和系统. 国家发明专利. 实审公开
