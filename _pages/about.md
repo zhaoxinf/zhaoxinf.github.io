@@ -20,6 +20,7 @@ About me
 
 News!
 ======
+*  Nov/17/2023,  Congrats to Yixing Lu for his first paper being accepted to International Conference on Multimedia Modeling
 *  Sep/21/2023,  We are awarded the second prize in the National Challenge Cup! I together with Professor [Li Ronghua](https://ronghuali.github.io/ronghuali.html) serve as the advisors of this project.
 *  July/26/2023, I am thrilled to announce that our latest work, SelfTalk, has been accepted by ACM MM 2023!
 *  Two papers D-IF and Emo-Talk are accepted by ICCV 2023, one of the best conference in computer vision.
