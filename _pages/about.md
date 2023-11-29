@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-* I now serve as the chief young scientist of [Psyche AI Inc](https://www.psyai.com/home), fosuing on developing advanced AI algorithms for avatars, including avatar driving, avatar generation, and avatar reconsctrution. Meanwhile,  Prof. [Hao Zhao](https://sites.google.com/view/fromandto), Prof. [Guyue Zhou](https://air.tsinghua.edu.cn/en/info/1046/1196.htm) and me together lead a research group named "AIR Avatar" in  Tsinghua University to research avatar related algorithms. We hope to build robots and avatars that are indistinguishable from real humans, with the goal of achieving artificial general intelligence.
+* I now serve as the chief young scientist of [Psyche AI Inc](https://www.psyai.com/home), fosuing on developing advanced AI algorithms for avatars, including avatar driving, avatar generation, and avatar reconsctrution.
   
 
 * My research interests lie in the areas of computer vision and machine learning, specifically in place recognition, 6D pose estimation, human body reconstruction/generation/driving, and medical image processing. Please feel free to contact me by email if you are interested in my research.
