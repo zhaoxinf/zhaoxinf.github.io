@@ -101,9 +101,9 @@ Qi Sun, Hongyan Liu, Jun He, **Zhaoxin Fan**, and Xiaoyong Du
 2020 International Conference on Tools with Artificial Intelligence, ICTAI 2020.
 
 
-* **SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis** [[paper]](https://arxiv.org/pdf/2311.17590.pdf)
-  
-Ziqiao Peng, Wentao Hu, Yue Shi, Xiangyu Zhu, Xiaomei Zhang, Hao Zhao, Jun He, Hongyan Liu, **Zhaoxin Fan**
+
+* **SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis** [[paper]]([https://arxiv.org/pdf/2306.10799.pdf](https://arxiv.org/pdf/2311.17590.pdf))[[code]](https://github.com/ZiqiaoPeng/SyncTalk)  
+Ziqiao Peng, Wentao Hu, Yue Shi, Xiangyu Zhu, Xiaomei Zhang, Hao Zhao, Jun He, Hongyan Liu, **Zhaoxin Fan**.  
 Arxiv
 
 
