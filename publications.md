@@ -5,6 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+* **Everything2Motion: Synchronizing Diverse Inputs via a Unified Framework for Human Motion Synthesis**    
+**Zhaoxin Fan**, Longbin Li, Pengxin Xu, Fan Shen, kai Chen.  
+Thirty-Eighth AAAI Conference on Artificial Intelligence, AAAI 2024
+
+* **FuRPE: Learning Full-body Reconstruction from Part Experts** [[paper]](https://arxiv.org/pdf/2212.00731.pdf)[[code]](https://github.com/indigo-99/FuRPE)    
+**Zhaoxin Fan**, Yuqing Pan, Hao Xu, Zhenbo Song, Zhicheng Wang, Kejian Wu, Hongyan Liu, and Jun He  
+Thirty-Eighth AAAI Conference on Artificial Intelligence, AAAI 2024 Workshop
+
 * **Multi-dimensional Fusion and Consistency for Semi-supervised Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2309.06618.pdf)    
 Yixing Lu, **Zhaoxin Fan (equal contribution）**, Min Xu  
 International Conference on Multimedia Modeling, MMM 2024
@@ -97,10 +106,6 @@ Arxiv
 
 * **SHLE: Devices Tracking and Depth Filtering for Stereo-based Height Limit Estimation** [[paper]](https://arxiv.org/pdf/2212.11538.pdf)[[code]](https://github.com/Yang-Kaixing/SHLE)    
 **Zhaoxin Fan**, Kaixing Yang, Min Zhang, Zhenbo Song, Hongyan Liu, and Jun He  
-Arxiv paper
-
-* **FuRPE: Learning Full-body Reconstruction from Part Experts** [[paper]](https://arxiv.org/pdf/2212.00731.pdf)[[code]](https://github.com/indigo-99/FuRPE)    
-**Zhaoxin Fan**, Yuqing Pan, Hao Xu, Zhenbo Song, Zhicheng Wang, Kejian Wu, Hongyan Liu, and Jun He  
 Arxiv paper
 
 
