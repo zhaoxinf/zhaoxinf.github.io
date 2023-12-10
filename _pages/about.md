@@ -58,6 +58,11 @@ Work experience
 
 Selected Publications
 ======
+
+* **Everything2Motion: Synchronizing Diverse Inputs via a Unified Framework for Human Motion Synthesis**    
+**Zhaoxin Fan**, Longbin Li, Pengxin Xu, Fan Shen, kai Chen.  
+Thirty-Eighth AAAI Conference on Artificial Intelligence, AAAI 2024 2023
+
 * **EmoTalk: Speech-driven emotional disentanglement for 3D face animation** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_D-IF_Uncertainty-aware_Human_Digitization_via_Implicit_Distribution_Field_ICCV_2023_paper.pdf) [[code]](https://github.com/psyai-net/EmoTalk_release)    
 Ziqiao Peng, Haoyu Wu, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**.  
 International Conference on Computer Vision, ICCV 2023
