@@ -10,16 +10,14 @@ redirect_from:
 
 About me
 ======
-* I now serve as the chief young scientist of [Psyche AI Inc](https://www.psyai.com/home), fosuing on developing advanced AI algorithms for avatars, including avatar driving, avatar generation, and avatar reconsctrution.
-  
-
-* My research interests lie in the areas of computer vision and machine learning, specifically in place recognition, 6D pose estimation, human body reconstruction/generation/driving, and medical image processing. Please feel free to contact me by email if you are interested in my research.
+* I now serve as the chief young scientist of [Psyche AI Inc](https://www.psyai.com/home), fosuing on developing advanced AI algorithms for avatars, including avatar driving, avatar generation, and avatar reconsctrution.  I aslo study my PhD in Renmin University of China, working with Prof. [Jun He](http://info.ruc.edu.cn/jsky/rtjs/index.htm) from RUC and Prof. [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1210/32067.htm) from THU. I also had nice time working at Carnegie Mellon University (CMU) and The Hong Kong University of Science and Technology（HKUST）. My research interests lie in the areas of computer vision and machine learning, specifically in place recognition, 6D pose estimation, human body reconstruction/generation/driving, and medical image processing. Please feel free to contact me by email if you are interested in my research.
 
 
 <br>
 
 News!
 ======
+*  Dec/9/2023,  Our recent paper Everything2Motion is accepted to AAAI 2024 main track and the paper FurPE is accepted to AAAI 2024 workshop.  Congrats to all authors.
 *  Nov/17/2023,  Congrats to Yixing Lu for his first paper being accepted to International Conference on Multimedia Modeling
 *  Sep/21/2023,  We are awarded the second prize in the National Challenge Cup! I together with Professor [Li Ronghua](https://ronghuali.github.io/ronghuali.html) serve as the advisors of this project.
 *  July/26/2023, I am thrilled to announce that our latest work, SelfTalk, has been accepted by ACM MM 2023!
