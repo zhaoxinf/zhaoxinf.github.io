@@ -44,7 +44,7 @@ Work experience
   * As the Chief Young Scientist at Psyche AI Inc, I am responsible for leading and overseeing various projects related to human body reconstruction, talking head technology, and 3D foundation models. In this role, I contribute my expertise in the development of innovative AI solutions that advance the field of computer vision and digital avatars.
     
     
-* Remote Algorithm Researcher, Xreal (2021 - Present)
+* Remote Algorithm Researcher, Xreal (2021 - 2023)
   * As a Remote Algorithm Researcher at Xreal, my primary focus is on the research and development of algorithms for 6D object pose estimation, point cloud completion, and 3D foundation models. Working remotely, I collaborate with a team of researchers and engineers to design and implement cutting-edge algorithms that enhance the accuracy and efficiency of computer vision systems.
     
 * Intern, Bytedance Inc (2020 - 2021)
