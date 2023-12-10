@@ -100,6 +100,12 @@ Qi Sun, Hongyan Liu, Jun He, **Zhaoxin Fan**, and Xiaoyong Du
 **Zhaoxin Fan**, Hongyan Liu, Jun He, Siwei Jiang, and Xiaoyong Du  
 2020 International Conference on Tools with Artificial Intelligence, ICTAI 2020.
 
+
+* **SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis** [[paper]](https://arxiv.org/pdf/2311.17590.pdf)
+Ziqiao Peng, Wentao Hu, Yue Shi, Xiangyu Zhu, Xiaomei Zhang, Hao Zhao, Jun He, Hongyan Liu, **Zhaoxin Fan**
+Arxiv
+
+
 * **DenseMP: Unsupervised Dense Pre-training for Few-shot Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2307.09604.pdf)[[code]](https://github.com/zhaoxinf/DenseMP_release/tree/main)  
 **Jason Zhaoxin Fan**, Puquan Pan, Zeren Zhang, Ce Chen, Tianyang Wang, Siyang Zheng, and Min Xu.  
 Arxiv
