@@ -9,11 +9,11 @@ author_profile: true
 
 * **SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis** [[paper]](https://arxiv.org/pdf/2311.17590.pdf)[[code]](https://github.com/ZiqiaoPeng/SyncTalk)  
 Ziqiao Peng, Wentao Hu, Yue Shi, Xiangyu Zhu, Xiaomei Zhang, Hao Zhao, Jun He, Hongyan Liu, **Zhaoxin Fan(corresponding author)**.  
-Arxiv
+IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2024
 
-* **MonoSIM: Simulating Learning Behaviors of Heterogeneous Point Cloud Object Detectors for Monocular 3D Object Detection** [[paper]](https://arxiv.org/pdf/2208.09446.pdf)    
+* **MonoSIM: Simulating Learning Behaviors of Heterogeneous Point Cloud Object Detectors for Monocular 3D Object Detection** [[paper]](https://arxiv.org/pdf/2208.09446.pdf) [[code]](https://github.com/sunh18/MonoSIM)   
 Han Sun, **Zhaoxin Fan (equal contribution)**, Zhenbo Song, Zhicheng Wang, Kejian Wu, and Jianfeng Lu  
-Arxiv paper
+IEEE Transactions on Instrumentation & Measurement, 2024
 
 * **Everything2Motion: Synchronizing Diverse Inputs via a Unified Framework for Human Motion Synthesis**    
 **Zhaoxin Fan**, Longbin Li, Pengxin Xu, Fan Shen, kai Chen.  
@@ -111,11 +111,6 @@ Qi Sun, Hongyan Liu, Jun He, **Zhaoxin Fan**, and Xiaoyong Du
 
 
 
-* **SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis** [[paper]](https://arxiv.org/pdf/2311.17590.pdf)[[code]](https://github.com/ZiqiaoPeng/SyncTalk)  
-Ziqiao Peng, Wentao Hu, Yue Shi, Xiangyu Zhu, Xiaomei Zhang, Hao Zhao, Jun He, Hongyan Liu, **Zhaoxin Fan(corresponding author)**.  
-Arxiv
-
-
 * **DenseMP: Unsupervised Dense Pre-training for Few-shot Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2307.09604.pdf)[[code]](https://github.com/zhaoxinf/DenseMP_release/tree/main)  
 **Jason Zhaoxin Fan**, Puquan Pan, Zeren Zhang, Ce Chen, Tianyang Wang, Siyang Zheng, and Min Xu.  
 Arxiv
@@ -129,10 +124,6 @@ Arxiv paper
 **Zhaoxin Fan**, Fengxin Li, Hongyan Liu, Jun He, and Xiaoyong Du  
 Arxiv paper
 
-
-* **MonoSIM: Simulating Learning Behaviors of Heterogeneous Point Cloud Object Detectors for Monocular 3D Object Detection** [[paper]](https://arxiv.org/pdf/2208.09446.pdf)    
-Han Sun, **Zhaoxin Fan (equal contribution)**, Zhenbo Song, Zhicheng Wang, Kejian Wu, and Jianfeng Lu  
-Arxiv paper
 
 
 * **ACR-Pose: Adversarial Canonical Representation Reconstruction Network for Category Level 6D Object Pose Estimation** [[paper]](https://arxiv.org/pdf/2111.10524.pdf)    
