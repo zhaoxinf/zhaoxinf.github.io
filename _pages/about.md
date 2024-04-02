@@ -70,7 +70,7 @@ IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2024
 Han Sun, **Zhaoxin Fan (equal contribution)**, Zhenbo Song, Zhicheng Wang, Kejian Wu, and Jianfeng Lu.  
 IEEE Transactions on Instrumentation & Measurement, 2024
 
-* **Everything2Motion: Synchronizing Diverse Inputs via a Unified Framework for Human Motion Synthesis**[[code]](https://ojs.aaai.org/index.php/AAAI/article/view/27936)    
+* **Everything2Motion: Synchronizing Diverse Inputs via a Unified Framework for Human Motion Synthesis**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/27936)    
 **Zhaoxin Fan**, Longbin Li, Pengxin Xu, Fan Shen, kai Chen.  
 Thirty-Eighth AAAI Conference on Artificial Intelligence, AAAI 2024
 
