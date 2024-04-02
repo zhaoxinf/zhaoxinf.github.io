@@ -13,7 +13,7 @@ IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2024
 
 * **MonoSIM: Simulating Learning Behaviors of Heterogeneous Point Cloud Object Detectors for Monocular 3D Object Detection** [[paper]](https://arxiv.org/pdf/2208.09446.pdf) [[code]](https://github.com/sunh18/MonoSIM)   
 Han Sun, **Zhaoxin Fan (equal contribution)**, Zhenbo Song, Zhicheng Wang, Kejian Wu, and Jianfeng Lu  
-IEEE Transactions on Instrumentation & Measurement, 2024
+IEEE Transactions on Instrumentation & Measurement, TIM 2024
 
 * **Everything2Motion: Synchronizing Diverse Inputs via a Unified Framework for Human Motion Synthesis**    
 **Zhaoxin Fan**, Longbin Li, Pengxin Xu, Fan Shen, kai Chen.  
