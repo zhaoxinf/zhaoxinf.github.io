@@ -9,7 +9,6 @@ author_profile: true
 
 President and Reviewer Roles
 ======
-* President of IACS.
 * Reviewer for ICCV 2021 Workshop on 3D Object Detection from Images, ICCV 2023.
 * Reviewer for ECCV 2022
 * Reviewer for CVPR 2022, 2023.
