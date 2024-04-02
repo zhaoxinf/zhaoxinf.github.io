@@ -8,7 +8,7 @@ author_profile: true
 
 
 * **SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis** [[paper]](https://arxiv.org/pdf/2311.17590.pdf)[[code]](https://github.com/ZiqiaoPeng/SyncTalk)  
-Ziqiao Peng, Wentao Hu, Yue Shi, Xiangyu Zhu, Xiaomei Zhang, Hao Zhao, Jun He, Hongyan Liu, **Zhaoxin Fan(corresponding author)**.  
+Ziqiao Peng, Wentao Hu, Yue Shi, Xiangyu Zhu, Xiaomei Zhang, Hao Zhao, Jun He, Hongyan Liu, **Zhaoxin Fan (corresponding author)**.  
 IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2024
 
 * **MonoSIM: Simulating Learning Behaviors of Heterogeneous Point Cloud Object Detectors for Monocular 3D Object Detection** [[paper]](https://arxiv.org/pdf/2208.09446.pdf) [[code]](https://github.com/sunh18/MonoSIM)   
