@@ -15,8 +15,6 @@ Ph.D student
 
 Master student
 ======
-* Kaijun Zhang, master student of Institute of Automation, Chinese Academy of Sciences, working on nerf+human body
-* Xiaotao Wu, master student of Institute of Automation, Chinese Academy of Sciences, working on clothed human body reconstruction.
 * Ziyi Yang, master student of Communication University of China, working on text to speech.
 * Yufei Zhao, master student of Communication University of China, working on talking head.
 * Ke Mu, master student of Communication University of China, working on talking head.
@@ -25,6 +23,7 @@ Master student
 Undergraduate
 ======
 * Haoyu Wu, undergraduate student of Renmin University of China, working on 3d faces reconstruction
+* Junhao Wu,  undergraduate student of Jinan University, working on talking head
 
 Interns
 ======
