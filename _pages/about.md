@@ -19,8 +19,8 @@ About me
 
 News!
 ======
-*  Dec/9/2023,  Congrats to Han Sun for his first paper being accepted to IEEE Transactions on Instrumentation & Measurement.
-*  Dec/9/2023,  Glad to annouce that SyncTalk is accepted to CVPR 2024 main track.
+*  March22/2024,  Congrats to Han Sun for his first paper being accepted to IEEE Transactions on Instrumentation & Measurement.
+*  Fed/27/2024,  Glad to annouce that SyncTalk is accepted to CVPR 2024 main track.
 *  Dec/9/2023,  Our recent paper Everything2Motion is accepted to AAAI 2024 main track and the paper FurPE is accepted to AAAI 2024 workshop.  Congrats to all authors.
 *  Nov/17/2023,  Congrats to Yixing Lu for his first paper being accepted to International Conference on Multimedia Modeling
 *  Sep/21/2023,  We are awarded the second prize in the National Challenge Cup! I together with Professor [Li Ronghua](https://ronghuali.github.io/ronghuali.html) serve as the advisors of this project.
