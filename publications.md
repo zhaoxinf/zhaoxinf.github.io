@@ -5,6 +5,25 @@ permalink: /publications/
 author_profile: true
 ---
 
+* **Human Pose Driven Object Effects Recommendation** [[paper]](https://arxiv.org/pdf/2209.08353.pdf)    
+**Zhaoxin Fan**, Fengxin Li, Hongyan Liu, Jun He, and Xiaoyong Du  
+2024 ACM International Conference on Multimedia Retrieval, ICMR 2024
+
+* **ACR-Pose: Adversarial Canonical Representation Reconstruction Network for Category Level 6D Object Pose Estimation** [[paper]](https://arxiv.org/pdf/2111.10524.pdf)    
+**Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He 
+2024 ACM International Conference on Multimedia Retrieval, ICMR 2024
+
+* **STDG: Semi-Teacher-Student Training Paradigram for Depth-guided One-stage Scene Graph Generation** [[paper]](https://arxiv.org/pdf/2309.08179.pdf)    
+Xukun Zhou, Zhenbo Song, Jun He, Hongyan Liu, **Zhaoxin Fan(corresponding author)**  
+2024 ACM International Conference on Multimedia Retrieval, ICMR 2024
+
+* **CoDancers: Music-Driven Coherent Group Dance Generation with Choreographic Unit** [[paper]](https://arxiv.org)    
+Kaixing Yang, Xukun Zhou, Xulong Tang, Ran Diao, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**  
+2024 ACM International Conference on Multimedia Retrieval, ICMR 2024
+
+* **BeatDance: A Beat-Based Model-Agnostic Contrastive Learning Framework for Music-Dance Retrieval** [[paper]](https://arxiv.org/pdf/2310.10300.pdf)    
+Kaixing Yang, Xukun Zhou, Xulong Tang, Ran Diao, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**  
+2024 ACM International Conference on Multimedia Retrieval, ICMR 2024
 
 
 * **SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis** [[paper]](https://arxiv.org/pdf/2311.17590.pdf)[[code]](https://github.com/ZiqiaoPeng/SyncTalk)  
@@ -107,7 +126,7 @@ Computer Graphics Forum, CGF 2020.
 
 * **DAGC: Employing Dual Attention and Graph Convolution for Point Cloud based Place Recognition** [[paper]](https://dl.acm.org/doi/abs/10.1145/3372278.3390693)  
 Qi Sun, Hongyan Liu, Jun He, **Zhaoxin Fan**, and Xiaoyong Du  
-2020 ACM International Conference on Multimedia Retrieval  (ICMR 2020)
+2020 ACM International Conference on Multimedia Retrieval, ICMR 2020
 
 * **PointFPN: A Frustum-based Feature Pyramid Network for 3D Object Detection** [[paper]](https://ieeexplore.ieee.org/abstract/document/9288277)  
 **Zhaoxin Fan**, Hongyan Liu, Jun He, Siwei Jiang, and Xiaoyong Du  
@@ -124,20 +143,6 @@ Arxiv
 Arxiv paper
 
 
-* **Human Pose Driven Object Effects Recommendation** [[paper]](https://arxiv.org/pdf/2209.08353.pdf)    
-**Zhaoxin Fan**, Fengxin Li, Hongyan Liu, Jun He, and Xiaoyong Du  
-Arxiv paper
-
-
-
-* **ACR-Pose: Adversarial Canonical Representation Reconstruction Network for Category Level 6D Object Pose Estimation** [[paper]](https://arxiv.org/pdf/2111.10524.pdf)    
-**Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He 
-Arxiv paper
-
-
-* **STDG: Semi-Teacher-Student Training Paradigram for Depth-guided One-stage Scene Graph Generation** [[paper]](https://arxiv.org/pdf/2309.08179.pdf)    
-Xukun Zhou, Zhenbo Song, Jun He, Hongyan Liu, **Zhaoxin Fan(corresponding author)**  
-Arxiv paper
 
 
 
