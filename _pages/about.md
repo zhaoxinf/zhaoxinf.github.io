@@ -19,7 +19,8 @@ About me
 
 News!
 ======
-*  March22/2024,  Congrats to Han Sun for his first paper being accepted to IEEE Transactions on Instrumentation & Measurement.
+*  April/7/2024,  Excited to annouce that 5 papers are accepted to ICMR 2024.
+*  March/22/2024,  Congrats to Han Sun for his first paper being accepted to IEEE Transactions on Instrumentation & Measurement.
 *  Feb/27/2024,  Glad to annouce that SyncTalk is accepted to CVPR 2024 main track.
 *  Dec/9/2023,  Our recent paper Everything2Motion is accepted to AAAI 2024 main track and the paper FurPE is accepted to AAAI 2024 workshop.  Congrats to all authors.
 *  Nov/17/2023,  Congrats to Yixing Lu for his first paper being accepted to International Conference on Multimedia Modeling
@@ -68,7 +69,7 @@ IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2024
 
 * **MonoSIM: Simulating Learning Behaviors of Heterogeneous Point Cloud Object Detectors for Monocular 3D Object Detection** [[paper]](https://arxiv.org/pdf/2208.09446.pdf) [[code]](https://github.com/sunh18/MonoSIM)   
 Han Sun, **Zhaoxin Fan (equal contribution)**, Zhenbo Song, Zhicheng Wang, Kejian Wu, and Jianfeng Lu.  
-IEEE Transactions on Instrumentation & Measurement, 2024
+IEEE Transactions on Instrumentation & Measurement, TIM 2024
 
 * **Everything2Motion: Synchronizing Diverse Inputs via a Unified Framework for Human Motion Synthesis**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/27936)    
 **Zhaoxin Fan**, Longbin Li, Pengxin Xu, Fan Shen, kai Chen.  
