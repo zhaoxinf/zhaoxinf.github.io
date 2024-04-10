@@ -45,8 +45,8 @@ News!
 
 Work experience
 ======
-* Chief Young Scientist, Psyche AI Inc (2021 - Present)
-  * As the Chief Young Scientist at Psyche AI Inc, I am responsible for leading and overseeing various projects related to human body reconstruction, talking head technology, and 3D foundation models. In this role, I contribute my expertise in the development of innovative AI solutions that advance the field of computer vision and digital avatars.
+* Researcher, Psyche AI Inc (2021 - Present)
+  * As a researcher at Psyche AI Inc, I am responsible for leading and overseeing various projects related to human body reconstruction, talking head technology, and 3D foundation models. In this role, I contribute my expertise in the development of innovative AI solutions that advance the field of computer vision and digital avatars.
     
     
 * Remote Algorithm Researcher, Xreal (2021 - 2023)
