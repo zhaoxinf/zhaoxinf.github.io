@@ -47,14 +47,14 @@ Yixing Lu, **Zhaoxin Fan (equal contribution）**, Min Xu
 International Conference on Multimedia Modeling, MMM 2024
 
 * **A novel transformer autoencoder for multi-modal emotion recognition with incomplete data** [[paper]](https://www.sciencedirect.com/science/article/pii/S089360802400025X?casa_token=adiVdzjLKUsAAAAA:2wBEqdxXN0qWvMjNQmyBENFLP1G6r4on2P63VmbOhkAfE4vUe0V56XgAjPyRQ7nE8drvaLN8-8Sp)    
-Yixing Lu, Cheng Cheng, Wenzhe Liu, **Zhaoxin Fan**, Lin Feng, Ziyu Jia  
+Cheng Cheng, Wenzhe Liu, **Zhaoxin Fan**, Lin Feng, Ziyu Jia  
 Neural Networks, 2024
 
 * **EmoTalk: Speech-driven emotional disentanglement for 3D face animation** [[paper]](https://arxiv.org/pdf/2303.11089.pdf)[[code]](https://github.com/ZiqiaoPeng/EmoTalk)   
 Ziqiao Peng, Haoyu Wu, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**.  
 International Conference on Computer Vision, ICCV 2023.
 
-* **D-IF: Uncertainty-aware Human Digitization via Implicit Distribution Field** [[paper]](https://arxiv.org/pdf/2308.08857.pdf)[[code]](https://github.com/psyai-net/D-IF_release)   
+* **D-IF: Uncertainty-aware Human Digitization via Implicit Distribution Field** [[paper]](https://arxiv.org/pdf/2308.08857.pdf)[[code]](https://github.com/psyai-net/D-IF_release) 
 Xueting Yang, Yihao Luo, Yuliang Xiu, Wei Wang, Hao Xu, **Zhaoxin Fan(corresponding author)**.  
 International Conference on Computer Vision, ICCV 2023.
 
