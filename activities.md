@@ -9,7 +9,7 @@ author_profile: true
 
 President and Reviewer Roles
 ======
-* Reviewer for ICCV 2021, ICCV 2023.
+* Reviewer for ICCV 2021, 2023.
 * Reviewer for ECCV 2022,2024
 * Reviewer for CVPR 2022, 2023, 2024
 * Reviewer for 3DV 2022,2024
@@ -21,6 +21,8 @@ President and Reviewer Roles
 * Reviewer for Journal of Intelligent Systems.
 * Reviewer for IEEE Transactions on Multimedia.
 * Reviewer for IEEE Transactions on Industrial Informatics.
+* Reviewer for IEEE Transactions on Circuits and Systems for Video Technology.
+* Reviewer for International Journal of Computer Vision
 * Reviewer for IEEE Access.
 
 
