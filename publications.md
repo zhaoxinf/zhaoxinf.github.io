@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+* **MLPHand: Real Time Multi-View 3D Hand Mesh Reconstruction via MLP Modeling** [[paper]](https://arxiv.org/pdf/2209.08353.pdf)    
+Jian Yang, Jiakun Li, Guoming Li, Zhen Shen, Huai-Yu Wu, **Zhaoxin Fan(corresponding author)**
+European Conference on Computer Vision, ECCV 2024
+
 * **Human Pose Driven Object Effects Recommendation** [[paper]](https://arxiv.org/pdf/2209.08353.pdf)    
 **Zhaoxin Fan**, Fengxin Li, Hongyan Liu, Jun He, and Xiaoyong Du  
 2024 ACM International Conference on Multimedia Retrieval, ICMR 2024
