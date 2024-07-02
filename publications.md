@@ -5,8 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-* **MLPHand: Real Time Multi-View 3D Hand Mesh Reconstruction via MLP Modeling** [[paper]](https://arxiv.org/pdf/2209.08353.pdf)    
+* **MLPHand: Real Time Multi-View 3D Hand Mesh Reconstruction via MLP Modeling** [[paper]](https://arxiv.org/pdf/2406.16137) [[code]](https://github.com/jackyyang9/MLPHand)    
 Jian Yang, Jiakun Li, Guoming Li, Zhen Shen, Huai-Yu Wu, **Zhaoxin Fan(corresponding author)**
+
 European Conference on Computer Vision, ECCV 2024
 
 * **Human Pose Driven Object Effects Recommendation** [[paper]](https://arxiv.org/pdf/2209.08353.pdf)    
@@ -21,7 +22,7 @@ European Conference on Computer Vision, ECCV 2024
 Xukun Zhou, Zhenbo Song, Jun He, Hongyan Liu, **Zhaoxin Fan(corresponding author)**  
 2024 ACM International Conference on Multimedia Retrieval, ICMR 2024
 
-* **CoDancers: Music-Driven Coherent Group Dance Generation with Choreographic Unit** [[paper]](https://arxiv.org)    
+* **CoDancers: Music-Driven Coherent Group Dance Generation with Choreographic Unit** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3652583.3657998?casa_token=RD6esGQp39QAAAAA:mt64fM_vaz605hD5j6WBNBUELNVlzYBfxwsBNhhoS0NnLDxW4wyYIDrY0m5yxnT6Ykr6wi2fi5nOy0Y)    
 Kaixing Yang, Xukun Zhou, Xulong Tang, Ran Diao, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**  
 2024 ACM International Conference on Multimedia Retrieval, ICMR 2024
 
