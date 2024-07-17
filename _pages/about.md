@@ -14,7 +14,7 @@ About me
 
 * I am now working as an Assistant Researcher at Institute of Artificial Intelligence, Beihang University. I also work as a part time Assistant Professor at Institute of Automation，Chinese Academy of Sciences.
 
-* If you are interested in becoming my student or a close collaborator, please answer the following questions before contacting me via email:
+- If you are interested in becoming my student or a close collaborator, please answer the following questions before contacting me via email:
 
 * Firstly, familiarize yourself with my research area by reading my recent papers and visiting our research group's webpage. Research requires passion, and lack of interest may hinder persistence.
 
