@@ -16,7 +16,8 @@ About me
 
 * If you are interested in becoming my student or a close collaborator, please answer the following questions before contacting me via email:
 
-<div style="margin-left: 20px;">
+<div style="margin-left: 30px;">
+  
 * Firstly, familiarize yourself with my research area by reading my recent papers and visiting our research group's webpage. Research requires passion, and lack of interest may hinder persistence.
 
 * Consider your financial situation. Full dedication to research requires financial stability; if you are under significant financial strain, it might not be the right time to pursue a degree.
