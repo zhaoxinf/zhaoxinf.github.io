@@ -5,19 +5,37 @@ permalink: /students/
 author_profile: true
 ---
 
+Faculty
+======
+* Zhenbo Song, Associate Professor of Nanjing University of Science and Technolog.
+* Wanting Li, Assistant Professor of Institute of Automation，Chinese Academy of Sciences.
+* Pengju Zhang, Assistant Professor of Institute of Automation，Chinese Academy of Sciences.
+* Ming Meng,  Assistant Professor of Communication University of China.
+
+
 
 Ph.D student
 ======
 * Ziqiao Peng, PhD student of Renmin University of China, working on 3d faces driving.
 * Xukun Zhou, PhD student of Renmin University of China, working on whole body reconstruction.
 * Kaixing Yang, PhD student of Renmin University of China, working on video-music retrieval.
-* Jian Yang, Incoming PhD student of Beijing Institute of Technology, working on talking head. 
+* Wenjiang Xu, PhD student of Institute of Automation，Chinese Academy of Sciences, working on LLM.
+* Yinsong Qu, PhD student of Institute of Beijing Institute of Technology, working on SLAM.
+* Jian Yang, Incoming PhD student of Beijing Institute of Technology, working on talking head.
+
+  
 
 Master student
 ======
 * Ziyi Yang, master student of Communication University of China, working on text to speech.
 * Yufei Zhao, master student of Communication University of China, working on talking head.
 * Ke Mu, master student of Communication University of China, working on talking head.
+* Xingyu Wang, master student of Institute of Automation，Chinese Academy of Sciences, working on LLM.
+* Xinhao Kong, master student of Beijing Institute of Technology, working on Robotics.
+* Weiyun Yi, master student of Beijing Institute of Technology, working on Robotics.
+* Yongxu Wang, master student of University of Science and Technology of China, working on LLM.
+* Yifan Wang, master student of University of Science and Technology of China, working on LLM.
+* Guangchi Deng, master student of University of Science and Technology of China, working on SLAM.
 
 
 Undergraduate
