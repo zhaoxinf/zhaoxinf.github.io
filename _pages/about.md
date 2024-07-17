@@ -12,7 +12,7 @@ About me
 ======
 * I now serve as the chief young scientist of [Psyche AI Inc](https://www.psyai.com/home), fosuing on developing advanced AI algorithms for avatars, including avatar driving, avatar generation, and avatar reconsctrution.  I study my PhD in Renmin University of China, working with Prof. [Jun He](http://info.ruc.edu.cn/jsky/rtjs/index.htm) from RUC and Prof. [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1210/32067.htm) from THU. I also had nice time studying my  PhD at Carnegie Mellon University (CMU) and The Hong Kong University of Science and Technology（HKUST）. My research interests lie in the areas of computer vision and machine learning, specifically in place recognition, 6D pose estimation, human body reconstruction/generation/driving, and medical image processing.Please feel free to contact me by email if you are interested in my research.
 
-* I will join Institute of Automation，Chinese Academy of Sciences as an Assistant Professor since June 2024. Students and interns interested in robotics and computer vision are welcome to contact me for collaboration.
+* I am now working as an Assistant Researcher at Institute of Artificial Intelligence, Beihang University. I also work as a part time Assistant Professor at Institute of Automation，Chinese Academy of Sciences. Students and interns interested in LLM, robotics and computer vision are welcome to contact me for collaboration.
 
 
 <br>
