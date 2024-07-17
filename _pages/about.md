@@ -16,17 +16,17 @@ About me
 
 * If you are interested in becoming my student or a close collaborator, please answer the following questions before contacting me via email:
 
-Firstly, familiarize yourself with my research area by reading my recent papers and visiting our research group's webpage. Research requires passion, and lack of interest may hinder persistence.
+** Firstly, familiarize yourself with my research area by reading my recent papers and visiting our research group's webpage. Research requires passion, and lack of interest may hinder persistence.
 
-Consider your financial situation. Full dedication to research requires financial stability; if you are under significant financial strain, it might not be the right time to pursue a degree.
+** Consider your financial situation. Full dedication to research requires financial stability; if you are under significant financial strain, it might not be the right time to pursue a degree.
 
-If you are applying for a direct PhD or a combined Master's and PhD program, it implies that you see academia as a career path. Please decide after understanding the challenges and rewards of an academic life.
+** If you are applying for a direct PhD or a combined Master's and PhD program, it implies that you see academia as a career path. Please decide after understanding the challenges and rewards of an academic life.
 
-When applying for a Master's program, I value excellent undergraduate grades, a solid foundation in mathematics, proficient programming skills, and good English proficiency.
+** When applying for a Master's program, I value excellent undergraduate grades, a solid foundation in mathematics, proficient programming skills, and good English proficiency.
 
-I hope you are optimistic and proactive, with a resilient spirit, clear logical thinking, and good teamwork skills.
+** I hope you are optimistic and proactive, with a resilient spirit, clear logical thinking, and good teamwork skills.
 
-After considering these points, if you still wish to choose me as your mentor, please send your resume via email, including personal details, academic records, work or internship experiences, research experience, publications, and any other relevant information. I will respond as soon as possible.
+** After considering these points, if you still wish to choose me as your mentor, please send your resume via email, including personal details, academic records, work or internship experiences, research experience, publications, and any other relevant information. I will respond as soon as possible.
 
 
 <br>
