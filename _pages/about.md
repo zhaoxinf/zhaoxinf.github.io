@@ -12,7 +12,19 @@ About me
 ======
 * I now serve as the chief young scientist of [Psyche AI Inc](https://www.psyai.com/home), fosuing on developing advanced AI algorithms for avatars, including avatar driving, avatar generation, and avatar reconsctrution.  I study my PhD in Renmin University of China, working with Prof. [Jun He](http://info.ruc.edu.cn/jsky/rtjs/index.htm) from RUC and Prof. [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1210/32067.htm) from THU. I also had nice time studying my  PhD at Carnegie Mellon University (CMU) working with Prof. [Min Xu](https://xulabs.github.io/min-xu/) and The Hong Kong University of Science and Technology（HKUST）working with Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/). My research interests lie in the areas of computer vision and machine learning, specifically in place recognition, 6D pose estimation, human body reconstruction/generation/driving, and medical image processing.Please feel free to contact me by email if you are interested in my research.
 
-* I am now working as an Assistant Researcher at Institute of Artificial Intelligence, Beihang University. I also work as a part time Assistant Professor at Institute of Automation，Chinese Academy of Sciences. Students and interns interested in LLM, robotics and computer vision are welcome to contact me for collaboration.
+* I am now working as an Assistant Researcher at Institute of Artificial Intelligence, Beihang University. I also work as a part time Assistant Professor at Institute of Automation，Chinese Academy of Sciences.
+
+* If you are interested in becoming my student or a close collaborator, please answer the following questions before contacting me via email: Firstly, familiarize yourself with my research area by reading my recent papers and visiting our research group's webpage. Research requires passion, and lack of interest may hinder persistence.
+
+Consider your financial situation. Full dedication to research requires financial stability; if you are under significant financial strain, it might not be the right time to pursue a degree.
+
+If you are applying for a direct PhD or a combined Master's and PhD program, it implies that you see academia as a career path. Please decide after understanding the challenges and rewards of an academic life.
+
+When applying for a Master's program, I value excellent undergraduate grades, a solid foundation in mathematics, proficient programming skills, and good English proficiency.
+
+I hope you are optimistic and proactive, with a resilient spirit, clear logical thinking, and good teamwork skills.
+
+After considering these points, if you still wish to choose me as your mentor, please send your resume via email, including personal details, academic records, work or internship experiences, research experience, publications, and any other relevant information. I will respond as soon as possible.
 
 
 <br>
