@@ -16,8 +16,7 @@ About me
 
 * If you are interested in becoming my student or a close collaborator, please answer the following questions before contacting me via email:
 
-<div style="margin-left: 30px;">
-  
+<div style="margin-left: 30px;">  
 * Firstly, familiarize yourself with my research area by reading my recent papers and visiting our research group's webpage. Research requires passion, and lack of interest may hinder persistence.
 
 * Consider your financial situation. Full dedication to research requires financial stability; if you are under significant financial strain, it might not be the right time to pursue a degree.
@@ -28,9 +27,7 @@ About me
 
 * I hope you are optimistic and proactive, with a resilient spirit, clear logical thinking, and good teamwork skills.
 
-* After considering these points, if you still wish to choose me as your mentor, please send your resume via email, including personal details, academic records, work or internship experiences, research experience, publications, and any other relevant information. I will respond as soon as possible.
-  
-</div>
+* After considering these points, if you still wish to choose me as your mentor, please send your resume via email, including personal details, academic records, work or internship experiences, research experience, publications, and any other relevant information. I will respond as soon as possible.</div>
 
 
 
