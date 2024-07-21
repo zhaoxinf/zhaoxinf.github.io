@@ -10,9 +10,13 @@ redirect_from:
 
 About me
 ======
-* I now serve as the chief young scientist of [Psyche AI Inc](https://www.psyai.com/home), fosuing on developing advanced AI algorithms for avatars, including avatar driving, avatar generation, and avatar reconsctrution.  I study my PhD in Renmin University of China, working with Prof. [Jun He](http://info.ruc.edu.cn/jsky/rtjs/index.htm) from RUC and Prof. [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1210/32067.htm) from THU. I also had nice time studying my  PhD at Carnegie Mellon University (CMU) working with Prof. [Min Xu](https://xulabs.github.io/min-xu/) and The Hong Kong University of Science and Technology（HKUST）working with Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/). My research interests lie in the areas of computer vision and machine learning, specifically in place recognition, 6D pose estimation, human body reconstruction/generation/driving, and medical image processing.Please feel free to contact me by  email (fanzhaoxinruc@gmail.com or zhaoxinf@buaa.edu.cn), if you are interested in my research.
+* I am now working as an Assistant Researcher at Institute of Artificial Intelligence, Beihang University. I also work as a part time Assistant Researcher at Institute of Automation，Chinese Academy of Sciences.
 
-* I am now working as an Assistant Researcher at Institute of Artificial Intelligence, Beihang University. I also work as a part time Assistant Professor at Institute of Automation，Chinese Academy of Sciences.
+* I now also working as the chief young scientist of [Psyche AI Inc](https://www.psyai.com/home), fosuing on developing advanced AI algorithms for avatars, including avatar driving, avatar generation, and avatar reconsctrution.
+
+*   I study my PhD in Renmin University of China, working with Prof. [Jun He](http://info.ruc.edu.cn/jsky/rtjs/index.htm) from RUC and Prof. [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1210/32067.htm) from THU. I also had nice time studying my  PhD at Carnegie Mellon University (CMU) working with Prof. [Min Xu](https://xulabs.github.io/min-xu/) and The Hong Kong University of Science and Technology（HKUST）working with Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/). My research interests lie in the areas of computer vision and machine learning, specifically in place recognition, 6D pose estimation, human body reconstruction/generation/driving, and medical image processing.Please feel free to contact me by  email (fanzhaoxinruc@gmail.com or zhaoxinf@buaa.edu.cn), if you are interested in my research.
+
+
 
 * If you are interested in becoming my student or a close collaborator, please answer the following questions before contacting me via email:
   * Firstly, familiarize yourself with my research area by reading my recent papers and visiting our research group's webpage. Research requires passion, and lack of interest may hinder persistence.
