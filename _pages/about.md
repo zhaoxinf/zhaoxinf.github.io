@@ -10,8 +10,8 @@ redirect_from:
 
 About me
 ======
-* I am now working as an Assistant Researcher at Institute of Artificial Intelligence, Beihang University. I also work as a part time Assistant Researcher at Institute of Automation，Chinese Academy of Sciences.
-
+* I am now working as an Assistant Researcher at Institute of Artificial Intelligence, Beihang University.
+  
 * I am now also working as the chief young scientist of [Psyche AI Inc](https://www.psyai.com/home), fosuing on developing advanced AI algorithms for avatars, including avatar driving, avatar generation, and avatar reconsctrution.
 
 *   I study my PhD in Renmin University of China, working with Prof. [Jun He](http://info.ruc.edu.cn/jsky/rtjs/index.htm) from RUC and Prof. [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1210/32067.htm) from THU. I also had nice time studying my  PhD at Carnegie Mellon University (CMU) working with Prof. [Min Xu](https://xulabs.github.io/min-xu/) and The Hong Kong University of Science and Technology（HKUST）working with Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/). My research interests lie in the areas of computer vision and machine learning, specifically in place recognition, 6D pose estimation, human body reconstruction/generation/driving, and robotics and LLs.Please feel free to contact me by  email (fanzhaoxinruc@gmail.com or zhaoxinf@buaa.edu.cn), if you are interested in my research.
