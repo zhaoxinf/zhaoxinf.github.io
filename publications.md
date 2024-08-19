@@ -151,7 +151,7 @@ Arxiv paper
 
 
 *  Chinese National Invention Patent: 一种限高装置高度检测方法和系统. 国家发明专利. 实审公开
-*  Chinese National Invention Patent: 一种使用单目RGB图像进行虚拟人驱动的方法. 国家发明专利. 实审公开
-*  Chinese National Invention Patent: 一种基于情绪解耦的3D说话人驱动技术. 国家发明专利. 在申
-*  Chinese National Invention Patent: 一种基于自监督语音-文本对齐的说话人唇形驱动方法. 国家发明专利. 在申
-*  Chinese National Invention Patent: 一种基于音频驱动的实时超写实数字人驱动方法. 国家发明专利. 在申
+*  Chinese National Invention Patent: 一种使用单目RGB图像进行虚拟人驱动的方法. 国家发明专利. 实质审查
+*  Chinese National Invention Patent: 一种基于情绪解耦的3D说话人驱动技术. 国家发明专利. 实质审查
+*  Chinese National Invention Patent: 一种基于自监督语音-文本对齐的说话人唇形驱动方法. 国家发明专利. 实质审查
+*  Chinese National Invention Patent: 一种基于唇型合成技术的2D真人数字化身生成方法. 国家发明专利. 实质审查
