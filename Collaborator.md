@@ -7,6 +7,7 @@ author_profile: true
 
 Faculty
 ======
+* Xiaomei Zhang, Associate Professor of Institute of Automation，Chinese Academy of Sciences.
 * Zhenbo Song, Associate Professor of Nanjing University of Science and Technolog.
 * Wanting Li, Assistant Professor of Institute of Automation，Chinese Academy of Sciences.
 * Pengju Zhang, Assistant Professor of Institute of Automation，Chinese Academy of Sciences.
