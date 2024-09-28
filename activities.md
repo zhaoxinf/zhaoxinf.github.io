@@ -38,7 +38,9 @@ Awards
 
 Invited Talks
 ======
-* 数字人、大模型在AIGC中的应用与挑战 [Video](https://www.bilibili.com/video/BV1Xh4y1F7Ec/?spm_id_from=333.337.search-card.all.click&vd_source=9b8cafd86a6ccf076687721b5d1561be)
-* 将科幻照进现实——元宇宙数字人的当下与未来 [Video](https://www.bilibili.com/video/BV1Ld4y177M9/?spm_id_from=333.337.search-card.all.click&vd_source=9b8cafd86a6ccf076687721b5d1561be)
-* 华为2023特邀讲座：基于隐式参数化模型的3D人体重建和人脸驱动前沿进展介绍
 * 华为2024特邀讲座：AIGC时代下的数字人技术革新与介绍
+* 中国铁建大桥局创新院2024特邀讲座：大模型驱动的人形机器人技术与展望[News](https://mp.weixin.qq.com/s/2HvOPghJFI7BN_GgOqkm2A)
+* 华为2023特邀讲座：基于隐式参数化模型的3D人体重建和人脸驱动前沿进展介绍
+* AI Time 2023特邀讲座：数字人、大模型在AIGC中的应用与挑战 [Video](https://www.bilibili.com/video/BV1Xh4y1F7Ec/?spm_id_from=333.337.search-card.all.click&vd_source=9b8cafd86a6ccf076687721b5d1561be)
+* AI Time 2022特邀讲座将科幻照进现实——元宇宙数字人的当下与未来 [Video](https://www.bilibili.com/video/BV1Ld4y177M9/?spm_id_from=333.337.search-card.all.click&vd_source=9b8cafd86a6ccf076687721b5d1561be)
+
