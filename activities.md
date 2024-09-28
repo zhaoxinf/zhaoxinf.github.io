@@ -9,26 +9,30 @@ author_profile: true
 
 President and Reviewer Roles
 ======
-* Reviewer for ICCV 2021, 2023.
+* Reviewer for ICCV 2021, 2023
 * Reviewer for ECCV 2022,2024
 * Reviewer for CVPR 2022, 2023, 2024
 * Reviewer for 3DV 2022,2024
-* Reviewer for AAAI 2023, 2024.
-* Reviewer for APBC 2022, 2023.
-* Reviewer for RECOMB 2023.
-* Reviewer for 自动化学报.
-* Reviewer for IEEE Robotics and Automation Letters.
-* Reviewer for Journal of Intelligent Systems.
-* Reviewer for IEEE Transactions on Multimedia.
-* Reviewer for IEEE Transactions on Industrial Informatics.
-* Reviewer for IEEE Transactions on Circuits and Systems for Video Technology.
+* Reviewer for AAAI 2023, 2024
+* Reviewer for APBC 2022, 2023
+* Reviewer for RECOMB 2023
+* Reviewer for 自动化学报
+* Reviewer for IEEE Robotics and Automation Letters
+* Reviewer for Journal of Intelligent Systems
+* Reviewer for IEEE Transactions on Multimedia
+* Reviewer for IEEE Transactions on Industrial Informatics
+* Reviewer for IEEE Transactions on Circuits and Systems for Video Technology
 * Reviewer for International Journal of Computer Vision
 * Reviewer for IEEE Access.
 
 
 Awards
 ======
-* National scholarship for PhD
+* Future Scientist Scholarship from Psyche AI,  along with a bonus of 150,000 CNY.
+* The first prize in the "Technology Star" research application activity, along with a bonus of 80,000 CNY.
+* Full financial support for PhD Student from CMU.
+* Full financial support for PhD Student from HKUST.
+* National scholarship for PhD.
 * Second prize in the National Challenge Cup
 
 
@@ -36,3 +40,5 @@ Invited Talks
 ======
 * 数字人、大模型在AIGC中的应用与挑战 [Video](https://www.bilibili.com/video/BV1Xh4y1F7Ec/?spm_id_from=333.337.search-card.all.click&vd_source=9b8cafd86a6ccf076687721b5d1561be)
 * 将科幻照进现实——元宇宙数字人的当下与未来 [Video](https://www.bilibili.com/video/BV1Ld4y177M9/?spm_id_from=333.337.search-card.all.click&vd_source=9b8cafd86a6ccf076687721b5d1561be)
+* 华为2023特邀讲座：基于隐式参数化模型的3D人体重建和人脸驱动前沿进展介绍
+* 华为2024特邀讲座：AIGC时代下的数字人技术革新与介绍
