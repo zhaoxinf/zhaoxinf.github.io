@@ -14,7 +14,7 @@ About me
   
 * I am now also working as the chief young scientist of [Psyche AI Inc](https://www.psyai.com/home), fosuing on developing advanced AI algorithms for avatars, including avatar driving, avatar generation, and avatar reconsctrution. 
 
-*   I study my PhD in Renmin University of China, working with Prof. [Jun He](http://info.ruc.edu.cn/jsky/rtjs/index.htm) from RUC and Prof. [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1210/32067.htm) from THU. I also had nice time studying my  PhD at Carnegie Mellon University (CMU) working with Prof. [Min Xu](https://xulabs.github.io/min-xu/) and The Hong Kong University of Science and Technology（HKUST）working with Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/). My research interests lie in the areas of multi-modal LLMs, avatars, and embodied AI.Please feel free to contact me by  email (fanzhaoxinruc@gmail.com or zhaoxinf@buaa.edu.cn), if you are interested in my research.
+* I pursued my PhD from 2019 to 2024 across three prestigious institutions: Carnegie Mellon University, The Hong Kong University of Science and Technology, and Renmin University of China. At CMU, I had the privilege of working under the guidance of Prof. Min Xu. My time at HKUST was spent collaborating with Prof. Kai Chen. While at RUC, I worked closely with Prof. Jun He and Prof. Hongyan Liu from Tsinghua University. My research interests lie in the areas of multi-modal LLMs, avatars, and embodied AI.Please feel free to contact me by  email (fanzhaoxinruc@gmail.com or zhaoxinf@buaa.edu.cn), if you are interested in my research.
 
 
 
