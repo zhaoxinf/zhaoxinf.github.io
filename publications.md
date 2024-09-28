@@ -102,14 +102,14 @@ European Conference on Computer Vision-the 3rd Autonomous Vehicle Vision Worksho
 36th AAAI Conference on Artificial Intelligence, AAAI 2022.
 
 
-* **Unsupervised Multi-task Learning for 3D Subtomogram Image Alignment, Clustering and Segmentation** [[paper]](https://arxiv.org/pdf)      
+* **Unsupervised Multi-task Learning for 3D Subtomogram Image Alignment, Clustering and Segmentation** [[paper]](https://repository.kaust.edu.sa/server/api/core/bitstreams/97ddabc6-8dde-403c-a7f2-4da45368545f/content)      
 Haoyi Zhu, Chuting Wang, Yuanxin Wang, **Zhaoxin Fan**, Mostofa Rafid Uddin, Xin Gao, Jing Zhang, Xiangrui Zeng and Min Xu  
 IEEE International Conference on Information Processing, ICIP 2022.
 
-
-* **PilotAttnNet: Multi-Modal Attention Network for End-to-End Steering Control** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-18913-5_14) 
+* **PilotAttnNet: Multi-Modal Attention Network for End-to-End Steering Control** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-18913-5_14)      
 Jincan Zhang, Zhenbo Song, Jianfeng Lu, Xingwei Qu, **Zhaoxin Fan**  
-Chinese Conference on Pattern Recognition and Computer Vision, PRCV 2022.
+Chinese Conference on Pattern Recognition and Computer Vision, PRCV  2022.
+
 
 
 * **Deep Learning on Monocular Object Pose Detection and Tracking: A Comprehensive Overview** [[paper]](https://arxiv.org/pdf/2105.14291.pdf)  
