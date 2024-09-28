@@ -18,7 +18,7 @@ European Conference on Computer Vision, ECCV 2024
 2024 ACM International Conference on Multimedia Retrieval, ICMR 2024
 
 
-* **STDG: Semi-Teacher-Student Training Paradigram for Depth-guided One-stage Scene Graph Generation** [[paper]](https://arxiv.org/pdf/2309.08179.pdf) [[code]] (https://github.com/zxk19981227/STDG)  
+* **STDG: Semi-Teacher-Student Training Paradigram for Depth-guided One-stage Scene Graph Generation** [[paper]](https://arxiv.org/pdf/2309.08179.pdf) [[code]](https://github.com/zxk19981227/STDG)  
 Xukun Zhou, Zhenbo Song, Jun He, Hongyan Liu, **Zhaoxin Fan(corresponding author)**  
 2024 ACM International Conference on Multimedia Retrieval, ICMR 2024
 
