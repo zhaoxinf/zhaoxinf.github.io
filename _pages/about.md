@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-* I am now working as an Assistant Researcher at Institute of Artificial Intelligence, Beihang University.  I am also a Joint Appointment Researcher at The Institute of AI (TeleAI), China Telecom, Beijing, P.R. China.
+* I am now working as an Assistant Researcher at Institute of Artificial Intelligence, Beihang University, working with Prof [[Zhiming Zheng]](https://iai.buaa.edu.cn/info/1013/1088.htm), Academician of the Chinese Academy of Sciences（中国科学院院士）.  I am also a Joint Appointment Researcher at The Institute of AI (TeleAI), China Telecom, Beijing, P.R. China.
   
 * I am now also working as the chief young scientist of [Psyche AI Inc](https://www.psyai.com/home), fosuing on developing advanced AI algorithms for avatars, including avatar driving, avatar generation, and avatar reconsctrution. 
 
