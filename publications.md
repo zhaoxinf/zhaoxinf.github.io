@@ -63,6 +63,7 @@ International Conference on Computer Vision, ICCV 2023.
 Xueting Yang, Yihao Luo, Yuliang Xiu, Wei Wang, Hao Xu, **Zhaoxin Fan(corresponding author)**.  
 International Conference on Computer Vision, ICCV 2023.
 
+
 * **SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces** [[paper]](https://arxiv.org/pdf/2306.10799.pdf)[[code]](https://github.com/psyai-net/SelfTalk_release)  
 Ziqiao Peng, Yihao Luo, Yue Shi, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**.  
 ACM International Conference on Multimedia, ACM MM 2023
