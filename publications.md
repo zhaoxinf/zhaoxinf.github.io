@@ -14,8 +14,8 @@ European Conference on Computer Vision, ECCV 2024
 2024 ACM International Conference on Multimedia Retrieval, ICMR 2024
 
 * **ACR-Pose: Adversarial Canonical Representation Reconstruction Network for Category Level 6D Object Pose Estimation** [[paper]](https://arxiv.org/pdf/2111.10524.pdf)    
-**Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He 
-2024 ACM International Conference on Multimedia Retrieval, ICMR 2024
+**Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He
+  2024 ACM International Conference on Multimedia Retrieval, ICMR 2024
 
 * **STDG: Semi-Teacher-Student Training Paradigram for Depth-guided One-stage Scene Graph Generation** [[paper]](https://arxiv.org/pdf/2309.08179.pdf)    
 Xukun Zhou, Zhenbo Song, Jun He, Hongyan Liu, **Zhaoxin Fan(corresponding author)**  
