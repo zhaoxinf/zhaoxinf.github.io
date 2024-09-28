@@ -59,9 +59,10 @@ Neural Networks, 2024
 Ziqiao Peng, Haoyu Wu, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**.  
 International Conference on Computer Vision, ICCV 2023.
 
-* **D-IF: Uncertainty-aware Human Digitization via Implicit Distribution Field** [[paper]](https://arxiv.org/pdf/2308.08857.pdf)[[code]](https://github.com/psyai-net/D-IF_release) 
-Xueting Yang, Yihao Luo, Yuliang Xiu, Wei Wang, Hao Xu, **Zhaoxin Fan(corresponding author)**.  
+* **D-IF: Uncertainty-aware Human Digitization via Implicit Distribution Field** [[paper]](https://arxiv.org/pdf/2308.08857.pdf)[[code]](https://github.com/psyai-net/D-IF_release)   
+Ziqiao Peng, Haoyu Wu, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**.  
 International Conference on Computer Vision, ICCV 2023.
+
 
 
 * **SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces** [[paper]](https://arxiv.org/pdf/2306.10799.pdf)[[code]](https://github.com/psyai-net/SelfTalk_release)  
