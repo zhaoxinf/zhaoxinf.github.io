@@ -19,10 +19,24 @@ Ph.D student
 ======
 * Ziqiao Peng, PhD student of Renmin University of China, working on 3d faces driving.
 * Xukun Zhou, PhD student of Renmin University of China, working on whole body reconstruction.
-* Kaixing Yang, PhD student of Renmin University of China, working on video-music retrieval.
-* Wenjiang Xu, PhD student of Institute of Automation，Chinese Academy of Sciences, working on LLM.
-* Yinsong Qu, PhD student of Institute of Beijing Institute of Technology, working on SLAM.
-* Jian Yang, Incoming PhD student of Beijing Institute of Technology, working on talking head.
+* Kaixing Yang, PhD student of Renmin University of China, working on dance generation.
+* Tianbao Zhang, PhD student of Shanghai Jiaotong University, working on embodied AI.
+* Feiyuang Li, PhD student of  HKUST, working on Machine Learning System.
+* Shuo Wang, PhD student of Renmin University of China, working on SLAM.
+* Xudong Cai, PhD student of Renmin University of China, working on SLAM.
+* Xiaochen Lin, PhD student of Tsinghua University, working on  embodied AI.
+* Yuer Li,  PhD student of Tsinghua University, working on  avatar generation.
+* Huilin Zhou,  PhD student of University of Science and Technology of China, working on llm agent.
+* Yuhang Wang, PhD student of Fudan University, working on llm security.
+* Pengxiang Ding, PhD student of Zhejiang University, working on  working on  embodied AI.
+* Jun Zhang,  PhD student of Chinese Academy of Sciences, working on llm agent.
+* Boyu, PhD student of University College London, working on 3d reconstruction.
+* Zhiling, PhD student of Jinan University, working on avatar security.
+* Zepen Yang, PhD student of Institute of Beijing Institute of Technology, working on SLAM.
+* Junhao Wu,  PhD student of Towson University, working on 3D reconstruction.
+* Jian Yang, Incoming PhD student of Renmin University of China, working on talking head.
+* Chengwei Wu, Incoming PhD student of Renmin University of China, working on talking head.
+  
 
   
 
@@ -32,17 +46,21 @@ Master student
 * Yufei Zhao, master student of Communication University of China, working on talking head.
 * Ke Mu, master student of Communication University of China, working on talking head.
 * Xingyu Wang, master student of Institute of Automation，Chinese Academy of Sciences, working on LLM.
-* Xinhao Kong, master student of Beijing Institute of Technology, working on Robotics.
-* Weiyun Yi, master student of Beijing Institute of Technology, working on Robotics.
 * Yongxu Wang, master student of University of Science and Technology of China, working on LLM.
 * Yifan Wang, master student of University of Science and Technology of China, working on LLM.
-* Guangchi Deng, master student of University of Science and Technology of China, working on SLAM.
+* Gen Li, master student of Beihang University, working on LLM.
+* Xinyu Wang, master student of Beihang University, working on LLM.
+* Ye Qiu, master student of Beihang University, working on LLM.
+* Yuanze Hu，master student of Beihang University, working on LLM.
+
 
 
 Undergraduate
 ======
-* Haoyu Wu, undergraduate student of Renmin University of China, working on 3d faces reconstruction
-* Junhao Wu,  undergraduate student of Jinan University, working on talking head
+* Haoyu Wu, undergraduate student of Renmin University of China, working on 3d faces reconstruction.
+* Zhanli, undergraduate student of Beihang University, working on avatar driven.
+* Xingxing Xiang,undergraduate student of   University of International Business and Economics, working on industry data generation.
+
 
 Interns
 ======
