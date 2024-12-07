@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+* **Idea-2-3D: Collaborative LMM Agents Enable 3D Model Generation from Interleaved Multimodal Inputs** [[paper]](https://arxiv.org/pdf/2404.04363) [[code]](https://air-discover.github.io/Idea-2-3D/)    
+Junhao Chen, Xiang Li, Xiaojun Ye,Xiaojun Ye,**Zhaoxin Fan(corresponding author)**, Hao Zhao 
+The 31st International Conference on Computational Linguistics (COLING 2025)
+
+
 * **MLPHand: Real Time Multi-View 3D Hand Mesh Reconstruction via MLP Modeling** [[paper]](https://arxiv.org/pdf/2406.16137) [[code]](https://github.com/jackyyang9/MLPHand)    
 Jian Yang, Jiakun Li, Guoming Li, Zhen Shen, Huai-Yu Wu, **Zhaoxin Fan(corresponding author)**  
 European Conference on Computer Vision, ECCV 2024
@@ -60,7 +65,7 @@ Ziqiao Peng, Haoyu Wu, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, **
 International Conference on Computer Vision, ICCV 2023.
 
 * **D-IF: Uncertainty-aware Human Digitization via Implicit Distribution Field** [[paper]](https://arxiv.org/pdf/2308.08857.pdf)[[code]](https://github.com/psyai-net/D-IF_release)   
-Ziqiao Peng, Haoyu Wu, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**.  
+Xueting Yang, Yihao Luo, Yuliang Xiu, Wei Wang, Hao Xu, **Zhaoxin Fan(corresponding author)**.  
 International Conference on Computer Vision, ICCV 2023.
 
 
