@@ -30,6 +30,7 @@ About me
 
 News!
 ======
+*  Dec/1/2024,  Glad to annouce that Idea-2-3d is accepted to Coling 2025 main track.
 *  July/1/2024,  Glad to annouce that MLPHand is accepted to ECCV 2024 main track.
 *  April/7/2024,  Excited to annouce that 5 papers are accepted to ICMR 2024.
 *  March/22/2024,  Congrats to Han Sun for his first paper being accepted to IEEE Transactions on Instrumentation & Measurement.
