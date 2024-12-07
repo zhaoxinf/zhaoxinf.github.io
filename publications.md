@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 * **Idea-2-3D: Collaborative LMM Agents Enable 3D Model Generation from Interleaved Multimodal Inputs** [[paper]](https://arxiv.org/pdf/2404.04363) [[code]](https://air-discover.github.io/Idea-2-3D/)    
-Junhao Chen, Xiang Li, Xiaojun Ye,Xiaojun Ye,**Zhaoxin Fan(corresponding author)**, Hao Zhao
- The 31st International Conference on Computational Linguistics (COLING 2025)
+Junhao Chen, Xiang Li, Xiaojun Ye,Xiaojun Ye,**Zhaoxin Fan(corresponding author)**, Hao Zhao     
+The 31st International Conference on Computational Linguistics (COLING 2025)
 
 
 * **MLPHand: Real Time Multi-View 3D Hand Mesh Reconstruction via MLP Modeling** [[paper]](https://arxiv.org/pdf/2406.16137) [[code]](https://github.com/jackyyang9/MLPHand)    
