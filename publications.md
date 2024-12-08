@@ -31,7 +31,7 @@ Xukun Zhou, Zhenbo Song, Jun He, Hongyan Liu, **Zhaoxin Fan(corresponding author
 Kaixing Yang, Xukun Zhou, Xulong Tang, Ran Diao, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**  
 2024 ACM International Conference on Multimedia Retrieval, ICMR 2024
 
-* **BeatDance: A Beat-Based Model-Agnostic Contrastive Learning Framework for Music-Dance Retrieval** [[paper]](https://arxiv.org/pdf/2310.10300.pdf)    
+* **BeatDance: A Beat-Based Model-Agnostic Contrastive Learning Framework for Music-Dance Retrieval** [[paper]](https://arxiv.org/pdf/2310.10300.pdf)[[code]](https://github.com/XulongT/BeatDance)    
 Kaixing Yang, Xukun Zhou, Xulong Tang, Ran Diao, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**  
 2024 ACM International Conference on Multimedia Retrieval, ICMR 2024
 
