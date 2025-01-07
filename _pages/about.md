@@ -1,12 +1,4 @@
-![image](https://github.com/user-attachments/assets/b50b4094-3437-4770-a91a-0d5e8dda059b)---
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 About me
 ======
