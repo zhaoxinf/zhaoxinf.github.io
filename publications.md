@@ -5,10 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-* **VarGes: Improving Variation in Co-Speech 3D Gesture Generation via StyleCLIPS** [[paper]](https://arxiv.org/pdf/2502.10729) [[code]](https://github.com/mookerr/VarGES/)
-  Ming Meng; Ke Mu; Yonggui Zhu; Zhe Zhu; Haoyu Sun; Heyang Yan; **Zhaoxin Fan(corresponding author)**     
+* **VarGes: Improving Variation in Co-Speech 3D Gesture Generation via StyleCLIPS** [[paper]](https://arxiv.org/pdf/2502.10729) [[code]]([https://air-discover.github.io/Idea-2-3D/](https://github.com/mookerr/VarGES/))    
+Ming Meng; Ke Mu; Yonggui Zhu; Zhe Zhu; Haoyu Sun; Heyang Yan; **Zhaoxin Fan(corresponding author)**     
 Computational Visual Media (CVMJ 2025)
-
 
 * **Idea-2-3D: Collaborative LMM Agents Enable 3D Model Generation from Interleaved Multimodal Inputs** [[paper]](https://arxiv.org/pdf/2404.04363) [[code]](https://air-discover.github.io/Idea-2-3D/)    
 Junhao Chen, Xiang Li, Xiaojun Ye,Xiaojun Ye,**Zhaoxin Fan(corresponding author)**, Hao Zhao     
