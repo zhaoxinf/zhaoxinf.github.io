@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * **VarGes: Improving Variation in Co-Speech 3D Gesture Generation via StyleCLIPS** [[paper]](https://arxiv.org/pdf/2502.10729) [[code]](https://github.com/mookerr/VarGES/)
-Ming Meng; Ke Mu; Yonggui Zhu; Zhe Zhu; Haoyu Sun; Heyang Yan; **Zhaoxin Fan(corresponding author)**     
+  Ming Meng; Ke Mu; Yonggui Zhu; Zhe Zhu; Haoyu Sun; Heyang Yan; **Zhaoxin Fan(corresponding author)**     
 Computational Visual Media (CVMJ 2025)
 
 
