@@ -37,6 +37,7 @@ About me
 
 News!
 ======
+*  Feb/27/2024,  Excited to annouce that 3 papers are accepted to CVPR 2025 !
 *  Feb/12/2024,  Excited to annouce that VarGes is  accepted to CVMJ. The impact factor of CVMJ is 17.3.
 *  Dec/1/2024,  Glad to annouce that Idea-2-3d is accepted to Coling 2025 main track.
 *  July/1/2024,  Glad to annouce that MLPHand is accepted to ECCV 2024 main track.
