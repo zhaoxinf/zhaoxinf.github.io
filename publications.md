@@ -14,6 +14,10 @@ IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2025
 Shuo Wang, Wanting Li, Yongcai Wang, **Zhaoxin Fan(corresponding author)**, Zhe Huang, Xudong Cai, Jian Zhao, Deying Li     
 IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2025
 
+* **JTD-UAV: MLLM-Enhanced Joint Tracking and Description Framework for Anti-UAV Systems** [[paper]](https://arxiv.org/) [[code]](https://github.com/)    
+Yifan Wang, Jian Zhao, **Zhaoxin Fan(corresponding author)**, Xin Zhang, Xuecheng Wu, Yudian Zhang, Lei Jin, Xinyue Li, Gang Wang, Mengxi Jia, Ping Hu, Zheng Zhu, Xuelong Li     
+IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2025
+
 * **VarGes: Improving Variation in Co-Speech 3D Gesture Generation via StyleCLIPS** [[paper]](https://arxiv.org/pdf/2502.10729) [[code]](https://github.com/mookerr/VarGES/)    
 Ming Meng; Ke Mu; Yonggui Zhu; Zhe Zhu; Haoyu Sun; Heyang Yan; **Zhaoxin Fan(corresponding author)**     
 Computational Visual Media (CVMJ 2025)
