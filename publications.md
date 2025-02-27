@@ -5,6 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+* **DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations** [[paper]](https://arxiv.org/) [[code]](https://github.com/)    
+Ziqiao Peng, Yanbo Fan, Haoyu Wu, Xuan Wang, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**     
+IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2025
+
+
+* **MambaVO: Deep Visual Odometry Based on Sequential Matching Refinement Training Smoothing** [[paper]](https://arxiv.org/pdf/2412.20082) [[code]](https://github.com/)    
+Shuo Wang, Wanting Li, Yongcai Wang, **Zhaoxin Fan(corresponding author)**, Zhe Huang, Xudong Cai, Jian Zhao, Deying Li     
+IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2025
+
 * **VarGes: Improving Variation in Co-Speech 3D Gesture Generation via StyleCLIPS** [[paper]](https://arxiv.org/pdf/2502.10729) [[code]](https://github.com/mookerr/VarGES/)    
 Ming Meng; Ke Mu; Yonggui Zhu; Zhe Zhu; Haoyu Sun; Heyang Yan; **Zhaoxin Fan(corresponding author)**     
 Computational Visual Media (CVMJ 2025)
