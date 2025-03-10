@@ -85,6 +85,21 @@ Working Experience
 
 Selected Publications
 ======
+
+* **DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations** [[paper]](https://arxiv.org/) [[code]](https://github.com/)    
+Ziqiao Peng, Yanbo Fan, Haoyu Wu, Xuan Wang, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**     
+IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2025
+
+
+* **MambaVO: Deep Visual Odometry Based on Sequential Matching Refinement Training Smoothing** [[paper]](https://arxiv.org/pdf/2412.20082) [[code]](https://github.com/)    
+Shuo Wang, Wanting Li, Yongcai Wang, **Zhaoxin Fan(corresponding author)**, Zhe Huang, Xudong Cai, Jian Zhao, Deying Li     
+IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2025
+
+* **JTD-UAV: MLLM-Enhanced Joint Tracking and Description Framework for Anti-UAV Systems** [[paper]](https://arxiv.org/) [[code]](https://github.com/)    
+Yifan Wang, Jian Zhao, **Zhaoxin Fan(corresponding author)**, Xin Zhang, Xuecheng Wu, Yudian Zhang, Lei Jin, Xinyue Li, Gang Wang, Mengxi Jia, Ping Hu, Zheng Zhu, Xuelong Li     
+IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2025
+
+
 * **MLPHand: Real Time Multi-View 3D Hand Mesh Reconstruction via MLP Modeling** [[paper]](https://arxiv.org/pdf/2406.16137) [[code]](https://github.com/jackyyang9/MLPHand)    
 Jian Yang, Jiakun Li, Guoming Li, Zhen Shen, Huai-Yu Wu, **Zhaoxin Fan(corresponding author)**  
 European Conference on Computer Vision, ECCV 2024
