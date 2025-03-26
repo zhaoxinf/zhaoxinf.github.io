@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-* I am currently working as an assistant researcher, collaborating with Prof. [[Zhiming Zheng]](https://iai.buaa.edu.cn/info/1013/1088.htm), Academician of the Chinese Academy of Sciences（中国科学院院士） and Prof. [[Wenjun Wu]](https://iai.buaa.edu.cn/info/1013/1093.htm), at School of Artificial Intelligence, Beihang University.  I am also a Joint Appointment Researcher at The Institute of AI (TeleAI), China Telecom, Beijing, P.R. China.
+* I am currently working as an assistant researcher, collaborating with Prof. [[Zhiming Zheng]](https://iai.buaa.edu.cn/info/1013/1088.htm), Academician of the Chinese Academy of Sciences and Prof. [[Wenjun Wu]](https://iai.buaa.edu.cn/info/1013/1093.htm), at School of Artificial Intelligence, Beihang University.  I am also a Joint Appointment Researcher at The Institute of AI (TeleAI), China Telecom, Beijing, P.R. China.
   
 * I am now also working as the chief young scientist of [Psyche AI Inc](https://www.psyai.com/home)（深锶科技）, fosuing on developing advanced AI algorithms for avatars, including avatar driving, avatar generation, and avatar reconsctrution. 
 
@@ -26,9 +26,9 @@ About me
   * After considering these points, if you still wish to choose me as your mentor, please send your resume via email, including personal details, academic records, work or internship experiences, research experience, publications, and any other relevant information. I will respond as soon as possible.
  
 
-* 范肇心博士现任北京航空航天大学人工智能学院郑志明院士团队助理研究员，兼北京航空航天大学国际创新研究院助理研究员、中国电信人工智能研究院双聘研究员、深锶科技首席青年科学家。博士期间分别就读于卡内基梅隆大学、香港科技大学和中国人民大学，研究方向包括 多模态大模型、数字人 和 具身智能。研究成果发表于 CVPR、ICCV、ECCV、AAAI、IJCAI 等国际顶级学术会议和期刊，累计发表近 40篇论文，主持和参与多项国家级及省市级科研项目，包括 国家自然科学基金重大项目、重点专项项目 和 北京市自然科学基金青年项目 等。在产业应用方面，范博士参与创立多家科技创新企业，累计融资超千万美元，技术成果已成功应用于 字节跳动、青岛CIM+智慧城市、中国电子科技集团 和 深锶科技 等多个项目。目前担任中国仿真学会算力系统仿真专业委员会执行委员 和 中国指挥与控制学会无人系统专业委员会委员。
+* 范肇心博士现任北京航空航天大学人工智能学院郑志明院士团队助理研究员，兼北京航空航天大学国际创新研究院助理研究员、深锶科技首席青年科学家。博士期间分别就读于卡内基梅隆大学、香港科技大学和中国人民大学，研究方向包括 多模态大模型、数字人和具身智能。研究成果发表于 CVPR、ICCV、ECCV、AAAI、IJCAI 等国际顶级学术会议和期刊，累计发表近 40篇论文，主持和参与多项国家级及省市级科研项目，包括 国家自然科学基金重大项目、重点专项项目 和 北京市自然科学基金青年项目 等。在产业应用方面，范博士参与创立多家科技创新企业，累计融资超千万美元，技术成果已成功应用于 字节跳动、青岛CIM+智慧城市、中国电子科技集团 和 深锶科技 等多个项目。目前担任中国仿真学会算力系统仿真专业委员会执行委员 和 中国指挥与控制学会无人系统专业委员会委员。
 
-* 现每年招收 博士生2-3名、硕士生4-6名，并长期招收 实习生。研究方向包括 多模态大模型、数字人、具身智能 及 人工智能应用与产业化。博士、硕士招生地点为北京航空航天大学（学院路校区、杭州国际校区）及中国人民大学（北京校区）；实习生可在 中国电信人工智能研究院 或 北航杭州国际创新研究院 工作。
+* 现每年合作招收博士生2-3名、硕士生4-6名，并长期招收实习生。研究方向包括多模态大模型、数字人、具身智能及人工智能应用与产业化。博士、硕士招生地点为北京航空航天大学（学院路校区、杭州国际校区）及中国人民大学（北京校区）；实习生可选择线上或在北航杭州国际创新研究院工作。
 
 
 
