@@ -185,9 +185,11 @@ Arxiv paper
 
 *  Chinese National Invention Patent: 一种限高装置高度检测方法和系统. 国家发明专利. CN113658226A
 *  Chinese National Invention Patent: 一种多视角图像的生成方法及装置. 国家发明专利. CN119625150A
+*  Chinese National Invention Patent: 一种纹理重建方法及装置. 国家发明专利. 2024116956146
+*  Chinese National Invention Patent: 一种基于深度估计的单目物体三维重建方法及装置. 2024116754661
 *  Chinese National Invention Patent: 基于视觉风格特征的多样性增强协同语音动作生成系统. 国家发明专利. CN119540034A
 *  Chinese National Invention Patent: 基于动态神经网络和特征调制的零样本语音克隆方法. 国家发明专利. CN119360821A
-*  Chinese National Invention Patent:一种使用单目RGB图像进行虚拟人驱动的方法. 国家发明专利. CN116597509A
+*  Chinese National Invention Patent: 一种使用单目RGB图像进行虚拟人驱动的方法. 国家发明专利. CN116597509A
 *  Chinese National Invention Patent: 一种基于唇型合成技术的2D真人数字化身生成方法. 国家发明专利. CN116884066A
 *  Chinese National Invention Patent: 一种基于自监督语音-文本对齐的说话人唇形驱动方. 国家发明专利. CN116883554A
 
