@@ -36,6 +36,7 @@ Computational Visual Media (CVMJ 2025)
 Junhao Chen, Xiang Li, Xiaojun Ye,Xiaojun Ye,**Zhaoxin Fan(corresponding author)**, Hao Zhao     
 The 31st International Conference on Computational Linguistics (COLING 2025)
 
+**2024**
 
 * **MLPHand: Real Time Multi-View 3D Hand Mesh Reconstruction via MLP Modeling** [[paper]](https://arxiv.org/pdf/2406.16137) [[code]](https://github.com/jackyyang9/MLPHand)    
 Jian Yang, Jiakun Li, Guoming Li, Zhen Shen, Huai-Yu Wu, **Zhaoxin Fan(corresponding author)**  
@@ -87,6 +88,9 @@ International Conference on Multimedia Modeling, MMM 2024
 Cheng Cheng, Wenzhe Liu, **Zhaoxin Fan**, Lin Feng, Ziyu Jia  
 Neural Networks, 2024
 
+
+**2023**
+
 * **EmoTalk: Speech-driven emotional disentanglement for 3D face animation** [[paper]](https://arxiv.org/pdf/2303.11089.pdf)[[code]](https://github.com/ZiqiaoPeng/EmoTalk)   
 Ziqiao Peng, Haoyu Wu, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**.  
 International Conference on Computer Vision, ICCV 2023.
@@ -119,6 +123,9 @@ IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2023.
 **Zhaoxin Fan**, Zhenbo Song, Hongyan Liu, and Jun He  
 International Conference on Robotics and Automation, ICRA 2023.
 
+
+**2022**
+
 * **Object Level Depth Reconstruction for Category Level 6D Object Pose Estimation From Monocular RGB Image** [[paper]](https://arxiv.org/pdf/2204.01586.pdf)[[code]](https://github.com/FANzhaoxin666/OLD_Net_release)       
 **Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
 European Conference on Computer Vision, ECCV 2022.
@@ -148,6 +155,10 @@ Chinese Conference on Pattern Recognition and Computer Vision, PRCV  2022.
 **Zhaoxin Fan**, Yazhi Zhu, Yulin He, Qi Sun, Hongyan Liu, and Jun He  
 ACM Computing Surveys, CSUR 2022.
 
+
+**2020-2021**
+
+
 * **SRNet: A 3D Scene Recognition Network using Static Graph and Dense Semantic Fusion** [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14146)    
 **Zhaoxin Fan**, Hongyan Liu, Jun He, Qi Sun, and Xiaoyong Du  
 Computer Graphics Forum, CGF 2020. 
@@ -166,6 +177,7 @@ Computer Graphics Forum, CGF 2020.
 * **DAGC: Employing Dual Attention and Graph Convolution for Point Cloud based Place Recognition** [[paper]](https://dl.acm.org/doi/abs/10.1145/3372278.3390693)  
 Qi Sun, Hongyan Liu, Jun He, **Zhaoxin Fan**, and Xiaoyong Du  
 2020 ACM International Conference on Multimedia Retrieval, ICMR 2020
+  
 
 * **PointFPN: A Frustum-based Feature Pyramid Network for 3D Object Detection** [[paper]](https://ieeexplore.ieee.org/abstract/document/9288277)  
 **Zhaoxin Fan**, Hongyan Liu, Jun He, Siwei Jiang, and Xiaoyong Du  
@@ -173,13 +185,6 @@ Qi Sun, Hongyan Liu, Jun He, **Zhaoxin Fan**, and Xiaoyong Du
 
 
 
-* **DenseMP: Unsupervised Dense Pre-training for Few-shot Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2307.09604.pdf)[[code]](https://github.com/zhaoxinf/DenseMP_release/tree/main)  
-**Jason Zhaoxin Fan**, Puquan Pan, Zeren Zhang, Ce Chen, Tianyang Wang, Siyang Zheng, and Min Xu.  
-Arxiv
-
-* **SHLE: Devices Tracking and Depth Filtering for Stereo-based Height Limit Estimation** [[paper]](https://arxiv.org/pdf/2212.11538.pdf)[[code]](https://github.com/Yang-Kaixing/SHLE)    
-**Zhaoxin Fan**, Kaixing Yang, Min Zhang, Zhenbo Song, Hongyan Liu, and Jun He  
-Arxiv paper
 
 
 
