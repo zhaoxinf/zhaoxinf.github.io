@@ -188,7 +188,7 @@ Qi Sun, Hongyan Liu, Jun He, **Zhaoxin Fan**, and Xiaoyong Du
 
 
 
-
+**Patents**
 
 *  Chinese National Invention Patent: 一种限高装置高度检测方法和系统. 国家发明专利. CN113658226A
 *  Chinese National Invention Patent: 一种多视角图像的生成方法及装置. 国家发明专利. CN119625150A
