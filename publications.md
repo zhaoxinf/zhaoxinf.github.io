@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* **Meta-Learning Empowered Meta-Face: Personalized Speaking Style Adaptation for Audio-Driven 3D Talking Face Animation** [[paper]](https://arxiv.org/) [[code]](https://github.com/)    
+* **Meta-Learning Empowered Meta-Face: Personalized Speaking Style Adaptation for Audio-Driven 3D Talking Face Animation** [[paper]](https://arxiv.org/pdf/2408.09357) [[code]](https://github.com/)    
 Xukun Zhou,Fengxin Li, Ziqiao Peng, Xinyu Wang, Hongyan Liu, **Zhaoxin Fan(corresponding author)**, Jun He     
 IEEE International Conference on Multimedia and Expo, ICME 2025
 
