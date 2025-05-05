@@ -7,6 +7,10 @@ author_profile: true
 
 **2025**
 
+* **GLDiTalker: Speech-Driven 3D Facial Animation with Graph Latent Diffusion Transformer** [[paper]](https://arxiv.org/pdf/2408.01826) [[code]](https://github.com/)    
+Yihong Lin, **Zhaoxin Fan（Equal Contribution）**, Xianjia Wu, Lingyu Xiong, Liang Peng, Xiandong Li, Wenxiong Kang, Songju Lei, Huang Xu     
+34th International Joint Conference on Artificial Intelligence, IJCAI 2025
+
 * **Meta-Learning Empowered Meta-Face: Personalized Speaking Style Adaptation for Audio-Driven 3D Talking Face Animation** [[paper]](https://arxiv.org/pdf/2408.09357) [[code]](https://github.com/)    
 Xukun Zhou,Fengxin Li, Ziqiao Peng, Xinyu Wang, Hongyan Liu, **Zhaoxin Fan(corresponding author)**, Jun He     
 IEEE International Conference on Multimedia and Expo, ICME 2025
