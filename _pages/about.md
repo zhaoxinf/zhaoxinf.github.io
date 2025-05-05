@@ -88,6 +88,14 @@ Working Experience
 Selected Publications
 ======
 
+* **EraseAnything: Enabling Concept Erasure in Rectified Flow Transformers** [[paper]](https://arxiv.org/pdf/2412.20413) [[code]](https://github.com/)    
+Daiheng Gao, Shilin Lu, Wenbo Zhou, Jiaming Chu, Jie Zhang, Mengxi Jia, Bang Zhang, **Zhaoxin Fan(corresponding author)**, Weiming Zhang     
+Forty-second International Conference on Machine Learning, ICML 2025
+
+* **GLDiTalker: Speech-Driven 3D Facial Animation with Graph Latent Diffusion Transformer** [[paper]](https://arxiv.org/pdf/2408.01826) [[code]](https://github.com/)    
+Yihong Lin, **Zhaoxin Fan（Equal Contribution）**, Xianjia Wu, Lingyu Xiong, Liang Peng, Xiandong Li, Wenxiong Kang, Songju Lei, Huang Xu     
+34th International Joint Conference on Artificial Intelligence, IJCAI 2025
+
 * **DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations** [[paper]](https://arxiv.org/) [[code]](https://github.com/)    
 Ziqiao Peng, Yanbo Fan, Haoyu Wu, Xuan Wang, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**     
 IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2025
