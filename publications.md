@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 **2025**
+* **EraseAnything: Enabling Concept Erasure in Rectified Flow Transformers** [[paper]](https://arxiv.org/pdf/2412.20413) [[code]](https://github.com/)    
+Daiheng Gao, Shilin Lu, Wenbo Zhou, Jiaming Chu, Jie Zhang, Mengxi Jia, Bang Zhang, **Zhaoxin Fan(corresponding author)**, Weiming Zhang     
+Forty-second International Conference on Machine Learning, ICML 2025
 
 * **GLDiTalker: Speech-Driven 3D Facial Animation with Graph Latent Diffusion Transformer** [[paper]](https://arxiv.org/pdf/2408.01826) [[code]](https://github.com/)    
 Yihong Lin, **Zhaoxin Fan（Equal Contribution）**, Xianjia Wu, Lingyu Xiong, Liang Peng, Xiandong Li, Wenxiong Kang, Songju Lei, Huang Xu     
