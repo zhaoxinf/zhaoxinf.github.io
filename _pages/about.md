@@ -37,30 +37,32 @@ About me
 
 News!
 ======
+*  May/1/2025,  EraseAnything is accepted to **ICML 2025！**  Congrats to all co-authors!
+*  April/29/2025,  GLDiTalkerg is accepted to **IJCAI 2025！** Congrats to all co-authors!
 *  March/30/2025,  We are hiring RAs at HKUST! Welcome to contact us by zhaoxinf@buaa.edu.cn!
-*  March/21/2025,  Two paper are accepted to ICME 2025. Congrats to Xukun and Zhiying!
-*  Feb/27/2025,  Excited to annouce that 3 papers are accepted to CVPR 2025 !
-*  Feb/12/2025,  Excited to annouce that VarGes is  accepted to CVMJ. The impact factor of CVMJ is 17.3.
-*  Dec/1/2024,  Glad to annouce that Idea-2-3d is accepted to Coling 2025 main track.
-*  July/1/2024,  Glad to annouce that MLPHand is accepted to ECCV 2024 main track.
-*  April/7/2024,  Excited to annouce that 5 papers are accepted to ICMR 2024.
-*  March/22/2024,  Congrats to Han Sun for his first paper being accepted to IEEE Transactions on Instrumentation & Measurement.
-*  Feb/27/2024,  Glad to annouce that SyncTalk is accepted to CVPR 2024 main track.
-*  Dec/9/2023,  Our recent paper Everything2Motion is accepted to AAAI 2024 main track and the paper FurPE is accepted to AAAI 2024 workshop.  Congrats to all authors.
-*  Nov/17/2023,  Congrats to Yixing Lu for his first paper being accepted to International Conference on Multimedia Modeling
+*  March/21/2025,  Two paper are accepted to **ICME 2025**. Congrats to Xukun and Zhiying!
+*  Feb/27/2025,  Excited to annouce that 3 papers are accepted to **CVPR 2025** !
+*  Feb/12/2025,  Excited to annouce that VarGes is  accepted to **CVMJ**. The impact factor of CVMJ is 17.3.
+*  Dec/1/2024,  Glad to annouce that Idea-2-3d is accepted to **Coling 2025** main track.
+*  July/1/2024,  Glad to annouce that MLPHand is accepted to **ECCV 2024** main track.
+*  April/7/2024,  Excited to annouce that 5 papers are accepted to **ICMR 2024**.
+*  March/22/2024,  Congrats to Han Sun for his first paper being accepted to **IEEE Transactions on Instrumentation & Measurement.**
+*  Feb/27/2024,  Glad to annouce that SyncTalk is accepted to **CVPR 2024** main track.
+*  Dec/9/2023,  Our recent paper Everything2Motion is accepted to **AAAI 2024** main track and the paper FurPE is accepted to AAAI 2024 workshop.  Congrats to all authors.
+*  Nov/17/2023,  Congrats to Yixing Lu for his first paper being accepted to **International Conference on Multimedia Modeling**.
 *  Sep/21/2023,  We are awarded the second prize in the National Challenge Cup! I together with Professor [Li Ronghua](https://ronghuali.github.io/ronghuali.html) serve as the advisors of this project.
-*  July/26/2023, I am thrilled to announce that our latest work, SelfTalk, has been accepted by ACM MM 2023!
-*  Two papers D-IF and Emo-Talk are accepted by ICCV 2023, one of the best conference in computer vision.
-*  Excited to annouce that one of our  papers has been accepted by signal processing, IF=4.729
-*  Excited to annouce that one of my papers has been accepted by IJCAI 2023.
+*  July/26/2023, I am thrilled to announce that our latest work, SelfTalk, has been accepted by **ACM MM 2023!**
+*  Two papers D-IF and Emo-Talk are accepted by **ICCV 2023**, one of the best conference in computer vision.
+*  Excited to annouce that one of our  papers has been accepted by **signal processing**, IF=4.729
+*  Excited to annouce that one of my papers has been accepted by **IJCAI 2023**.
 *  I am honored to have returned to Carnegie Mellon University as a visiting scholar.
-*  One of my papers has been accepted for presentation at CVPR 2023, which is considered one of the most prestigious computer vision conferences in the world.
-*  I am thrilled to have had one of my papers accepted for presentation at ICRA 2023, which is a leading robotics conference.
-*  My research has been recognized at ECCV Workshop 2022, PRCV 2022, and ECCV 2022, all of which are highly-regarded international conferences in the field of computer vision.
-*  I am proud to have had a paper accepted for publication in the ACM Computing Surveys journal, which is widely considered one of the best ACM journals with an impact factor of 14.324.
+*  One of my papers has been accepted for presentation at **CVPR 2023**, which is considered one of the most prestigious computer vision conferences in the world.
+*  I am thrilled to have had one of my papers accepted for presentation at **ICRA 2023**, which is a leading robotics conference.
+*  My research has been recognized at **ECCV Workshop 2022**, **PRCV 2022**, and **ECCV 2022**, all of which are highly-regarded international conferences in the field of computer vision.
+*  I am proud to have had a paper accepted for publication in the **ACM Computing Surveys** journal, which is widely considered one of the best ACM journals with an impact factor of 14.324.
 *  The virtual actor An-Ruohan of Psyai, which I helped to develop, performs her show daily on bilibili.
-*  My research has also been recognized at ICIP 2022, which is a top-tier computer vision conference with a long-standing reputation for excellence.
-*  I am excited to announce that one of my papers has been accepted for presentation at AAAI 2022, which is a leading artificial intelligence conference.
+*  My research has also been recognized at **ICIP 2022**, which is a top-tier computer vision conference with a long-standing reputation for excellence.
+*  I am excited to announce that one of my papers has been accepted for presentation at **AAAI 2022**, which is a leading artificial intelligence conference.
 
 
 
