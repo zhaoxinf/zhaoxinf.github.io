@@ -6,6 +6,16 @@ author_profile: true
 ---
 
 **2025**
+
+* **SafeRAG: Benchmarking Security in Retrieval-Augmented Generation of Large Language Model** [[paper]](https://arxiv.org/pdf/2501.18636) [[code]](https://github.com/IAAR-Shanghai/SafeRAG)    
+Xun Liang, Simin Niu, Zhiyu li, Sensen Zhang, Hanyu Wang, Feiyu Xiong, **Zhaoxin Fan**, Bo Tang, Jihao Zhao, Jiawei Yang, Shichao Song, Mengwei Wang     
+The 63rd Annual Meeting of the Association for Computational Linguistics, ACL 2025
+
+* **MoC: Mixtures of Text Chunking Learners for Retrieval-Augmented Generation System** [[paper]](https://arxiv.org/pdf/2503.09600) [[code]](https://github.com/IAAR-Shanghai/Meta-Chunking/tree/main/MoC)    
+Jihao Zhao, Zhiyuan Ji, **Zhaoxin Fan**, Hanyu Wang, Simin Niu, Bo Tang, Feiyu Xiong, Zhiyu li     
+The 63rd Annual Meeting of the Association for Computational Linguistics, ACL 2025
+
+
 * **EraseAnything: Enabling Concept Erasure in Rectified Flow Transformers** [[paper]](https://arxiv.org/pdf/2412.20413) [[code]](https://github.com/)    
 Daiheng Gao, Shilin Lu, Wenbo Zhou, Jiaming Chu, Jie Zhang, Mengxi Jia, Bang Zhang, **Zhaoxin Fan(corresponding author)**, Weiming Zhang     
 Forty-second International Conference on Machine Learning, ICML 2025
