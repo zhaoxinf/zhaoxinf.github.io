@@ -176,30 +176,95 @@ author_profile: true
 
 **2024**
 
-* **MLPHand: Real Time Multi-View 3D Hand Mesh Reconstruction via MLP Modeling** [[paper]](https://arxiv.org/pdf/2406.16137) [[code]](https://github.com/jackyyang9/MLPHand)    
-Jian Yang, Jiakun Li, Guoming Li, Zhen Shen, Huai-Yu Wu, **Zhaoxin Fan(corresponding author)**  
-European Conference on Computer Vision, ECCV 2024
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/mlphand.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>MLPHand: Real Time Multi-View 3D Hand Mesh Reconstruction via MLP Modeling</strong><br/>
+      Jian Yang, Jiakun Li, Guoming Li, Zhen Shen, Huai-Yu Wu, <strong>Zhaoxin Fan</strong> (corresponding author)<br/>
+      European Conference on Computer Vision (<strong>ECCV</strong>), 2024.<br/>
+      [<a href="https://arxiv.org/pdf/2406.16137">Paper</a>] [<a href="https://github.com/jackyyang9/MLPHand">Code</a>]
+    </p>
+  </div>
+</div>
 
-* **Human Pose Driven Object Effects Recommendation** [[paper]](https://arxiv.org/pdf/2209.08353.pdf)[[code]](https://github.com/FengxinLee/PoseRec)    
-**Zhaoxin Fan**, Fengxin Li, Hongyan Liu, Jun He, and Xiaoyong Du  
-2024 ACM International Conference on Multimedia Retrieval, ICMR 2024
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/poserec.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>Human Pose Driven Object Effects Recommendation</strong><br/>
+      <strong>Zhaoxin Fan</strong>, Fengxin Li, Hongyan Liu, Jun He, and Xiaoyong Du<br/>
+      ACM International Conference on Multimedia Retrieval (<strong>ICMR</strong>), 2024.<br/>
+      [<a href="https://arxiv.org/pdf/2209.08353.pdf">Paper</a>] [<a href="https://github.com/FengxinLee/PoseRec">Code</a>]
+    </p>
+  </div>
+</div>
 
-* **ACR-Pose: Adversarial Canonical Representation Reconstruction Network for Category Level 6D Object Pose Estimation** [[paper]](https://arxiv.org/pdf/2111.10524.pdf)    
-**Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
-2024 ACM International Conference on Multimedia Retrieval, ICMR 2024
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/acrpose.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>ACR-Pose: Adversarial Canonical Representation Reconstruction Network for Category Level 6D Object Pose Estimation</strong><br/>
+      <strong>Zhaoxin Fan</strong>, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu, and Jun He<br/>
+      ACM International Conference on Multimedia Retrieval (<strong>ICMR</strong>), 2024.<br/>
+      [<a href="https://arxiv.org/pdf/2111.10524.pdf">Paper</a>]
+    </p>
+  </div>
+</div>
 
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/stdg.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>STDG: Semi-Teacher-Student Training Paradigram for Depth-guided One-stage Scene Graph Generation</strong><br/>
+      Xukun Zhou, Zhenbo Song, Jun He, Hongyan Liu, <strong>Zhaoxin Fan</strong> (corresponding author)<br/>
+      ACM International Conference on Multimedia Retrieval (<strong>ICMR</strong>), 2024.<br/>
+      [<a href="https://arxiv.org/pdf/2309.08179.pdf">Paper</a>] [<a href="https://github.com/zxk19981227/STDG">Code</a>]
+    </p>
+  </div>
+</div>
 
-* **STDG: Semi-Teacher-Student Training Paradigram for Depth-guided One-stage Scene Graph Generation** [[paper]](https://arxiv.org/pdf/2309.08179.pdf) [[code]](https://github.com/zxk19981227/STDG)  
-Xukun Zhou, Zhenbo Song, Jun He, Hongyan Liu, **Zhaoxin Fan(corresponding author)**  
-2024 ACM International Conference on Multimedia Retrieval, ICMR 2024
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/codancers.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>CoDancers: Music-Driven Coherent Group Dance Generation with Choreographic Unit</strong><br/>
+      Kaixing Yang, Xukun Zhou, Xulong Tang, Ran Diao, Hongyan Liu, Jun He, <strong>Zhaoxin Fan</strong> (corresponding author)<br/>
+      ACM International Conference on Multimedia Retrieval (<strong>ICMR</strong>), 2024.<br/>
+      [<a href="https://dl.acm.org/doi/pdf/10.1145/3652583.3657998">Paper</a>] [<a href="https://github.com/XulongT/CoDancers">Code</a>]
+    </p>
+  </div>
+</div>
 
-* **CoDancers: Music-Driven Coherent Group Dance Generation with Choreographic Unit** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3652583.3657998?casa_token=RD6esGQp39QAAAAA:mt64fM_vaz605hD5j6WBNBUELNVlzYBfxwsBNhhoS0NnLDxW4wyYIDrY0m5yxnT6Ykr6wi2fi5nOy0Y)[[code]](https://github.com/XulongT/CoDancers)   
-Kaixing Yang, Xukun Zhou, Xulong Tang, Ran Diao, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**  
-2024 ACM International Conference on Multimedia Retrieval, ICMR 2024
-
-* **BeatDance: A Beat-Based Model-Agnostic Contrastive Learning Framework for Music-Dance Retrieval** [[paper]](https://arxiv.org/pdf/2310.10300.pdf)[[code]](https://github.com/XulongT/BeatDance)    
-Kaixing Yang, Xukun Zhou, Xulong Tang, Ran Diao, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**  
-2024 ACM International Conference on Multimedia Retrieval, ICMR 2024
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/beatdance.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>BeatDance: A Beat-Based Model-Agnostic Contrastive Learning Framework for Music-Dance Retrieval</strong><br/>
+      Kaixing Yang, Xukun Zhou, Xulong Tang, Ran Diao, Hongyan Liu, Jun He, <strong>Zhaoxin Fan</strong> (corresponding author)<br/>
+      ACM International Conference on Multimedia Retrieval (<strong>ICMR</strong>), 2024.<br/>
+      [<a href="https://arxiv.org/pdf/2310.10300.pdf">Paper</a>] [<a href="https://github.com/XulongT/BeatDance">Code</a>]
+    </p>
+  </div>
+</div>
 
 
 * **SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis** [[paper]](https://arxiv.org/pdf/2311.17590.pdf)[[code]](https://github.com/ZiqiaoPeng/SyncTalk)  
