@@ -22,51 +22,157 @@ author_profile: true
   </div>
 </div>
 
-* **SafeRAG: Benchmarking Security in Retrieval-Augmented Generation of Large Language Model** [[paper]](https://arxiv.org/pdf/2501.18636) [[code]](https://github.com/IAAR-Shanghai/SafeRAG)    
-Xun Liang, Simin Niu, Zhiyu li, Sensen Zhang, Hanyu Wang, Feiyu Xiong, **Zhaoxin Fan**, Bo Tang, Jihao Zhao, Jiawei Yang, Shichao Song, Mengwei Wang     
-The 63rd Annual Meeting of the Association for Computational Linguistics, ACL 2025
-
-* **MoC: Mixtures of Text Chunking Learners for Retrieval-Augmented Generation System** [[paper]](https://arxiv.org/pdf/2503.09600) [[code]](https://github.com/IAAR-Shanghai/Meta-Chunking/tree/main/MoC)    
-Jihao Zhao, Zhiyuan Ji, **Zhaoxin Fan**, Hanyu Wang, Simin Niu, Bo Tang, Feiyu Xiong, Zhiyu li     
-The 63rd Annual Meeting of the Association for Computational Linguistics, ACL 2025
 
 
-* **EraseAnything: Enabling Concept Erasure in Rectified Flow Transformers** [[paper]](https://arxiv.org/pdf/2412.20413) [[code]](https://github.com/)    
-Daiheng Gao, Shilin Lu, Wenbo Zhou, Jiaming Chu, Jie Zhang, Mengxi Jia, Bang Zhang, **Zhaoxin Fan(corresponding author)**, Weiming Zhang     
-Forty-second International Conference on Machine Learning, ICML 2025
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/moc.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>MoC: Mixtures of Text Chunking Learners for Retrieval-Augmented Generation System</strong><br/>
+      Jihao Zhao, Zhiyuan Ji, <strong>Zhaoxin Fan</strong>, Hanyu Wang, Simin Niu, Bo Tang, Feiyu Xiong, Zhiyu Li<br/>
+      The 63rd Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>), 2025.<br/>
+      [<a href="https://arxiv.org/pdf/2503.09600">Paper</a>] [<a href="https://github.com/IAAR-Shanghai/Meta-Chunking/tree/main/MoC">Code</a>]
+    </p>
+  </div>
+</div>
 
-* **GLDiTalker: Speech-Driven 3D Facial Animation with Graph Latent Diffusion Transformer** [[paper]](https://arxiv.org/pdf/2408.01826) [[code]](https://github.com/)    
-Yihong Lin, **Zhaoxin Fan（Equal Contribution）**, Xianjia Wu, Lingyu Xiong, Liang Peng, Xiandong Li, Wenxiong Kang, Songju Lei, Huang Xu     
-34th International Joint Conference on Artificial Intelligence, IJCAI 2025
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/eraseanything.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>EraseAnything: Enabling Concept Erasure in Rectified Flow Transformers</strong><br/>
+      Daiheng Gao, Shilin Lu, Wenbo Zhou, Jiaming Chu, Jie Zhang, Mengxi Jia, Bang Zhang, <strong>Zhaoxin Fan</strong> (corresponding author), Weiming Zhang<br/>
+      Forty-second International Conference on Machine Learning (<strong>ICML</strong>), 2025.<br/>
+      [<a href="https://arxiv.org/pdf/2412.20413">Paper</a>] [<a href="https://github.com/">Code</a>]
+    </p>
+  </div>
+</div>
 
-* **Meta-Learning Empowered Meta-Face: Personalized Speaking Style Adaptation for Audio-Driven 3D Talking Face Animation** [[paper]](https://arxiv.org/pdf/2408.09357) [[code]](https://github.com/)    
-Xukun Zhou,Fengxin Li, Ziqiao Peng, Xinyu Wang, Hongyan Liu, **Zhaoxin Fan(corresponding author)**, Jun He     
-IEEE International Conference on Multimedia and Expo, ICME 2025
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/glditalker.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>GLDiTalker: Speech-Driven 3D Facial Animation with Graph Latent Diffusion Transformer</strong><br/>
+      Yihong Lin, <strong>Zhaoxin Fan</strong> (Equal Contribution), Xianjia Wu, Lingyu Xiong, Liang Peng, Xiandong Li, Wenxiong Kang, Songju Lei, Huang Xu<br/>
+      34th International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2025.<br/>
+      [<a href="https://arxiv.org/pdf/2408.01826">Paper</a>] [<a href="https://github.com/">Code</a>]
+    </p>
+  </div>
+</div>
 
-* **Twin Progressive Generative Adversarial Network For High-Resolution Image Inpainting** [[paper]](https://arxiv.org/) [[code]](https://github.com/)    
-Zhiying Li, Weibin Chen, **Zhaoxin Fan**, Kaichuan Kong, Xiaobo Jin, and Guanggang Geng     
-IEEE International Conference on Multimedia and Expo, ICME 2025
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/metaface.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>Meta-Learning Empowered Meta-Face: Personalized Speaking Style Adaptation for Audio-Driven 3D Talking Face Animation</strong><br/>
+      Xukun Zhou, Fengxin Li, Ziqiao Peng, Xinyu Wang, Hongyan Liu, <strong>Zhaoxin Fan</strong> (corresponding author), Jun He<br/>
+      IEEE International Conference on Multimedia and Expo (<strong>ICME</strong>), 2025.<br/>
+      [<a href="https://arxiv.org/pdf/2408.09357">Paper</a>] [<a href="https://github.com/">Code</a>]
+    </p>
+  </div>
+</div>
 
-* **DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations** [[paper]](https://arxiv.org/) [[code]](https://github.com/)    
-Ziqiao Peng, Yanbo Fan, Haoyu Wu, Xuan Wang, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**     
-IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2025
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/twinpg.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>Twin Progressive Generative Adversarial Network For High-Resolution Image Inpainting</strong><br/>
+      Zhiying Li, Weibin Chen, <strong>Zhaoxin Fan</strong>, Kaichuan Kong, Xiaobo Jin, Guanggang Geng<br/>
+      IEEE International Conference on Multimedia and Expo (<strong>ICME</strong>), 2025.<br/>
+      [<a href="https://arxiv.org/">Paper</a>] [<a href="https://github.com/">Code</a>]
+    </p>
+  </div>
+</div>
 
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/dualtalk.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations</strong><br/>
+      Ziqiao Peng, Yanbo Fan, Haoyu Wu, Xuan Wang, Hongyan Liu, Jun He, <strong>Zhaoxin Fan</strong> (corresponding author)<br/>
+      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025.<br/>
+      [<a href="https://arxiv.org/">Paper</a>] [<a href="https://github.com/">Code</a>]
+    </p>
+  </div>
+</div>
 
-* **MambaVO: Deep Visual Odometry Based on Sequential Matching Refinement Training Smoothing** [[paper]](https://arxiv.org/pdf/2412.20082) [[code]](https://github.com/)    
-Shuo Wang, Wanting Li, Yongcai Wang, **Zhaoxin Fan(corresponding author)**, Zhe Huang, Xudong Cai, Jian Zhao, Deying Li     
-IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2025
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/mambavo.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>MambaVO: Deep Visual Odometry Based on Sequential Matching Refinement Training Smoothing</strong><br/>
+      Shuo Wang, Wanting Li, Yongcai Wang, <strong>Zhaoxin Fan</strong> (corresponding author), Zhe Huang, Xudong Cai, Jian Zhao, Deying Li<br/>
+      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025.<br/>
+      [<a href="https://arxiv.org/pdf/2412.20082">Paper</a>] [<a href="https://github.com/">Code</a>]
+    </p>
+  </div>
+</div>
 
-* **JTD-UAV: MLLM-Enhanced Joint Tracking and Description Framework for Anti-UAV Systems** [[paper]](https://arxiv.org/) [[code]](https://github.com/)    
-Yifan Wang, Jian Zhao, **Zhaoxin Fan(corresponding author)**, Xin Zhang, Xuecheng Wu, Yudian Zhang, Lei Jin, Xinyue Li, Gang Wang, Mengxi Jia, Ping Hu, Zheng Zhu, Xuelong Li     
-IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2025
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/jtd-uav.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>JTD-UAV: MLLM-Enhanced Joint Tracking and Description Framework for Anti-UAV Systems</strong><br/>
+      Yifan Wang, Jian Zhao, <strong>Zhaoxin Fan</strong> (corresponding author), Xin Zhang, Xuecheng Wu, Yudian Zhang, Lei Jin, Xinyue Li, Gang Wang, Mengxi Jia, Ping Hu, Zheng Zhu, Xuelong Li<br/>
+      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025.<br/>
+      [<a href="https://arxiv.org/">Paper</a>] [<a href="https://github.com/">Code</a>]
+    </p>
+  </div>
+</div>
 
-* **VarGes: Improving Variation in Co-Speech 3D Gesture Generation via StyleCLIPS** [[paper]](https://arxiv.org/pdf/2502.10729) [[code]](https://github.com/mookerr/VarGES/)    
-Ming Meng; Ke Mu; Yonggui Zhu; Zhe Zhu; Haoyu Sun; Heyang Yan; **Zhaoxin Fan(corresponding author)**     
-Computational Visual Media (CVMJ 2025)
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/varges.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>VarGes: Improving Variation in Co-Speech 3D Gesture Generation via StyleCLIPS</strong><br/>
+      Ming Meng, Ke Mu, Yonggui Zhu, Zhe Zhu, Haoyu Sun, Heyang Yan, <strong>Zhaoxin Fan</strong> (corresponding author)<br/>
+      Computational Visual Media (<strong>CVMJ</strong>), 2025.<br/>
+      [<a href="https://arxiv.org/pdf/2502.10729">Paper</a>] [<a href="https://github.com/mookerr/VarGES/">Code</a>]
+    </p>
+  </div>
+</div>
 
-* **Idea-2-3D: Collaborative LMM Agents Enable 3D Model Generation from Interleaved Multimodal Inputs** [[paper]](https://arxiv.org/pdf/2404.04363) [[code]](https://air-discover.github.io/Idea-2-3D/)    
-Junhao Chen, Xiang Li, Xiaojun Ye,Xiaojun Ye,**Zhaoxin Fan(corresponding author)**, Hao Zhao     
-The 31st International Conference on Computational Linguistics (COLING 2025)
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/idea2-3d.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>Idea-2-3D: Collaborative LMM Agents Enable 3D Model Generation from Interleaved Multimodal Inputs</strong><br/>
+      Junhao Chen, Xiang Li, Xiaojun Ye, <strong>Zhaoxin Fan</strong> (corresponding author), Hao Zhao<br/>
+      The 31st International Conference on Computational Linguistics (<strong>COLING</strong>), 2025.<br/>
+      [<a href="https://arxiv.org/pdf/2404.04363">Paper</a>] [<a href="https://air-discover.github.io/Idea-2-3D/">Code</a>]
+    </p>
+  </div>
+</div>
 
 **2024**
 
