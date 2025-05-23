@@ -561,29 +561,80 @@ author_profile: true
 **2020-2021**
 
 
-* **SRNet: A 3D Scene Recognition Network using Static Graph and Dense Semantic Fusion** [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14146)    
-**Zhaoxin Fan**, Hongyan Liu, Jun He, Qi Sun, and Xiaoyong Du  
-Computer Graphics Forum, CGF 2020. 
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/srnet.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>SRNet: A 3D Scene Recognition Network using Static Graph and Dense Semantic Fusion</strong><br/>
+      Zhaoxin Fan, Hongyan Liu, Jun He, Qi Sun, Xiaoyong Du<br/> 
+      Computer Graphics Forum (<strong>CGF</strong>), 2020.<br/> 
+      [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14146">Paper</a>]
+    </p> 
+  </div>
+</div>
 
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/graph_one_shot.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>A Graph‐based One‐Shot Learning Method for Point Cloud Recognition</strong><br/>
+      Zhaoxin Fan, Hongyan Liu, Jun He, Qi Sun, Xiaoyong Du<br/> 
+      Computer Graphics Forum (<strong>CGF</strong>), 2020.<br/> 
+      [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14147">Paper</a>]
+    </p> 
+  </div>
+</div>
 
-* **A Graph‐based One‐Shot Learning Method for Point Cloud Recognition** [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14147)    
-**Zhaoxin Fan**, Hongyan Liu, Jun He, Qi Sun, and Xiaoyong Du  
-Computer Graphics Forum, CGF 2020.
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/mpdnet.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>MPDNet: A 3D Missing Part Detection Network Based on Point Cloud Segmentation</strong><br/>
+      Zhaoxin Fan, Hongyan Liu, Jun He, Min Zhang, Xiaoyong Du<br/> 
+      IEEE International Conference on Acoustics, Speech and Signal Processing (<strong>ICASSP</strong>), 2021.<br/> 
+      [<a href="https://ieeexplore.ieee.org/abstract/document/9414867/">Paper</a>]
+    </p> 
+  </div>
+</div>
 
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/dagc.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>DAGC: Employing Dual Attention and Graph Convolution for Point Cloud based Place Recognition</strong><br/>
+      Qi Sun, Hongyan Liu, Jun He, Zhaoxin Fan, Xiaoyong Du<br/> 
+      ACM International Conference on Multimedia Retrieval (<strong>ICMR</strong>), 2020.<br/> 
+      [<a href="https://dl.acm.org/doi/abs/10.1145/3372278.3390693">Paper</a>]
+    </p> 
+  </div>
+</div>
 
-* **MPDNet: A 3D Missing Part Detection Network Based on Point Cloud Segmentation** [[paper]](https://ieeexplore.ieee.org/abstract/document/9414867/)  
-**Zhaoxin Fan**, Hongyan Liu, Jun He, Min Zhang, and Xiaoyong Du  
-2021 IEEE International Conference on Acoustics, Speech and Signal Processing, ICASSP 2021.
-
-
-* **DAGC: Employing Dual Attention and Graph Convolution for Point Cloud based Place Recognition** [[paper]](https://dl.acm.org/doi/abs/10.1145/3372278.3390693)  
-Qi Sun, Hongyan Liu, Jun He, **Zhaoxin Fan**, and Xiaoyong Du  
-2020 ACM International Conference on Multimedia Retrieval, ICMR 2020
-  
-
-* **PointFPN: A Frustum-based Feature Pyramid Network for 3D Object Detection** [[paper]](https://ieeexplore.ieee.org/abstract/document/9288277)  
-**Zhaoxin Fan**, Hongyan Liu, Jun He, Siwei Jiang, and Xiaoyong Du  
-2020 International Conference on Tools with Artificial Intelligence, ICTAI 2020.
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/pointfpn.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>PointFPN: A Frustum-based Feature Pyramid Network for 3D Object Detection</strong><br/>
+      Zhaoxin Fan, Hongyan Liu, Jun He, Siwei Jiang, Xiaoyong Du<br/> 
+      International Conference on Tools with Artificial Intelligence (<strong>ICTAI</strong>), 2020.<br/> 
+      [<a href="https://ieeexplore.ieee.org/abstract/document/9288277">Paper</a>]
+    </p> 
+  </div>
+</div>
 
 
 
