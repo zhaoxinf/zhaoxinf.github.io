@@ -360,37 +360,110 @@ author_profile: true
 
 **2023**
 
-* **EmoTalk: Speech-driven emotional disentanglement for 3D face animation** [[paper]](https://arxiv.org/pdf/2303.11089.pdf)[[code]](https://github.com/ZiqiaoPeng/EmoTalk)   
-Ziqiao Peng, Haoyu Wu, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**.  
-International Conference on Computer Vision, ICCV 2023.
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/emotalk.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation</strong><br/>
+      Ziqiao Peng, Haoyu Wu, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, <strong>Zhaoxin Fan</strong> (corresponding author)<br/>
+      International Conference on Computer Vision (<strong>ICCV</strong>), 2023.<br/>
+      [<a href="https://arxiv.org/pdf/2303.11089.pdf">Paper</a>] [<a href="https://github.com/ZiqiaoPeng/EmoTalk">Code</a>]
+    </p>
+  </div>
+</div>
 
-* **D-IF: Uncertainty-aware Human Digitization via Implicit Distribution Field** [[paper]](https://arxiv.org/pdf/2308.08857.pdf)[[code]](https://github.com/psyai-net/D-IF_release)   
-Xueting Yang, Yihao Luo, Yuliang Xiu, Wei Wang, Hao Xu, **Zhaoxin Fan(corresponding author)**.  
-International Conference on Computer Vision, ICCV 2023.
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/d-if.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>D-IF: Uncertainty-aware Human Digitization via Implicit Distribution Field</strong><br/>
+      Xueting Yang, Yihao Luo, Yuliang Xiu, Wei Wang, Hao Xu, <strong>Zhaoxin Fan</strong> (corresponding author)<br/>
+      International Conference on Computer Vision (<strong>ICCV</strong>), 2023.<br/>
+      [<a href="https://arxiv.org/pdf/2308.08857.pdf">Paper</a>] [<a href="https://github.com/psyai-net/D-IF_release">Code</a>]
+    </p>
+  </div>
+</div>
 
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/selftalk.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces</strong><br/>
+      Ziqiao Peng, Yihao Luo, Yue Shi, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, <strong>Zhaoxin Fan</strong> (corresponding author)<br/>
+      ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2023.<br/>
+      [<a href="https://arxiv.org/pdf/2306.10799.pdf">Paper</a>] [<a href="https://github.com/psyai-net/SelfTalk_release">Code</a>]
+    </p>
+  </div>
+</div>
 
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/deblurring.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>Deep Semantic-aware Remote Sensing Image Deblurring</strong><br/>
+      Zhenbo Song, Zhenyuan Zhang, Feiyi Fang, <strong>Zhaoxin Fan</strong>, Jianfeng Lu<br/>
+      Signal Processing, 2023.<br/>
+      [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168423001822">Paper</a>]
+    </p>
+  </div>
+</div>
 
-* **SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces** [[paper]](https://arxiv.org/pdf/2306.10799.pdf)[[code]](https://github.com/psyai-net/SelfTalk_release)  
-Ziqiao Peng, Yihao Luo, Yue Shi, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**.  
-ACM International Conference on Multimedia, ACM MM 2023
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/rapd.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>Reconstruction-Aware Prior Distillation for Semi-supervised Point Cloud Completion</strong><br/>
+      <strong>Zhaoxin Fan</strong>, Yulin He, Zhicheng Wang, Kejian Wu, Hongyan Liu, Jun He<br/>
+      International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2023.<br/>
+      [<a href="https://arxiv.org/pdf/2204.09186.pdf">Paper</a>]
+    </p>
+  </div>
+</div>
 
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/reflection.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>Robust Single Image Reflection Removal Against Adversarial Attacks</strong><br/>
+      Zhenbo Song, Zhenyuan Zhang, Kaihao Zhang, Wenhan Luo, <strong>Zhaoxin Fan</strong>, Wenqi Ren, Jianfeng Lu<br/>
+      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023.<br/>
+      [<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Song_Robust_Single_Image_Reflection_Removal_Against_Adversarial_Attacks_CVPR_2023_paper.pdf">Paper</a>]
+    </p>
+  </div>
+</div>
 
-* **Deep Semantic-aware Remote Sensing Image Deblurring** [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0165168423001822)  
-Zhenbo Song, Zhenyuan Zhang, Feiyi Fang, **Zhaoxin Fan**, Jianfeng Lu  
-Signal Processing, 2023.
-
-* **Reconstruction-Aware Prior Distillation for Semi-supervised Point Cloud Completion** [[paper]](https://arxiv.org/pdf/2204.09186.pdf)  
-**Zhaoxin Fan**, Yulin He, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
-International Joint Conference on Artificial Intelligence, IJCAI 2023.
-
-* **Robust Single Image Reflection Removal Against Adversarial Attacks** [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Song_Robust_Single_Image_Reflection_Removal_Against_Adversarial_Attacks_CVPR_2023_paper.pdf)    
-Zhenbo Song, Zhenyuan Zhang, Kaihao Zhang, Wenhan Luo, **Zhaoxin Fan**, Wenqi Ren, Jianfeng Lu   
-IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2023.
-
-
-* **GIDP: Learning a Good Initialization and Inducing Descriptor Post-enhancing for Large-scale Place Recognition** [[paper]](https://arxiv.org/pdf/2209.11488.pdf)    
-**Zhaoxin Fan**, Zhenbo Song, Hongyan Liu, and Jun He  
-International Conference on Robotics and Automation, ICRA 2023.
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/gidp.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>GIDP: Learning a Good Initialization and Inducing Descriptor Post-enhancing for Large-scale Place Recognition</strong><br/>
+      <strong>Zhaoxin Fan</strong>, Zhenbo Song, Hongyan Liu, Jun He<br/>
+      International Conference on Robotics and Automation (<strong>ICRA</strong>), 2023.<br/>
+      [<a href="https://arxiv.org/pdf/2209.11488.pdf">Paper</a>]
+    </p>
+  </div>
+</div>
 
 
 **2022**
