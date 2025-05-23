@@ -304,7 +304,7 @@ Selected Publications
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;"> 
-    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/reconstruction-aware.jpg"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/rapd.jpg"> 
   </div> 
   <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
   <div class="column right" style="flex: 2;"> 
@@ -319,7 +319,7 @@ Selected Publications
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;"> 
-    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/robust-reflection.jpg"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/reflection.jpg"> 
   </div> 
   <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
   <div class="column right" style="flex: 2;"> 
@@ -392,6 +392,36 @@ Selected Publications
   </div>
 </div>
 
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/srnet.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>SRNet: A 3D Scene Recognition Network using Static Graph and Dense Semantic Fusion</strong><br/>
+      <strong>Zhaoxin Fan</strong>, Hongyan Liu, Jun He, Qi Sun, Xiaoyong Du<br/> 
+      Computer Graphics Forum (<strong>CGF</strong>), 2020.<br/> 
+      [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14146">Paper</a>] 
+    </p> 
+  </div>
+</div>
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/graph_one_shot.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>A Graph‐based One‐Shot Learning Method for Point Cloud Recognition</strong><br/>
+      <strong>Zhaoxin Fan</strong>, Hongyan Liu, Jun He, Qi Sun, Xiaoyong Du<br/> 
+      Computer Graphics Forum (<strong>CGF</strong>), 2020.<br/> 
+      [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14147">Paper</a>] 
+    </p> 
+  </div>
+</div>
 
 <br>
 
