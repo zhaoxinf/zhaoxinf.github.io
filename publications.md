@@ -267,29 +267,95 @@ author_profile: true
 </div>
 
 
-* **SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis** [[paper]](https://arxiv.org/pdf/2311.17590.pdf)[[code]](https://github.com/ZiqiaoPeng/SyncTalk)  
-Ziqiao Peng, Wentao Hu, Yue Shi, Xiangyu Zhu, Xiaomei Zhang, Hao Zhao, Jun He, Hongyan Liu, **Zhaoxin Fan (corresponding author)**.  
-IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2024
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/synctalk.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis</strong><br/>
+      Ziqiao Peng, Wentao Hu, Yue Shi, Xiangyu Zhu, Xiaomei Zhang, Hao Zhao, Jun He, Hongyan Liu, <strong>Zhaoxin Fan</strong> (corresponding author)<br/>
+      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024.<br/>
+      [<a href="https://arxiv.org/pdf/2311.17590.pdf">Paper</a>] [<a href="https://github.com/ZiqiaoPeng/SyncTalk">Code</a>]
+    </p>
+  </div>
+</div>
 
-* **MonoSIM: Simulating Learning Behaviors of Heterogeneous Point Cloud Object Detectors for Monocular 3D Object Detection** [[paper]](https://arxiv.org/pdf/2208.09446.pdf) [[code]](https://github.com/sunh18/MonoSIM)   
-Han Sun, **Zhaoxin Fan (equal contribution)**, Zhenbo Song, Zhicheng Wang, Kejian Wu, and Jianfeng Lu.  
-IEEE Transactions on Instrumentation & Measurement, TIM 2024
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/monosim.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>MonoSIM: Simulating Learning Behaviors of Heterogeneous Point Cloud Object Detectors for Monocular 3D Object Detection</strong><br/>
+      Han Sun, <strong>Zhaoxin Fan</strong> (equal contribution), Zhenbo Song, Zhicheng Wang, Kejian Wu, and Jianfeng Lu<br/>
+      IEEE Transactions on Instrumentation & Measurement (<strong>TIM</strong>), 2024.<br/>
+      [<a href="https://arxiv.org/pdf/2208.09446.pdf">Paper</a>] [<a href="https://github.com/sunh18/MonoSIM">Code</a>]
+    </p>
+  </div>
+</div>
 
-* **Everything2Motion: Synchronizing Diverse Inputs via a Unified Framework for Human Motion Synthesis**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/27936)  
-**Zhaoxin Fan**, Longbin Li, Pengxin Xu, Fan Shen, kai Chen.  
-Thirty-Eighth AAAI Conference on Artificial Intelligence, AAAI 2024
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/everything2motion.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>Everything2Motion: Synchronizing Diverse Inputs via a Unified Framework for Human Motion Synthesis</strong><br/>
+      <strong>Zhaoxin Fan</strong>, Longbin Li, Pengxin Xu, Fan Shen, Kai Chen<br/>
+      Thirty-Eighth AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024.<br/>
+      [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/27936">Paper</a>]
+    </p>
+  </div>
+</div>
 
-* **FuRPE: Learning Full-body Reconstruction from Part Experts** [[paper]](https://arxiv.org/pdf/2212.00731.pdf)[[code]](https://github.com/indigo-99/FuRPE)    
-**Zhaoxin Fan**, Yuqing Pan, Hao Xu, Zhenbo Song, Zhicheng Wang, Kejian Wu, Hongyan Liu, and Jun He  
-Thirty-Eighth AAAI Conference on Artificial Intelligence, AAAI 2024 Workshop
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/furpe.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>FuRPE: Learning Full-body Reconstruction from Part Experts</strong><br/>
+      <strong>Zhaoxin Fan</strong>, Yuqing Pan, Hao Xu, Zhenbo Song, Zhicheng Wang, Kejian Wu, Hongyan Liu, and Jun He<br/>
+      Thirty-Eighth AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>) Workshop, 2024.<br/>
+      [<a href="https://arxiv.org/pdf/2212.00731.pdf">Paper</a>] [<a href="https://github.com/indigo-99/FuRPE">Code</a>]
+    </p>
+  </div>
+</div>
 
-* **Multi-dimensional Fusion and Consistency for Semi-supervised Medical Image Segmentation** [[paper]](https://arxiv.org/pdf/2309.06618.pdf)    
-Yixing Lu, **Zhaoxin Fan (equal contribution）**, Min Xu  
-International Conference on Multimedia Modeling, MMM 2024
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/multidimensional-fusion.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>Multi-dimensional Fusion and Consistency for Semi-supervised Medical Image Segmentation</strong><br/>
+      Yixing Lu, <strong>Zhaoxin Fan</strong> (equal contribution), Min Xu<br/>
+      International Conference on Multimedia Modeling (<strong>MMM</strong>), 2024.<br/>
+      [<a href="https://arxiv.org/pdf/2309.06618.pdf">Paper</a>]
+    </p>
+  </div>
+</div>
 
-* **A novel transformer autoencoder for multi-modal emotion recognition with incomplete data** [[paper]](https://www.sciencedirect.com/science/article/pii/S089360802400025X?casa_token=adiVdzjLKUsAAAAA:2wBEqdxXN0qWvMjNQmyBENFLP1G6r4on2P63VmbOhkAfE4vUe0V56XgAjPyRQ7nE8drvaLN8-8Sp)    
-Cheng Cheng, Wenzhe Liu, **Zhaoxin Fan**, Lin Feng, Ziyu Jia  
-Neural Networks, 2024
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/transformer-autoencoder.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>A Novel Transformer Autoencoder for Multi-modal Emotion Recognition with Incomplete Data</strong><br/>
+      Cheng Cheng, Wenzhe Liu, <strong>Zhaoxin Fan</strong>, Lin Feng, Ziyu Jia<br/>
+      Neural Networks, 2024.<br/>
+      [<a href="https://www.sciencedirect.com/science/article/pii/S089360802400025X?casa_token=adiVdzjLKUsAAAAA:2wBEqdxXN0qWvMjNQmyBENFLP1G6r4on2P63VmbOhkAfE4vUe0V56XgAjPyRQ7nE8drvaLN8-8Sp">Paper</a>]
+    </p>
+  </div>
+</div>
 
 
 **2023**
