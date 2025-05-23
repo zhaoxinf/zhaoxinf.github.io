@@ -468,35 +468,95 @@ author_profile: true
 
 **2022**
 
-* **Object Level Depth Reconstruction for Category Level 6D Object Pose Estimation From Monocular RGB Image** [[paper]](https://arxiv.org/pdf/2204.01586.pdf)[[code]](https://github.com/FANzhaoxin666/OLD_Net_release)       
-**Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
-European Conference on Computer Vision, ECCV 2022.
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/old_net.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>Object Level Depth Reconstruction for Category Level 6D Object Pose Estimation From Monocular RGB Image</strong><br/>
+      Zhaoxin Fan, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu, Jun He<br/> 
+      European Conference on Computer Vision (<strong>ECCV</strong>), 2022.<br/> 
+      [<a href="https://arxiv.org/pdf/2204.01586.pdf">Paper</a>] [<a href="https://github.com/FANzhaoxin666/OLD_Net_release">Code</a>] 
+    </p> 
+  </div>
+</div>
 
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/rpr_net.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>RPR-Net: A Point Cloud-based Rotation-Aware Large Scale Place Recognition Network</strong><br/>
+      Zhaoxin Fan, Zhenbo Song, Wenping Zhang, Hongyan Liu, Jun He, Xiaoyong Du<br/> 
+      European Conference on Computer Vision Workshop (<strong>ECCV Workshop</strong>), 2022.<br/> 
+      [<a href="https://arxiv.org/pdf/2108.12790.pdf">Paper</a>] 
+    </p> 
+  </div>
+</div>
 
-* **RPR-Net: A Point Cloud-based Rotation-Aware Large Scale Place Recognition Network** [[paper]](https://arxiv.org/pdf/2108.12790.pdf)    
-**Zhaoxin Fan**, Zhenbo Song, Wenping Zhang, Hongyan Liu, Jun He, and Xiaoyong Du  
-European Conference on Computer Vision-the 3rd Autonomous Vehicle Vision Workshop, ECCV Workshop 2022.
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/svt_net.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place Recognition</strong><br/>
+      Zhaoxin Fan, Zhenbo Song, Zhiwu Lu, Hongyan Liu, Jun He, Xiaoyong Du<br/> 
+      AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2022.<br/> 
+      [<a href="https://arxiv.org/pdf/2105.00149.pdf">Paper</a>] [<a href="https://github.com/ZhenboSong/SVTNet">Code</a>] 
+    </p> 
+  </div>
+</div>
 
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/icip.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>Unsupervised Multi-task Learning for 3D Subtomogram Image Alignment, Clustering and Segmentation</strong><br/>
+      Haoyi Zhu, Chuting Wang, Yuanxin Wang, Zhaoxin Fan, Mostofa Rafid Uddin, Xin Gao, Jing Zhang, Xiangrui Zeng, Min Xu<br/> 
+      IEEE International Conference on Information Processing (<strong>ICIP</strong>), 2022.<br/> 
+      [<a href="https://repository.kaust.edu.sa/server/api/core/bitstreams/97ddabc6-8dde-403c-a7f2-4da45368545f/content">Paper</a>] 
+    </p> 
+  </div>
+</div>
 
-* **SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place Recognition** [[paper]](https://arxiv.org/pdf/2105.00149.pdf)[[code]](https://github.com/ZhenboSong/SVTNet)    
-**Zhaoxin Fan**, Zhenbo Song, Zhiwu Lu, Hongyan Liu, Jun He, and Xiaoyong Du  
-36th AAAI Conference on Artificial Intelligence, AAAI 2022.
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/pilotattnnet.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>PilotAttnNet: Multi-Modal Attention Network for End-to-End Steering Control</strong><br/>
+      Jincan Zhang, Zhenbo Song, Jianfeng Lu, Xingwei Qu, Zhaoxin Fan<br/> 
+      Chinese Conference on Pattern Recognition and Computer Vision (<strong>PRCV</strong>), 2022.<br/> 
+      [<a href="https://link.springer.com/chapter/10.1007/978-3-031-18913-5_14">Paper</a>] 
+    </p> 
+  </div>
+</div>
 
-
-* **Unsupervised Multi-task Learning for 3D Subtomogram Image Alignment, Clustering and Segmentation** [[paper]](https://repository.kaust.edu.sa/server/api/core/bitstreams/97ddabc6-8dde-403c-a7f2-4da45368545f/content)      
-Haoyi Zhu, Chuting Wang, Yuanxin Wang, **Zhaoxin Fan**, Mostofa Rafid Uddin, Xin Gao, Jing Zhang, Xiangrui Zeng and Min Xu  
-IEEE International Conference on Information Processing, ICIP 2022.
-
-* **PilotAttnNet: Multi-Modal Attention Network for End-to-End Steering Control** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-18913-5_14)      
-Jincan Zhang, Zhenbo Song, Jianfeng Lu, Xingwei Qu, **Zhaoxin Fan**  
-Chinese Conference on Pattern Recognition and Computer Vision, PRCV  2022.
-
-
-
-* **Deep Learning on Monocular Object Pose Detection and Tracking: A Comprehensive Overview** [[paper]](https://arxiv.org/pdf/2105.14291.pdf)  
-**Zhaoxin Fan**, Yazhi Zhu, Yulin He, Qi Sun, Hongyan Liu, and Jun He  
-ACM Computing Surveys, CSUR 2022.
-
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/pose_tracking.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>Deep Learning on Monocular Object Pose Detection and Tracking: A Comprehensive Overview</strong><br/>
+      Zhaoxin Fan, Yazhi Zhu, Yulin He, Qi Sun, Hongyan Liu, Jun He<br/> 
+      ACM Computing Surveys (<strong>CSUR</strong>), 2022.<br/> 
+      [<a href="https://arxiv.org/pdf/2105.14291.pdf">Paper</a>] 
+    </p> 
+  </div>
+</div>
 
 **2020-2021**
 
