@@ -37,6 +37,7 @@ About me
 
 News!
 ======
+*  May/20/2025,  I am happy to serve as the **Area Chair of PRCV 2025**!
 *  May/15/2025,  Excited to annouce that 2 papers are accepted to **ACL 2025** !
 *  May/1/2025,  EraseAnything is accepted to **ICML 2025！**  Congrats to all co-authors!
 *  April/29/2025,  GLDiTalkerg is accepted to **IJCAI 2025！** Congrats to all co-authors!
