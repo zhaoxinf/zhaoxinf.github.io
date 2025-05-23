@@ -71,7 +71,7 @@ author_profile: true
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
-    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/metaface.jpg">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/metaface1.jpg">
   </div>
   <div class="column middle" style="flex: 0.05;">&nbsp;</div>
   <div class="column right" style="flex: 2;">
