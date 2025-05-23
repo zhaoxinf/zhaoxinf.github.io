@@ -357,14 +357,14 @@ Selected Publications
       <strong>SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place Recognition</strong><br/>
       <strong>Zhaoxin Fan</strong>, Zhenbo Song, Zhiwu Lu, Hongyan Liu, Jun He, Xiaoyong Du<br/> 
       36th AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2022.<br/> 
-      [<a href="https://arxiv.org/pdf/2105.00149.pdf">Paper</a>] [<a href="https://github.com/ZhenboSong/SVTNet">Code</a>] 
+      [<a href="https://arxiv.org/pdf/2105.00149.pdf">Paper</a>] [<a href="https://github.com/ZhenboSong/svtnet">Code</a>] 
     </p> 
   </div>
 </div>
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;"> 
-    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/pose_overview.jpg"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/pose_tracking.jpg"> 
   </div> 
   <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
   <div class="column right" style="flex: 2;"> 
