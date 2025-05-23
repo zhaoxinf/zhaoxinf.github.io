@@ -7,6 +7,21 @@ author_profile: true
 
 **2025**
 
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://xiangyuzhu-open.github.io/homepage/pic/2025-ijcai-zou.png?raw=true>
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>SafeRAG: Benchmarking Security in Retrieval-Augmented Generation of Large Language Model</strong><br/>
+      Xun Liang, Simin Niu, Zhiyu Li, Sensen Zhang, Hanyu Wang, Feiyu Xiong, <strong>Zhaoxin Fan</strong>, Bo Tang, Jihao Zhao, Jiawei Yang, Shichao Song, Mengwei Wang<br/>
+      The 63rd Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>), 2025.<br/>
+      [<a href="https://arxiv.org/pdf/2501.18636">Paper</a>] [<a href="https://github.com/IAAR-Shanghai/SafeRAG">Code</a>]
+    </p>
+  </div>
+</div>
+
 * **SafeRAG: Benchmarking Security in Retrieval-Augmented Generation of Large Language Model** [[paper]](https://arxiv.org/pdf/2501.18636) [[code]](https://github.com/IAAR-Shanghai/SafeRAG)    
 Xun Liang, Simin Niu, Zhiyu li, Sensen Zhang, Hanyu Wang, Feiyu Xiong, **Zhaoxin Fan**, Bo Tang, Jihao Zhao, Jiawei Yang, Shichao Song, Mengwei Wang     
 The 63rd Annual Meeting of the Association for Computational Linguistics, ACL 2025
