@@ -90,99 +90,185 @@ Working Experience
 
 Selected Publications
 ======
-* **SafeRAG: Benchmarking Security in Retrieval-Augmented Generation of Large Language Model** [[paper]](https://arxiv.org/pdf/2501.18636) [[code]](https://github.com/IAAR-Shanghai/SafeRAG)    
-Xun Liang, Simin Niu, Zhiyu li, Sensen Zhang, Hanyu Wang, Feiyu Xiong, **Zhaoxin Fan**, Bo Tang, Jihao Zhao, Jiawei Yang, Shichao Song, Mengwei Wang     
-The 63rd Annual Meeting of the Association for Computational Linguistics, ACL 2025
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/saferag.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>SafeRAG: Benchmarking Security in Retrieval-Augmented Generation of Large Language Model</strong><br/>
+      Xun Liang, Simin Niu, Zhiyu Li, Sensen Zhang, Hanyu Wang, Feiyu Xiong, <strong>Zhaoxin Fan</strong>, Bo Tang, Jihao Zhao, Jiawei Yang, Shichao Song, Mengwei Wang<br/> 
+      The 63rd Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>), 2025.<br/> 
+      [<a href="https://arxiv.org/pdf/2501.18636">Paper</a>] [<a href="https://github.com/IAAR-Shanghai/SafeRAG">Code</a>] 
+    </p> 
+  </div>
+</div>
 
-* **MoC: Mixtures of Text Chunking Learners for Retrieval-Augmented Generation System** [[paper]](https://arxiv.org/pdf/2503.09600) [[code]](https://github.com/IAAR-Shanghai/Meta-Chunking/tree/main/MoC)    
-Jihao Zhao, Zhiyuan Ji, **Zhaoxin Fan**, Hanyu Wang, Simin Niu, Bo Tang, Feiyu Xiong, Zhiyu li     
-The 63rd Annual Meeting of the Association for Computational Linguistics, ACL 2025
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/moc.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>MoC: Mixtures of Text Chunking Learners for Retrieval-Augmented Generation System</strong><br/>
+      Jihao Zhao, Zhiyuan Ji, <strong>Zhaoxin Fan</strong>, Hanyu Wang, Simin Niu, Bo Tang, Feiyu Xiong, Zhiyu Li<br/> 
+      The 63rd Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>), 2025.<br/> 
+      [<a href="https://arxiv.org/pdf/2503.09600">Paper</a>] [<a href="https://github.com/IAAR-Shanghai/Meta-Chunking/tree/main/MoC">Code</a>] 
+    </p> 
+  </div>
+</div>
 
-* **EraseAnything: Enabling Concept Erasure in Rectified Flow Transformers** [[paper]](https://arxiv.org/pdf/2412.20413) [[code]](https://github.com/)    
-Daiheng Gao, Shilin Lu, Wenbo Zhou, Jiaming Chu, Jie Zhang, Mengxi Jia, Bang Zhang, **Zhaoxin Fan(corresponding author)**, Weiming Zhang     
-Forty-second International Conference on Machine Learning, ICML 2025
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/eraseanything.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>EraseAnything: Enabling Concept Erasure in Rectified Flow Transformers</strong><br/>
+      Daiheng Gao, Shilin Lu, Wenbo Zhou, Jiaming Chu, Jie Zhang, Mengxi Jia, Bang Zhang, <strong>Zhaoxin Fan</strong> (corresponding author), Weiming Zhang<br/> 
+      Forty-second International Conference on Machine Learning (<strong>ICML</strong>), 2025.<br/> 
+      [<a href="https://arxiv.org/pdf/2412.20413">Paper</a>] [<a href="https://github.com/">Code</a>] 
+    </p> 
+  </div>
+</div>
 
-* **GLDiTalker: Speech-Driven 3D Facial Animation with Graph Latent Diffusion Transformer** [[paper]](https://arxiv.org/pdf/2408.01826) [[code]](https://github.com/)    
-Yihong Lin, **Zhaoxin Fan（Equal Contribution）**, Xianjia Wu, Lingyu Xiong, Liang Peng, Xiandong Li, Wenxiong Kang, Songju Lei, Huang Xu     
-34th International Joint Conference on Artificial Intelligence, IJCAI 2025
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/glditalker.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>GLDiTalker: Speech-Driven 3D Facial Animation with Graph Latent Diffusion Transformer</strong><br/>
+      Yihong Lin, <strong>Zhaoxin Fan</strong> (Equal Contribution), Xianjia Wu, Lingyu Xiong, Liang Peng, Xiandong Li, Wenxiong Kang, Songju Lei, Huang Xu<br/> 
+      34th International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2025.<br/> 
+      [<a href="https://arxiv.org/pdf/2408.01826">Paper</a>] [<a href="https://github.com/">Code</a>] 
+    </p> 
+  </div>
+</div>
 
-* **DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations** [[paper]](https://arxiv.org/) [[code]](https://github.com/)    
-Ziqiao Peng, Yanbo Fan, Haoyu Wu, Xuan Wang, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**     
-IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2025
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/dualtalk.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations</strong><br/>
+      Ziqiao Peng, Yanbo Fan, Haoyu Wu, Xuan Wang, Hongyan Liu, Jun He, <strong>Zhaoxin Fan</strong> (corresponding author)<br/> 
+      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025.<br/> 
+      [<a href="https://arxiv.org/">Paper</a>] [<a href="https://github.com/">Code</a>] 
+    </p> 
+  </div>
+</div>
 
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/mambavo.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>MambaVO: Deep Visual Odometry Based on Sequential Matching Refinement and Training Smoothing</strong><br/>
+      Shuo Wang, Wanting Li, Yongcai Wang, <strong>Zhaoxin Fan</strong> (corresponding author), Zhe Huang, Xudong Cai, Jian Zhao, Deying Li<br/> 
+      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025.<br/> 
+      [<a href="https://arxiv.org/pdf/2412.20082">Paper</a>] [<a href="https://github.com/">Code</a>] 
+    </p> 
+  </div>
+</div>
 
-* **MambaVO: Deep Visual Odometry Based on Sequential Matching Refinement Training Smoothing** [[paper]](https://arxiv.org/pdf/2412.20082) [[code]](https://github.com/)    
-Shuo Wang, Wanting Li, Yongcai Wang, **Zhaoxin Fan(corresponding author)**, Zhe Huang, Xudong Cai, Jian Zhao, Deying Li     
-IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2025
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/jtd-uav.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>JTD-UAV: MLLM-Enhanced Joint Tracking and Description Framework for Anti-UAV Systems</strong><br/>
+      Yifan Wang, Jian Zhao, <strong>Zhaoxin Fan</strong> (corresponding author), Xin Zhang, Xuecheng Wu, Yudian Zhang, Lei Jin, Xinyue Li, Gang Wang, Mengxi Jia, Ping Hu, Zheng Zhu, Xuelong Li<br/> 
+      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025.<br/> 
+      [<a href="https://arxiv.org/">Paper</a>] [<a href="https://github.com/">Code</a>] 
+    </p> 
+  </div>
+</div>
 
-* **JTD-UAV: MLLM-Enhanced Joint Tracking and Description Framework for Anti-UAV Systems** [[paper]](https://arxiv.org/) [[code]](https://github.com/)    
-Yifan Wang, Jian Zhao, **Zhaoxin Fan(corresponding author)**, Xin Zhang, Xuecheng Wu, Yudian Zhang, Lei Jin, Xinyue Li, Gang Wang, Mengxi Jia, Ping Hu, Zheng Zhu, Xuelong Li     
-IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2025
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/mlphand.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>MLPHand: Real Time Multi-View 3D Hand Mesh Reconstruction via MLP Modeling</strong><br/>
+      Jian Yang, Jiakun Li, Guoming Li, Zhen Shen, Huai-Yu Wu, <strong>Zhaoxin Fan</strong> (corresponding author)<br/> 
+      European Conference on Computer Vision (<strong>ECCV</strong>), 2024.<br/> 
+      [<a href="https://arxiv.org/pdf/2406.16137">Paper</a>] [<a href="https://github.com/jackyyang9/MLPHand">Code</a>] 
+    </p> 
+  </div>
+</div>
 
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/synctalk.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis</strong><br/>
+      Ziqiao Peng, Wentao Hu, Yue Shi, Xiangyu Zhu, Xiaomei Zhang, Hao Zhao, Jun He, Hongyan Liu, <strong>Zhaoxin Fan</strong> (corresponding author)<br/> 
+      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2024.<br/> 
+      [<a href="https://arxiv.org/pdf/2311.17590.pdf">Paper</a>] [<a href="https://github.com/ZiqiaoPeng/SyncTalk">Code</a>] 
+    </p> 
+  </div>
+</div>
 
-* **MLPHand: Real Time Multi-View 3D Hand Mesh Reconstruction via MLP Modeling** [[paper]](https://arxiv.org/pdf/2406.16137) [[code]](https://github.com/jackyyang9/MLPHand)    
-Jian Yang, Jiakun Li, Guoming Li, Zhen Shen, Huai-Yu Wu, **Zhaoxin Fan(corresponding author)**  
-European Conference on Computer Vision, ECCV 2024
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/monosim.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>MonoSIM: Simulating Learning Behaviors of Heterogeneous Point Cloud Object Detectors for Monocular 3D Object Detection</strong><br/>
+      Han Sun, <strong>Zhaoxin Fan</strong> (equal contribution), Zhenbo Song, Zhicheng Wang, Kejian Wu, and Jianfeng Lu<br/> 
+      IEEE Transactions on Instrumentation & Measurement (<strong>TIM</strong>), 2024.<br/> 
+      [<a href="https://arxiv.org/pdf/2208.09446.pdf">Paper</a>] [<a href="https://github.com/sunh18/MonoSIM">Code</a>] 
+    </p> 
+  </div>
+</div>
 
-* **SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis** [[paper]](https://arxiv.org/pdf/2311.17590.pdf)[[code]](https://github.com/ZiqiaoPeng/SyncTalk)  
-Ziqiao Peng, Wentao Hu, Yue Shi, Xiangyu Zhu, Xiaomei Zhang, Hao Zhao, Jun He, Hongyan Liu, **Zhaoxin Fan (corresponding author)**.  
-IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2024
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/everything2motion.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>Everything2Motion: Synchronizing Diverse Inputs via a Unified Framework for Human Motion Synthesis</strong><br/>
+      <strong>Zhaoxin Fan</strong>, Longbin Li, Pengxin Xu, Fan Shen, Kai Chen<br/> 
+      Thirty-Eighth AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024.<br/> 
+      [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/27936">Paper</a>] 
+    </p> 
+  </div>
+</div>
 
-* **MonoSIM: Simulating Learning Behaviors of Heterogeneous Point Cloud Object Detectors for Monocular 3D Object Detection** [[paper]](https://arxiv.org/pdf/2208.09446.pdf) [[code]](https://github.com/sunh18/MonoSIM)   
-Han Sun, **Zhaoxin Fan (equal contribution)**, Zhenbo Song, Zhicheng Wang, Kejian Wu, and Jianfeng Lu.  
-IEEE Transactions on Instrumentation & Measurement, TIM 2024
-
-* **Everything2Motion: Synchronizing Diverse Inputs via a Unified Framework for Human Motion Synthesis**[[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/27936)    
-**Zhaoxin Fan**, Longbin Li, Pengxin Xu, Fan Shen, kai Chen.  
-Thirty-Eighth AAAI Conference on Artificial Intelligence, AAAI 2024
-
-* **EmoTalk: Speech-driven emotional disentanglement for 3D face animation** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_D-IF_Uncertainty-aware_Human_Digitization_via_Implicit_Distribution_Field_ICCV_2023_paper.pdf) [[code]](https://github.com/psyai-net/EmoTalk_release)    
-Ziqiao Peng, Haoyu Wu, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**.  
-International Conference on Computer Vision, ICCV 2023
-
-* **D-IF: Uncertainty-aware Human Digitization via Implicit Distribution Field** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_D-IF_Uncertainty-aware_Human_Digitization_via_Implicit_Distribution_Field_ICCV_2023_paper.pdf)[[code]](https://github.com/psyai-net/D-IF_release)   
-Xueting Yang, Yihao Luo, Yuliang Xiu, Wei Wang, Hao Xu, **Zhaoxin Fan(corresponding author)**.  
-International Conference on Computer Vision, ICCV 2023
-
-
-* **SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces** [[paper]](https://arxiv.org/pdf/2306.10799.pdf)[[code]](https://github.com/psyai-net/SelfTalk_release)  
-Ziqiao Peng, Yihao Luo, Yue Shi, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, **Zhaoxin Fan(corresponding author)**.  
-ACM International Conference on Multimedia, ACM MM 2023
-
-
-* **Reconstruction-Aware Prior Distillation for Semi-supervised Point Cloud Completion** [[paper]](https://arxiv.org/pdf/2204.09186.pdf)  
-**Zhaoxin Fan**, Yulin He, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
-International Joint Conference on Artificial Intelligence, IJCAI 2023
-
-* **Robust Single Image Reflection Removal Against Adversarial Attacks** [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Song_Robust_Single_Image_Reflection_Removal_Against_Adversarial_Attacks_CVPR_2023_paper.pdf)    
-Zhenbo Song, Zhenyuan Zhang, Kaihao Zhang, Wenhan Luo, **Zhaoxin Fan**, Wenqi Ren, Jianfeng Lu   
-IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2023
-
-* **Object Level Depth Reconstruction for Category Level 6D Object Pose Estimation From Monocular RGB Image** [[paper]](https://arxiv.org/pdf/2204.01586.pdf)[[code]](https://github.com/FANzhaoxin666/OLD_Net_release)       
-**Zhaoxin Fan**, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu and Jun He  
-European Conference on Computer Vision, ECCV 2022
-
-* **SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place Recognition** [[paper]](https://arxiv.org/pdf/2105.00149.pdf)[[code]](https://github.com/ZhenboSong/SVTNet)    
-**Zhaoxin Fan**, Zhenbo Song, Zhiwu Lu, Hongyan Liu, Jun He, and Xiaoyong Du  
-36th AAAI Conference on Artificial Intelligence, AAAI 2022
-
-* **Deep Learning on Monocular Object Pose Detection and Tracking: A Comprehensive Overview** [[paper]](https://arxiv.org/pdf/2105.14291.pdf)  
-**Zhaoxin Fan**, Yazhi Zhu, Yulin He, Qi Sun, Hongyan Liu, and Jun He  
-ACM Computing Surveys, CSUR, 2022.
-
-* **GIDP: Learning a Good Initialization and Inducing Descriptor Post-enhancing for Large-scale Place Recognition** [[paper]](https://arxiv.org/pdf/2209.11488.pdf)    
-**Zhaoxin Fan**, Zhenbo Song, Hongyan Liu, and Jun He  
-International Conference on Robotics and Automation, ICRA 2023.
-
-* **SRNet: A 3D Scene Recognition Network using Static Graph and Dense Semantic Fusion** [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14146)    
-**Zhaoxin Fan**, Hongyan Liu, Jun He, Qi Sun, and Xiaoyong Du  
-Computer Graphics Forum, CGF 2020  
-
-
-* **A Graph‐based One‐Shot Learning Method for Point Cloud Recognition** [[paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14147)    
-**Zhaoxin Fan**, Hongyan Liu, Jun He, Qi Sun, and Xiaoyong Du  
-Computer Graphics Forum, CGF 2020 
-
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/emotalk.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>EmoTalk: Speech-driven Emotional Disentanglement for 3D Face Animation</strong><br/>
+      Ziqiao Peng, Haoyu Wu, Zhenbo Song, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, <strong>Zhaoxin Fan</strong> (corresponding author)<br/> 
+      International Conference on Computer Vision (<strong>ICCV</strong>), 2023.<br/> 
+      [<a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_D-IF_Uncertainty-aware_Human_Digitization_via_Implicit_Distribution_Field_ICCV_2023_paper.pdf">Paper</a>] [<a href="https://github.com/psyai-net/EmoTalk_release">Code</a>] 
+    </p> 
+  </div>
+</div>
 
 <br>
 
