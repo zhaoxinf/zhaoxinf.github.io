@@ -271,6 +271,128 @@ Selected Publications
   </div>
 </div>
 
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/d-if.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>D-IF: Uncertainty-aware Human Digitization via Implicit Distribution Field</strong><br/>
+      Xueting Yang, Yihao Luo, Yuliang Xiu, Wei Wang, Hao Xu, <strong>Zhaoxin Fan</strong> (corresponding author)<br/> 
+      International Conference on Computer Vision (<strong>ICCV</strong>), 2023.<br/> 
+      [<a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Yang_D-IF_Uncertainty-aware_Human_Digitization_via_Implicit_Distribution_Field_ICCV_2023_paper.pdf">Paper</a>] [<a href="https://github.com/psyai-net/D-IF_release">Code</a>] 
+    </p> 
+  </div>
+</div>
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/selftalk.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>SelfTalk: A Self-Supervised Commutative Training Diagram to Comprehend 3D Talking Faces</strong><br/>
+      Ziqiao Peng, Yihao Luo, Yue Shi, Hao Xu, Xiangyu Zhu, Hongyan Liu, Jun He, <strong>Zhaoxin Fan</strong> (corresponding author)<br/> 
+      ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2023.<br/> 
+      [<a href="https://arxiv.org/pdf/2306.10799.pdf">Paper</a>] [<a href="https://github.com/psyai-net/SelfTalk_release">Code</a>] 
+    </p> 
+  </div>
+</div>
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/reconstruction-aware.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>Reconstruction-Aware Prior Distillation for Semi-supervised Point Cloud Completion</strong><br/>
+      <strong>Zhaoxin Fan</strong>, Yulin He, Zhicheng Wang, Kejian Wu, Hongyan Liu, Jun He<br/> 
+      International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2023.<br/> 
+      [<a href="https://arxiv.org/pdf/2204.09186.pdf">Paper</a>] 
+    </p> 
+  </div>
+</div>
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/robust-reflection.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>Robust Single Image Reflection Removal Against Adversarial Attacks</strong><br/>
+      Zhenbo Song, Zhenyuan Zhang, Kaihao Zhang, Wenhan Luo, <strong>Zhaoxin Fan</strong>, Wenqi Ren, Jianfeng Lu<br/> 
+      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2023.<br/> 
+      [<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Song_Robust_Single_Image_Reflection_Removal_Against_Adversarial_Attacks_CVPR_2023_paper.pdf">Paper</a>] 
+    </p> 
+  </div>
+</div>
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/old_net.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>Object Level Depth Reconstruction for Category Level 6D Object Pose Estimation From Monocular RGB Image</strong><br/>
+      <strong>Zhaoxin Fan</strong>, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu, Jun He<br/> 
+      European Conference on Computer Vision (<strong>ECCV</strong>), 2022.<br/> 
+      [<a href="https://arxiv.org/pdf/2204.01586.pdf">Paper</a>] [<a href="https://github.com/FANzhaoxin666/OLD_Net_release">Code</a>] 
+    </p> 
+  </div>
+</div>
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/svt_net.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place Recognition</strong><br/>
+      <strong>Zhaoxin Fan</strong>, Zhenbo Song, Zhiwu Lu, Hongyan Liu, Jun He, Xiaoyong Du<br/> 
+      36th AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2022.<br/> 
+      [<a href="https://arxiv.org/pdf/2105.00149.pdf">Paper</a>] [<a href="https://github.com/ZhenboSong/SVTNet">Code</a>] 
+    </p> 
+  </div>
+</div>
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/pose_overview.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>Deep Learning on Monocular Object Pose Detection and Tracking: A Comprehensive Overview</strong><br/>
+      <strong>Zhaoxin Fan</strong>, Yazhi Zhu, Yulin He, Qi Sun, Hongyan Liu, Jun He<br/> 
+      ACM Computing Surveys (<strong>CSUR</strong>), 2022.<br/> 
+      [<a href="https://arxiv.org/pdf/2105.14291.pdf">Paper</a>] 
+    </p> 
+  </div>
+</div>
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/gidp.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>GIDP: Learning a Good Initialization and Inducing Descriptor Post-enhancing for Large-scale Place Recognition</strong><br/>
+      <strong>Zhaoxin Fan</strong>, Zhenbo Song, Hongyan Liu, Jun He<br/> 
+      International Conference on Robotics and Automation (<strong>ICRA</strong>), 2023.<br/> 
+      [<a href="https://arxiv.org/pdf/2209.11488.pdf">Paper</a>] 
+    </p> 
+  </div>
+</div>
+
+
 <br>
 
 
