@@ -9,21 +9,11 @@ author_profile: true
 
 President and Reviewer Roles
 ======
-* Reviewer for ICCV 2021, 2023
-* Reviewer for ECCV 2022,2024
-* Reviewer for CVPR 2022, 2023, 2024
-* Reviewer for 3DV 2022,2024
-* Reviewer for AAAI 2023, 2024
-* Reviewer for APBC 2022, 2023
-* Reviewer for RECOMB 2023
-* Reviewer for 自动化学报
-* Reviewer for IEEE Robotics and Automation Letters
-* Reviewer for Journal of Intelligent Systems
-* Reviewer for IEEE Transactions on Multimedia
-* Reviewer for IEEE Transactions on Industrial Informatics
-* Reviewer for IEEE Transactions on Circuits and Systems for Video Technology
-* Reviewer for International Journal of Computer Vision
-* Reviewer for IEEE Access.
+
+* Area Chair of PRCV 2025
+* Organizer of CVPR 2025 Anti-UAV Workshop & Challenge
+* Conference Reviewers: NeurIPS, CVPR, ICCV, ECCV, AAAI, IJCAI, ACM MM, 3DV, APBC, RECOMB
+* Journal Reviewers TPAMI, IJCV, TIP, TMM, PR, TCSVT, RAL,TII, JIS,自动化学报
 
 
 Awards
