@@ -109,7 +109,7 @@ author_profile: true
       <strong>DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations</strong><br/>
       Ziqiao Peng, Yanbo Fan, Haoyu Wu, Xuan Wang, Hongyan Liu, Jun He, <strong>Zhaoxin Fan</strong> (corresponding author)<br/>
       IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025.<br/>
-      [<a href="https://arxiv.org/">Paper</a>] [<a href="https://github.com/">Code</a>]
+      [<a href="https://arxiv.org/pdf/2505.18096">Paper</a>] [<a href="https://github.com/">Code</a>]
     </p>
   </div>
 </div>
