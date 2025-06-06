@@ -139,7 +139,7 @@ author_profile: true
       <strong>JTD-UAV: MLLM-Enhanced Joint Tracking and Description Framework for Anti-UAV Systems</strong><br/>
       Yifan Wang, Jian Zhao, <strong>Zhaoxin Fan</strong> (corresponding author), Xin Zhang, Xuecheng Wu, Yudian Zhang, Lei Jin, Xinyue Li, Gang Wang, Mengxi Jia, Ping Hu, Zheng Zhu, Xuelong Li<br/>
       IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025.<br/>
-      [<a href="https://arxiv.org/">Paper</a>] [<a href="https://github.com/">Code</a>]
+      [<a href="https://openaccess.thecvf.com/content/CVPR2025/html/Wang_JTD-UAV_MLLM-Enhanced_Joint_Tracking_and_Description_Framework_for_Anti-UAV_Systems_CVPR_2025_paper.html">Paper</a>] [<a href="https://github.com/wangyf2001/MM-AntiUAV/">Code</a>]
     </p>
   </div>
 </div>
