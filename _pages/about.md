@@ -151,20 +151,7 @@ Selected Publications
   </div>
 </div>
 
-<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div class="column left" style="flex: 1;"> 
-    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/dualtalk.jpg"> 
-  </div> 
-  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
-  <div class="column right" style="flex: 2;"> 
-    <p> 
-      <strong>DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations</strong><br/>
-      Ziqiao Peng, Yanbo Fan, Haoyu Wu, Xuan Wang, Hongyan Liu, Jun He, <strong>Zhaoxin Fan</strong> (corresponding author)<br/> 
-      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025.<br/> 
-      [<a href="https://arxiv.org/">Paper</a>] [<a href="https://github.com/">Code</a>] 
-    </p> 
-  </div>
-</div>
+
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;"> 
@@ -182,17 +169,33 @@ Selected Publications
 </div>
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div class="column left" style="flex: 1;"> 
-    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/jtd-uav.jpg"> 
-  </div> 
-  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
-  <div class="column right" style="flex: 2;"> 
-    <p> 
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/dualtalk.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations</strong><br/>
+      Ziqiao Peng, Yanbo Fan, Haoyu Wu, Xuan Wang, Hongyan Liu, Jun He, <strong>Zhaoxin Fan</strong> (corresponding author)<br/>
+      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025.<br/>
+      [<a href="https://arxiv.org/pdf/2505.18096">Paper</a>] [<a href="https://github.com/">Code</a>]
+    </p>
+  </div>
+</div>
+
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/jtd-uav.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
       <strong>JTD-UAV: MLLM-Enhanced Joint Tracking and Description Framework for Anti-UAV Systems</strong><br/>
-      Yifan Wang, Jian Zhao, <strong>Zhaoxin Fan</strong> (corresponding author), Xin Zhang, Xuecheng Wu, Yudian Zhang, Lei Jin, Xinyue Li, Gang Wang, Mengxi Jia, Ping Hu, Zheng Zhu, Xuelong Li<br/> 
-      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025.<br/> 
-      [<a href="https://arxiv.org/">Paper</a>] [<a href="https://github.com/">Code</a>] 
-    </p> 
+      Yifan Wang, Jian Zhao, <strong>Zhaoxin Fan</strong> (corresponding author), Xin Zhang, Xuecheng Wu, Yudian Zhang, Lei Jin, Xinyue Li, Gang Wang, Mengxi Jia, Ping Hu, Zheng Zhu, Xuelong Li<br/>
+      IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025.<br/>
+      [<a href="https://openaccess.thecvf.com/content/CVPR2025/html/Wang_JTD-UAV_MLLM-Enhanced_Joint_Tracking_and_Description_Framework_for_Anti-UAV_Systems_CVPR_2025_paper.html">Paper</a>] [<a href="https://github.com/wangyf2001/MM-AntiUAV/">Code</a>]
+    </p>
   </div>
 </div>
 
