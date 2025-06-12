@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-* I am currently working as an assistant researcher, collaborating with Prof. [[Zhiming Zheng]](https://iai.buaa.edu.cn/info/1013/1088.htm), Academician of the Chinese Academy of Sciences and Prof. [[Wenjun Wu]](https://iai.buaa.edu.cn/info/1013/1093.htm), at School of Artificial Intelligence, Beihang University.  
+* I am currently working as an assistant professor, collaborating with Prof. [[Zhiming Zheng]](https://iai.buaa.edu.cn/info/1013/1088.htm), Academician of the Chinese Academy of Sciences and Prof. [[Wenjun Wu]](https://iai.buaa.edu.cn/info/1013/1093.htm), at School of Artificial Intelligence, Beihang University.  
   
 * I am now also working as the chief young scientist of [Psyche AI Inc](https://www.psyai.com/home)（深锶科技）, fosuing on developing advanced AI algorithms for avatars, including avatar driving, avatar generation, and avatar reconsctrution. 
 
