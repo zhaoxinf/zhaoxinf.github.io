@@ -651,7 +651,9 @@ author_profile: true
 *  Chinese National Invention Patent: 一种使用单目RGB图像进行虚拟人驱动的方法. 国家发明专利. CN116597509A
 *  Chinese National Invention Patent:  一种基于 Wav2Lip 模型视频说话人的后处理方法. 国家发明专利. 2024113137542
 *  Chinese National Invention Patent: 一种纹理重建方法及装置. 国家发明专利. 2024116956146
-
+*  Chinese National Invention Patent:一种提高数字人姿态估计的对抗性攻击方法及装置. 国家发明专利. 202510427766.6
+*  Chinese National Invention Patent:  基于双向对偶耦合的数字人表情编辑方法. 国家发明专利. 202510654473.1
+*  Chinese National Invention Patent: 基于流形投影的数字人手-物协同视频生成方法. 国家发明专利. 202510654479.9
 
 
 
