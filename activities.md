@@ -18,6 +18,7 @@ President and Reviewer Roles
 
 Awards
 ======
+* Postdoctoral Innovation Talent Support Program.
 * Future Scientist Scholarship from Psyche AI,  along with a bonus of 150,000 CNY.
 * The first prize in the "Technology Star" research application activity, along with a bonus of 80,000 CNY.
 * Full financial support for PhD Student from CMU.
