@@ -94,6 +94,23 @@ Working Experience
 
 Selected Publications
 ======
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/saferag.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>Unveiling Hidden Vulnerabilities in Digital Human Generation via Adversarial Attacks</strong><br/>
+      Zhiying Li, Yeying Jin, Fan Shen, Zhi Liu, Weibin Chen, Pengju Zhang, Xiaomei Zhang, Boyu Chen, Michael Shen, Kejian Wu,<strong>Zhaoxin Fan</strong> (corresponding author), Jin Dong<br/> 
+      Pattern Recognition (<strong>PR</strong>), 2025.<br/> 
+      [<a href="https://arxiv.org/pdf/2504.17457">Paper</a>] [<a href="https://github.com/">Code</a>] 
+    </p> 
+  </div>
+</div>
+
+
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;"> 
     <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/saferag.jpg"> 
@@ -132,7 +149,7 @@ Selected Publications
   <div class="column right" style="flex: 2;"> 
     <p> 
       <strong>EraseAnything: Enabling Concept Erasure in Rectified Flow Transformers</strong><br/>
-      Daiheng Gao, Shilin Lu, Wenbo Zhou, Jiaming Chu, Jie Zhang, Mengxi Jia, Bang Zhang, <strong>Zhaoxin Fan</strong> (corresponding author), Weiming Zhang<br/> 
+      Daiheng Gao, Shilin Lu, Wenbo Zhou, Jiaming Chu, Jie Zhang, Mengxi Jia, Bang Zhang, c, Weiming Zhang<br/> 
       Forty-second International Conference on Machine Learning (<strong>ICML</strong>), 2025.<br/> 
       [<a href="https://arxiv.org/pdf/2412.20413">Paper</a>] [<a href="https://github.com/">Code</a>] 
     </p> 
