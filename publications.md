@@ -8,6 +8,21 @@ author_profile: true
 **2025**
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/tba.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>Unveiling Hidden Vulnerabilities in Digital Human Generation via Adversarial Attacks</strong><br/>
+      Zhiying Li, Yeying Jin, Fan Shen, Zhi Liu, Weibin Chen, Pengju Zhang, Xiaomei Zhang, Boyu Chen, Michael Shen, Kejian Wu,<strong>Zhaoxin Fan</strong> (corresponding author), Jin Dong<br/> 
+      Pattern Recognition (<strong>PR</strong>), 2025.<br/> 
+      [<a href="https://arxiv.org/pdf/2504.17457">Paper</a>] [<a href="https://github.com/">Code</a>] 
+    </p> 
+  </div>
+</div>
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
     <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/saferag.jpg">
   </div>
