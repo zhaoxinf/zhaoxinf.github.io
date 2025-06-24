@@ -10,6 +10,7 @@ author_profile: true
 President and Reviewer Roles
 ======
 
+* Area Chair of 3DV 2026
 * Area Chair of PRCV 2025
 * Organizer of CVPR 2025 Anti-UAV Workshop & Challenge
 * Conference Reviewers: NeurIPS, CVPR, ICCV, ECCV, AAAI, IJCAI, ACM MM, 3DV, APBC, RECOMB
