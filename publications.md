@@ -20,7 +20,7 @@ author_profile: true
       <strong>Unveiling Hidden Vulnerabilities in Digital Human Generation via Adversarial Attacks</strong><br/>
       Zhiying Li, Yeying Jin, Fan Shen, Zhi Liu, Weibin Chen, Pengju Zhang, Xiaomei Zhang, Boyu Chen, Michael Shen, Kejian Wu, <strong>Zhaoxin Fan</strong> (corresponding author), Jin Dong<br/> 
       Pattern Recognition (<strong>PR</strong>), 2025.<br/> 
-      [<a href="https://www.sciencedirect.com/science/article/pii/S0031320325006260">Paper</a>] [<a href="https://github.com/">Code</a>] 
+      [<a href="https://arxiv.org/pdf/2504.17457">Paper</a>] [<a href="https://github.com/">Code</a>]
     </p> 
   </div>
 </div>
@@ -35,7 +35,7 @@ author_profile: true
       <strong>Phys-EdiGAN: A privacy-preserving method for editing physiological signals in facial videos</strong><br/>
      Xiaoguang Tu, Zhiyi Niu, Juhang Yin, Yanyan Zhang, Ming Yang, Lin Wei, Yu Wang, **Zhaoxin Fan**, Jian Zhao<br/> 
       Pattern Recognition (<strong>PR</strong>), 2025.<br/> 
-      [<a href="https://arxiv.org/pdf/2504.17457">Paper</a>] [<a href="https://github.com/">Code</a>] 
+      [<a href="https://www.sciencedirect.com/science/article/pii/S0031320325006260">Paper</a>] [<a href="https://github.com/">Code</a>] 
     </p> 
   </div>
 </div>
