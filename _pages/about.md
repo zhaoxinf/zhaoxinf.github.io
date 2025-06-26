@@ -37,7 +37,8 @@ About me
 
 News!
 ======
-*  June/22/2025,    Glad to annouce that TBA is accepted to **Pattern Recongition**. Our first work on avatar security!
+*  June/26/2025,  Excited to annouce that 2 papers are accepted to **ICCV 2025** !
+*  June/22/2025,  Glad to annouce that TBA is accepted to **Pattern Recongition**. Our first work on avatar security!
 *  June/12/2025,  We will serve as a gestor editor of the **Electronics**, to organize **Special Issue on Advances and Challenges in Multimodal Pattern Recognition**!
 *  June/8/2025,  I am happy to serve as the **Area Chair of 3DV 2026**!
 *  May/20/2025,  I am happy to serve as the **Area Chair of PRCV 2025**!
