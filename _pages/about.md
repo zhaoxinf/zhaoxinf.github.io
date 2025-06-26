@@ -102,6 +102,39 @@ Selected Publications
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/MSGM.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>Moderating the Generalization of Score-based Generative Model</strong><br/>
+      Wan Jiang, He Wang, Xin Zhang, Dan Guo,  <strong>Zhaoxin Fan</strong>, Yunfeng Diao, Richang Hong<br/> 
+      International Conference on Computer Vision (<strong>ICCV</strong>), 2025.<br/>
+      [<a href="https://arxiv.org/pdf/2412.07229">Paper</a>] [<a href="https://github.com/">Code</a>]
+    </p> 
+  </div>
+</div>
+
+
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/carp.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>CARP: Visuomotor Policy Learning via Coarse-to-Fine Autoregressive Prediction</strong><br/>
+      Zhefei Gong, Pengxiang Ding, Shangke Lyu, Siteng Huang, Mingyang Sun, Wei Zhao,  <strong>Zhaoxin Fan</strong>, Donglin Wang<br/> 
+      International Conference on Computer Vision (<strong>ICCV</strong>), 2025.<br/>
+      [<a href="https://arxiv.org/pdf/2412.06782">Paper</a>] [<a href="https://github.com/">Code</a>]
+    </p> 
+  </div>
+</div>
+
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
     <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/tba.jpg"> 
   </div> 
   <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
@@ -110,7 +143,22 @@ Selected Publications
       <strong>Unveiling Hidden Vulnerabilities in Digital Human Generation via Adversarial Attacks</strong><br/>
       Zhiying Li, Yeying Jin, Fan Shen, Zhi Liu, Weibin Chen, Pengju Zhang, Xiaomei Zhang, Boyu Chen, Michael Shen, Kejian Wu, <strong>Zhaoxin Fan</strong> (corresponding author), Jin Dong<br/> 
       Pattern Recognition (<strong>PR</strong>), 2025.<br/> 
-      [<a href="https://arxiv.org/pdf/2504.17457">Paper</a>] [<a href="https://github.com/">Code</a>] 
+      [<a href="https://arxiv.org/pdf/2504.17457">Paper</a>] [<a href="https://github.com/">Code</a>]
+    </p> 
+  </div>
+</div>
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/phys.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>Phys-EdiGAN: A privacy-preserving method for editing physiological signals in facial videos</strong><br/>
+     Xiaoguang Tu, Zhiyi Niu, Juhang Yin, Yanyan Zhang, Ming Yang, Lin Wei, Yu Wang,  <strong>Zhaoxin Fan</strong>, Jian Zhao<br/> 
+      Pattern Recognition (<strong>PR</strong>), 2025.<br/> 
+      [<a href="https://www.sciencedirect.com/science/article/pii/S0031320325006260">Paper</a>] [<a href="https://github.com/">Code</a>] 
     </p> 
   </div>
 </div>
