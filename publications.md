@@ -7,7 +7,37 @@ author_profile: true
 
 **2025**
 
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/MSGM.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>Moderating the Generalization of Score-based Generative Model</strong><br/>
+      Wan Jiang, He Wang, Xin Zhang, Dan Guo, **Zhaoxin Fan**, Yunfeng Diao, Richang Hong<br/> 
+      Pattern Recognition (<strong>PR</strong>), 2025.<br/> 
+      [<a href="https://arxiv.org/pdf/2412.07229">Paper</a>] [<a href="https://github.com/">Code</a>]
+    </p> 
+  </div>
+</div>
 
+
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/MSGM.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>Moderating the Generalization of Score-based Generative Model</strong><br/>
+      Wan Jiang, He Wang, Xin Zhang, Dan Guo, **Zhaoxin Fan**, Yunfeng Diao, Richang Hong<br/> 
+      Pattern Recognition (<strong>PR</strong>), 2025.<br/> 
+      [<a href="https://arxiv.org/pdf/2504.17457">Paper</a>] [<a href="https://github.com/">Code</a>]
+    </p> 
+  </div>
+</div>
 
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
