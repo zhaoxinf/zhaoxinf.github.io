@@ -15,8 +15,8 @@ author_profile: true
   <div class="column right" style="flex: 2;"> 
     <p> 
       <strong>Moderating the Generalization of Score-based Generative Model</strong><br/>
-      Wan Jiang, He Wang, Xin Zhang, Dan Guo, **Zhaoxin Fan**, Yunfeng Diao, Richang Hong<br/> 
-      Pattern Recognition (<strong>PR</strong>), 2025.<br/> 
+      Wan Jiang, He Wang, Xin Zhang, Dan Guo,  <strong>Zhaoxin Fan</strong>, Yunfeng Diao, Richang Hong<br/> 
+      International Conference on Computer Vision (<strong>ICCV</strong>), 2025.<br/>
       [<a href="https://arxiv.org/pdf/2412.07229">Paper</a>] [<a href="https://github.com/">Code</a>]
     </p> 
   </div>
@@ -31,10 +31,10 @@ author_profile: true
   <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
   <div class="column right" style="flex: 2;"> 
     <p> 
-      <strong>Moderating the Generalization of Score-based Generative Model</strong><br/>
-      Wan Jiang, He Wang, Xin Zhang, Dan Guo, **Zhaoxin Fan**, Yunfeng Diao, Richang Hong<br/> 
-      Pattern Recognition (<strong>PR</strong>), 2025.<br/> 
-      [<a href="https://arxiv.org/pdf/2504.17457">Paper</a>] [<a href="https://github.com/">Code</a>]
+      <strong>CARP: Visuomotor Policy Learning via Coarse-to-Fine Autoregressive Prediction</strong><br/>
+      Zhefei Gong, Pengxiang Ding, Shangke Lyu, Siteng Huang, Mingyang Sun, Wei Zhao,  <strong>Zhaoxin Fan</strong>, Donglin Wang<br/> 
+      International Conference on Computer Vision (<strong>ICCV</strong>), 2025.<br/>
+      [<a href="https://arxiv.org/pdf/2412.06782">Paper</a>] [<a href="https://github.com/">Code</a>]
     </p> 
   </div>
 </div>
@@ -63,7 +63,7 @@ author_profile: true
   <div class="column right" style="flex: 2;"> 
     <p> 
       <strong>Phys-EdiGAN: A privacy-preserving method for editing physiological signals in facial videos</strong><br/>
-     Xiaoguang Tu, Zhiyi Niu, Juhang Yin, Yanyan Zhang, Ming Yang, Lin Wei, Yu Wang, **Zhaoxin Fan**, Jian Zhao<br/> 
+     Xiaoguang Tu, Zhiyi Niu, Juhang Yin, Yanyan Zhang, Ming Yang, Lin Wei, Yu Wang,  <strong>Zhaoxin Fan</strong>, Jian Zhao<br/> 
       Pattern Recognition (<strong>PR</strong>), 2025.<br/> 
       [<a href="https://www.sciencedirect.com/science/article/pii/S0031320325006260">Paper</a>] [<a href="https://github.com/">Code</a>] 
     </p> 
