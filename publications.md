@@ -9,6 +9,37 @@ author_profile: true
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/cohedancers.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>CoheDancers: Enhancing Interactive Group Dance Generation through Music-Driven Coherence Decomposition</strong><br/>
+      kaixing yang, XulongTang, Haoyu Wu, Biao Qin, Hongyan Liu, Jun He, <strong>Zhaoxin Fan</strong> (corresponding author)<br/> 
+      ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2025.<br/> 
+      [<a href="https://arxiv.org/pdf/2412.19123">Paper</a>] [<a href="https://github.com/">Code</a>]
+    </p> 
+  </div>
+</div>
+
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/flexible.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>Flexible Multi-view Clustering with Dynamic Views Generation</strong><br/>
+      Yalan Qin, Nan Pu, Hanzhou Wu, <strong>Zhaoxin Fan</strong> (corresponding author)<br/> 
+      ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2025.<br/> 
+      [<a href="https://arxiv.org/pdf/">Paper</a>] [<a href="https://github.com/">Code</a>]
+    </p> 
+  </div>
+</div>
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
     <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/MSGM.jpg"> 
   </div> 
   <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
