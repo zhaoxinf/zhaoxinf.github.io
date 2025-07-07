@@ -37,6 +37,7 @@ About me
 
 News!
 ======
+*  July/5/2025,  Excited to annouce that 2 papers are accepted to **ACM MM 2025** !
 *  June/26/2025,  Excited to annouce that 2 papers are accepted to **ICCV 2025** !
 *  June/22/2025,  Glad to annouce that TBA is accepted to **Pattern Recongition**. Our first work on avatar security!
 *  June/12/2025,  We will serve as a gestor editor of the **Electronics**, to organize **Special Issue on Advances and Challenges in Multimodal Pattern Recognition**!
@@ -100,6 +101,38 @@ Working Experience
 
 Selected Publications
 ======
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/cohedancers.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>CoheDancers: Enhancing Interactive Group Dance Generation through Music-Driven Coherence Decomposition</strong><br/>
+      kaixing yang, XulongTang, Haoyu Wu, Biao Qin, Hongyan Liu, Jun He, <strong>Zhaoxin Fan</strong> (corresponding author)<br/> 
+      ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2025.<br/> 
+      [<a href="https://arxiv.org/pdf/2412.19123">Paper</a>] [<a href="https://github.com/">Code</a>]
+    </p> 
+  </div>
+</div>
+
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/cohedancers.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>Flexible Multi-view Clustering with Dynamic Views Generation</strong><br/>
+      Yalan Qin, Nan Pu, Hanzhou Wu, <strong>Zhaoxin Fan</strong> (corresponding author)<br/> 
+      ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2025.<br/> 
+      [<a href="https://arxiv.org/pdf/">Paper</a>] [<a href="https://github.com/">Code</a>]
+    </p> 
+  </div>
+</div>
+
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;"> 
