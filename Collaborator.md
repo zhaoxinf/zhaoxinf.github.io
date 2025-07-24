@@ -12,8 +12,7 @@ Faculty
 * Wanting Li, Assistant Professor of Institute of Automation，Chinese Academy of Sciences.
 * Pengju Zhang, Assistant Professor of Institute of Automation，Chinese Academy of Sciences.
 * Ming Meng,  Assistant Professor of Communication University of China.
-* Qinnan Zhang, Assistant Researcher of Beihang University.
-* Fei Liu, Assistant Researcher of Beihang University.
+
 
 
 
