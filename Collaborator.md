@@ -36,7 +36,7 @@ Ph.D student
 * Zepen Yang, PhD student of Institute of Beijing Institute of Technology, working on SLAM.
 * Junhao Wu,  PhD student of Towson University, working on 3D reconstruction.
 * Jian Yang, Incoming PhD student of Renmin University of China, working on talking head.
-* Chengwei Wu, Incoming PhD student of Renmin University of China, working on talking head.
+
   
 
   
