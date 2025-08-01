@@ -26,7 +26,7 @@ About me
   * After considering these points, if you still wish to choose me as your mentor, please send your resume via email, including personal details, academic records, work or internship experiences, research experience, publications, and any other relevant information. I will respond as soon as possible.
  
 
-*   范肇心，北京航空航天大学人工智能学院助理教授，入选博新计划、北京市青年人才托举，现为亚太人工智能学会具身智能与空间智能专委会理事、中国仿真学会算力系统仿真专业委员会执行委员、中国指挥与控制学会无人系统专业委员会委员。研究方向包括多模态大模型、数字人和具身智能。相关研究成果在ICML、CVPR、ICCV、ECCV、AAAI、IJCAI、ICRA、PR、TIM、CSUR等人工智能领域顶级期刊和会议上发表论文40余篇，担任PRCV、3DV等国际知名会议领域主席，长期担任TPAMI, IJCV, TIP, TMM, PR, TCSVT, RAL、NeurIPS, CVPR, ICCV, ECCV, AAAI, IJCAI, ACM MM等顶级期刊和会议论文审稿人。作为负责人先后主持或参与国家自然科学基金重点专项项目、北京市自然科学基金青年项目、北航敢为计划青年项目、博士后面上项目、教育部产学研项目等多项国家级及省市级科研项目。范肇心博士注重产业化研究与技术落地，聚焦多模态大模型及智能系统的实际应用。与中国电信、联想集团、国地共建具身智能机器人创新中心、地平线等头部企业长期保持深度合作，其研究成果在数字人、具身智能等领域实现了多项技术转化与工程化应用，为相关产业的发展提供重要支撑。
+*   范肇心，北京航空航天大学人工智能学院助理教授，入选博新计划、北京市青年人才托举工程，现为亚太人工智能学会具身智能与空间智能专委会理事、中国仿真学会算力系统仿真专业委员会执行委员、中国指挥与控制学会无人系统专业委员会委员。研究方向包括多模态大模型、数字人和具身智能。相关研究成果在ICML、CVPR、ICCV、ECCV、AAAI、IJCAI、ICRA、PR、TIM、CSUR等人工智能领域顶级期刊和会议上发表论文40余篇，担任PRCV、3DV等国际知名会议领域主席，长期担任TPAMI, IJCV, TIP, TMM, PR, TCSVT, RAL、NeurIPS, CVPR, ICCV, ECCV, AAAI, IJCAI, ACM MM等顶级期刊和会议论文审稿人。作为负责人先后主持或参与国家自然科学基金重点专项项目、北京市自然科学基金青年项目、北航敢为计划青年项目、博士后面上项目、教育部产学研项目等多项国家级及省市级科研项目。范肇心博士注重产业化研究与技术落地，聚焦多模态大模型及智能系统的实际应用。与中国电信、联想集团、国地共建具身智能机器人创新中心、地平线等头部企业长期保持深度合作，其研究成果在数字人、具身智能等领域实现了多项技术转化与工程化应用，为相关产业的发展提供重要支撑。
 
 * 现每年合作招收博士生2-3名、硕士生4-6名，并长期招收实习生。研究方向包括多模态大模型、数字人、具身智能及人工智能应用与产业化。博士、硕士招生地点为北京航空航天大学（学院路校区、杭州国际校区）及中国人民大学（北京校区）；实习生可选择线上或在北航杭州国际创新研究院工作。近期招收RA，base香港科技大学，优秀者可转PhD！
 
