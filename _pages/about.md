@@ -37,6 +37,7 @@ About me
 
 News!
 ======
+*  Aug/2/2025,  Excited to annouce that LongVLA is accepted to **CoRL2025** !
 *  July/5/2025,  Excited to annouce that 2 papers are accepted to **ACM MM 2025** !
 *  June/26/2025,  Excited to annouce that 2 papers are accepted to **ICCV 2025** !
 *  June/22/2025,  Glad to annouce that TBA is accepted to **Pattern Recongition**. Our first work on avatar security!
