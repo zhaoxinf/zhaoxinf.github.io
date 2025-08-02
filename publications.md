@@ -9,6 +9,22 @@ author_profile: true
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/longvla.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>Long-VLA: Unleashing Long-Horizon Capability of Vision Language Action Model for Robot Manipulation</strong><br/>
+     Yiguo Fan, Shuanghao Bai, Xinyang Tong, Pengxiang Ding, Yuyang Zhu, Hongchao Lu, Fengqi Dai, Wei Zhao, Yang Liu, Siteng Huang,   <strong>Zhaoxin Fan</strong> , Badong Chen, Donglin Wang<br/> 
+      Conference on Robot Learning (<strong>CoRL</strong>), 2025.<br/> 
+      [<a href="https://arxiv.org/pdf/">Paper</a>] [<a href="https://github.com/">Code</a>]
+    </p> 
+  </div>
+</div>
+
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
     <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/cohedancers.jpg"> 
   </div> 
   <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
