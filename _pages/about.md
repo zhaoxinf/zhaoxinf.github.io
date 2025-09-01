@@ -112,7 +112,7 @@ Selected Publications
   <div class="column right" style="flex: 2;"> 
     <p> 
       <strong>Jailbreak Attack with Multimodal Virtual Scenario Hypnosis for Vision-Language Models</strong><br/>
-      Xiayang Shi, Shangfeng Chen, Gang Zhang, Wei Wei, Yinlin Li, <strong>Zhaoxin Fan</strong> (corresponding author), Jingjing Liu<br/> 
+      Xiayang Shi, Shangfeng Chen, Gang zhang,  <strong>Zhaoxin Fan</strong> (corresponding author), Yinlin Li, Wei Wei, Jingjing Liu<br/> 
       Pattern Recognition (<strong>PR</strong>), 2025.<br/> 
       [<a href="https://arxiv.org/pdf/">Paper</a>] [<a href="https://github.com/">Code</a>]
     </p> 
