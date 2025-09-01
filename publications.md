@@ -31,7 +31,7 @@ author_profile: true
     <p> 
       <strong>AsynFusion: Towards Asynchronous Latent Consistency Models for Decoupled Whole-Body Audio-Driven Avatars</strong><br/>
       Tianbao Zhang, Jian Zhao, Yuer Li, Zheng Zhu, Ping Hu, <strong>Zhaoxin Fan</strong> (corresponding author), Wenjun Wu, Xuelong Li<br/> 
-      The 8th Chinese Conference on Pattern Recognition and Computer Vision (<strong>PRCV 2025</strong>).<br/> 
+       Chinese Conference on Pattern Recognition and Computer Vision (<strong>PRCV</strong>), 2025.<br/> 
       [<a href="https://arxiv.org/pdf/2505.15058">Paper</a>] [<a href="https://github.com/">Code</a>]
     </p> 
   </div>
