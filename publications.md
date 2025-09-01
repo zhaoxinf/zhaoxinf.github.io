@@ -22,6 +22,20 @@ author_profile: true
   </div>
 </div>
 
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/asynfusion.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>AsynFusion: Towards Asynchronous Latent Consistency Models for Decoupled Whole-Body Audio-Driven Avatars</strong><br/>
+      Tianbao Zhang, Jian Zhao, Yuer Li, Zheng Zhu, Ping Hu, <strong>Zhaoxin Fan</strong> (corresponding author), Wenjun Wu, Xuelong Li<br/> 
+      The 8th Chinese Conference on Pattern Recognition and Computer Vision (<strong>PRCV 2025</strong>).<br/> 
+      [<a href="https://arxiv.org/pdf/2505.15058">Paper</a>] [<a href="https://github.com/">Code</a>]
+    </p> 
+  </div>
+</div>
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;"> 
