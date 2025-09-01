@@ -38,6 +38,8 @@ About me
 
 News!
 ======
+*  Sep/1/2025,  Glad to annouce that 1 paper is accepted to **Pattern Recognition**. The impact factor of PR is 7.6 now.
+*  Aug/21//2025,  Glad to annouce that 1 paper is accepted to **PRCV 2025**. 
 *  Aug/2/2025,  Excited to annouce that LongVLA is accepted to **CoRL2025** !
 *  July/5/2025,  Excited to annouce that 2 papers are accepted to **ACM MM 2025** !
 *  June/26/2025,  Excited to annouce that 2 papers are accepted to **ICCV 2025** !
