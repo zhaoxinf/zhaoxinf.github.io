@@ -116,7 +116,7 @@ Selected Publications
       <strong>Jailbreak Attack with Multimodal Virtual Scenario Hypnosis for Vision-Language Models</strong><br/>
       Xiayang Shi, Shangfeng Chen, Gang zhang,  <strong>Zhaoxin Fan</strong> (corresponding author), Yinlin Li, Wei Wei, Jingjing Liu<br/> 
       Pattern Recognition (<strong>PR</strong>), 2025.<br/> 
-      [<a href="https://arxiv.org/pdf/">Paper</a>] [<a href="https://github.com/">Code</a>]
+      [<a href="https://www.sciencedirect.com/science/article/pii/S0031320325010520">Paper</a>] [<a href="https://github.com/">Code</a>]
     </p> 
   </div>
 </div>
@@ -132,7 +132,7 @@ Selected Publications
       <strong>Long-VLA: Unleashing Long-Horizon Capability of Vision Language Action Model for Robot Manipulation</strong><br/>
      Yiguo Fan, Shuanghao Bai, Xinyang Tong, Pengxiang Ding, Yuyang Zhu, Hongchao Lu, Fengqi Dai, Wei Zhao, Yang Liu, Siteng Huang,   <strong>Zhaoxin Fan</strong> , Badong Chen, Donglin Wang<br/> 
       Conference on Robot Learning (<strong>CoRL</strong>), 2025.<br/> 
-      [<a href="https://arxiv.org/pdf/">Paper</a>] [<a href="https://github.com/">Code</a>]
+      [<a href="https://arxiv.org/pdf/2508.19958">Paper</a>] [<a href="https://github.com/">Code</a>]
     </p> 
   </div>
 </div>
