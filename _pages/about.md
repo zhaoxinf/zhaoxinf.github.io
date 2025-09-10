@@ -107,6 +107,21 @@ Selected Publications
 ======
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/csur2025.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>A Comprehensive Taxonomy and Analysis of Talking Head Synthesis: Techniques for Portrait Generation, Driving Mechanisms, and Editing</strong><br/>
+      Ming Meng, Yufei Zhao, Bo Zhang, Yonggui Zhu, Weimin Shi, Maxwell Wen, <strong>Zhaoxin Fan</strong> (corresponding author)<br/>
+      ACM Computing Surveys (<strong>CSUR</strong>), 2025.<br/>
+      [<a href="https://arxiv.org/pdf/2406.10553">Paper</a>] [<a href="#">Code</a>]
+    </p>
+  </div>
+</div>
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;"> 
     <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/Jailbreak.jpg"> 
   </div> 
