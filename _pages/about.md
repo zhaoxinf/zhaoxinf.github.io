@@ -38,6 +38,7 @@ About me
 
 News!
 ======
+*  Sep/24/2025,  Glad to annouce that 1 paper is accepted to **Neurips**.
 *  Sep/1/2025,  Glad to annouce that 1 paper is accepted to **Pattern Recognition**. The impact factor of PR is 7.6 now.
 *  Aug/21//2025,  Glad to annouce that 1 paper is accepted to **PRCV 2025**. 
 *  Aug/2/2025,  Excited to annouce that LongVLA is accepted to **CoRL2025** !
@@ -105,6 +106,21 @@ Working Experience
 
 Selected Publications
 ======
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/auxthink.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>Aux-Think: Exploring Reasoning Strategies for Data-Efficient Vision-Language Navigation</strong><br/>
+      Shuo Wang, Yongcai Wang, Wanting Li, Xudong Cai, Yucheng Wang, Maiyue Chen, Kaihui Wang, Zhizhong Su, Deying Li, <strong>Zhaoxin Fan</strong><br/>
+      NeurIPS, 2025.<br/>
+      [<a href="#">Paper</a>] [<a href="#">Code</a>]
+    </p>
+  </div>
+</div>
+
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
