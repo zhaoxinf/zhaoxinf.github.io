@@ -114,8 +114,8 @@ Selected Publications
   <div class="column right" style="flex: 2;">
     <p>
       <strong>Aux-Think: Exploring Reasoning Strategies for Data-Efficient Vision-Language Navigation</strong><br/>
-      Shuo Wang, Yongcai Wang, Wanting Li, Xudong Cai, Yucheng Wang, Maiyue Chen, Kaihui Wang, Zhizhong Su, Deying Li, <strong>Zhaoxin Fan</strong><br/>
-      NeurIPS, 2025.<br/>
+      Shuo Wang, Yongcai Wang, Wanting Li, Xudong Cai, Yucheng Wang, Maiyue Chen, Kaihui Wang, Zhizhong Su, Deying Li, <strong>Zhaoxin Fan(corresponding author)</strong><br/>
+      Neural Information Processing Systems Conference (<strong>NeurIPS</strong>), 2025.<br/>
       [<a href="#">Paper</a>] [<a href="#">Code</a>]
     </p>
   </div>
