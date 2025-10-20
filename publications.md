@@ -17,7 +17,7 @@ author_profile: true
       <strong>Aux-Think: Exploring Reasoning Strategies for Data-Efficient Vision-Language Navigation</strong><br/>
       Shuo Wang, Yongcai Wang, Wanting Li, Xudong Cai, Yucheng Wang, Maiyue Chen, Kaihui Wang, Zhizhong Su, Deying Li, <strong>Zhaoxin Fan(corresponding author)</strong><br/>
       Neural Information Processing Systems Conference (<strong>NeurIPS</strong>), 2025.<br/>
-      [<a href="#">Paper</a>] [<a href="#">Code</a>]
+      [<a href="https://arxiv.org/pdf/2505.11886">Paper</a>] [<a href="#">https://horizonrobotics.github.io/robot_lab/aux-think/</a>]
     </p>
   </div>
 </div>
@@ -48,7 +48,7 @@ author_profile: true
       <strong>Jailbreak Attack with Multimodal Virtual Scenario Hypnosis for Vision-Language Models</strong><br/>
       Xiayang Shi, Shangfeng Chen, Gang zhang,  <strong>Zhaoxin Fan</strong> (corresponding author), Yinlin Li, Wei Wei, Jingjing Liu<br/> 
       Pattern Recognition (<strong>PR</strong>), 2025.<br/> 
-      [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325010520">Paper</a>] [<a href="https://github.com/">Code</a>]
+      [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320325010520">Paper</a>] [<a href="#">Code</a>]
     </p> 
   </div>
 </div>
@@ -62,8 +62,8 @@ author_profile: true
     <p> 
       <strong>AsynFusion: Towards Asynchronous Latent Consistency Models for Decoupled Whole-Body Audio-Driven Avatars</strong><br/>
       Tianbao Zhang, Jian Zhao, Yuer Li, Zheng Zhu, Ping Hu, <strong>Zhaoxin Fan</strong> (corresponding author), Wenjun Wu, Xuelong Li<br/> 
-       Chinese Conference on Pattern Recognition and Computer Vision (<strong>PRCV</strong>), 2025.<br/> 
-      [<a href="https://arxiv.org/pdf/2505.15058">Paper</a>] [<a href="https://github.com/">Code</a>]
+       Chinese Conference on Pattern Recognition and Computer Vision (<strong>PRCV Best Student Paper& CCF outstanding Paper</strong>), 2025.<br/> 
+      [<a href="https://arxiv.org/pdf/2505.15058">Paper</a>] [<a href="#">Code</a>]
     </p> 
   </div>
 </div>
