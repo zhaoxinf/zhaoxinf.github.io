@@ -133,11 +133,10 @@ Selected Publications
       <strong>Aux-Think: Exploring Reasoning Strategies for Data-Efficient Vision-Language Navigation</strong><br/>
       Shuo Wang, Yongcai Wang, Wanting Li, Xudong Cai, Yucheng Wang, Maiyue Chen, Kaihui Wang, Zhizhong Su, Deying Li, <strong>Zhaoxin Fan(corresponding author)</strong><br/>
       Neural Information Processing Systems Conference (<strong>NeurIPS</strong>), 2025.<br/>
-      [<a href="https://arxiv.org/pdf/2505.11886">Paper</a>] [<a href="#">https://horizonrobotics.github.io/robot_lab/aux-think/</a>]
+      [<a href="https://arxiv.org/pdf/2505.11886">Paper</a>]  [<a href="https://horizonrobotics.github.io/robot_lab/aux-think/">Code</a>]  
     </p>
   </div>
 </div>
-
 
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
