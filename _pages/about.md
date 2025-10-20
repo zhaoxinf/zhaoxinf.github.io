@@ -106,6 +106,22 @@ Working Experience
 
 Selected Publications
 ======
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/asynfusion.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>AsynFusion: Towards Asynchronous Latent Consistency Models for Decoupled Whole-Body Audio-Driven Avatars</strong><br/>
+      Tianbao Zhang, Jian Zhao, Yuer Li, Zheng Zhu, Ping Hu, <strong>Zhaoxin Fan</strong> (corresponding author), Wenjun Wu, Xuelong Li<br/> 
+       Chinese Conference on Pattern Recognition and Computer Vision (<strong>PRCV Best Student Paper& CCF outstanding Paper!</strong>), 2025.<br/> 
+      [<a href="https://arxiv.org/pdf/2505.15058">Paper</a>] [<a href="#">Code</a>]
+    </p> 
+  </div>
+</div>
+
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
     <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/auxthink.jpg">
@@ -116,10 +132,11 @@ Selected Publications
       <strong>Aux-Think: Exploring Reasoning Strategies for Data-Efficient Vision-Language Navigation</strong><br/>
       Shuo Wang, Yongcai Wang, Wanting Li, Xudong Cai, Yucheng Wang, Maiyue Chen, Kaihui Wang, Zhizhong Su, Deying Li, <strong>Zhaoxin Fan(corresponding author)</strong><br/>
       Neural Information Processing Systems Conference (<strong>NeurIPS</strong>), 2025.<br/>
-      [<a href="#">Paper</a>] [<a href="#">Code</a>]
+      [<a href="https://arxiv.org/pdf/2505.11886">Paper</a>] [<a href="#">https://horizonrobotics.github.io/robot_lab/aux-think/</a>]
     </p>
   </div>
 </div>
+
 
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
