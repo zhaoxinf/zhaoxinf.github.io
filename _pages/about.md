@@ -38,6 +38,7 @@ About me
 
 News!
 ======
+*  Oct/16/2025,  Excited to annouce that AsynFusion is awarded by PRCV 2025 **best student paper** and **CCF outstand paper**! 
 *  Sep/24/2025,  Glad to annouce that 1 paper is accepted to **Neurips**.
 *  Sep/1/2025,  Glad to annouce that 1 paper is accepted to **Pattern Recognition**. The impact factor of PR is 7.6 now.
 *  Aug/21//2025,  Glad to annouce that 1 paper is accepted to **PRCV 2025**. 
