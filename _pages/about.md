@@ -19,12 +19,11 @@ About me
   
 
 
-<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div class="column left" style="flex: 1;"> 
-    <img align="left" width="80%" src="https://zhaoxinf.github.io/pic/vision_faita.jpg"> 
+<div class="row" style="display: flex; justify-content: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1; text-align: center;"> 
+    <img style="display: block; margin: 0 auto;" width="80%" src="https://zhaoxinf.github.io/pic/vision_faita.jpg"> 
   </div> 
 </div>
-
 
 
 * If you are interested in becoming my student or a close collaborator, please answer the following questions before contacting me via email:
