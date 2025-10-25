@@ -25,6 +25,8 @@ About me
   </div> 
 </div>
 
+
+
 * If you are interested in becoming my student or a close collaborator, please answer the following questions before contacting me via email:
   * Firstly, familiarize yourself with my research area by reading my recent papers and visiting our research group's webpage. Research requires passion, and lack of interest may hinder persistence.
   * If you are applying for a direct PhD or a combined Master's and PhD program, it implies that you see academia as a career path. Please decide after understanding the challenges and rewards of an academic life.
