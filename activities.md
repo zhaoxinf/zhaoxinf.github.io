@@ -10,15 +10,16 @@ author_profile: true
 President and Reviewer Roles
 ======
 
-* Area Chair of 3DV 2026
-* Area Chair of PRCV 2025
+* Area Chair of 3DV 2026 and PRCV 2025
 * Organizer of CVPR 2025 Anti-UAV Workshop & Challenge
-* Conference Reviewers: NeurIPS, CVPR, ICCV, ECCV, AAAI, IJCAI, ACM MM, 3DV, APBC, RECOMB
+* Conference Reviewers: NeurIPS, CVPR, ICCV, ECCV, AAAI, ACL, EMNLP, IJCAI, ACM MM, et al.
 * Journal Reviewers TPAMI, IJCV, TIP, TMM, PR, TCSVT, RAL,TII, JIS,自动化学报
 
 
 Awards
 ======
+* PRCV 2025 Best Student Paper.
+* CCF Outstanding Paper in 2025.
 * Postdoctoral Innovation Talent Support Program.
 * Future Scientist Scholarship from Psyche AI,  along with a bonus of 150,000 CNY.
 * The first prize in the "Technology Star" research application activity, along with a bonus of 80,000 CNY.
