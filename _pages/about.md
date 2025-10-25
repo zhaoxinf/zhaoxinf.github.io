@@ -21,7 +21,7 @@ About me
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;"> 
-    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/vision_faita.jpg"> 
+    <img align="left" width="80%" src="https://zhaoxinf.github.io/pic/vision_faita.jpg"> 
   </div> 
 </div>
 
