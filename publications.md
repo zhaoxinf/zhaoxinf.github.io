@@ -7,6 +7,23 @@ author_profile: true
 
 **2025**
 
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/synctalk++.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting</strong><br/>
+      Ziqiao Peng, Wentao Hu, Junyuan Ma, Xiangyu Zhu, Xiaomei Zhang, Hao Zhao, Hui Tian, Jun He, Hongyan Liu, <strong>Zhaoxin Fan</strong> (corresponding author)<br/> 
+      IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2025.<br/> 
+      [<a href="https://arxiv.org/pdf/2506.14742">Paper</a>] [<a href="https://ziqiaopeng.github.io/synctalk++/">Code</a>]
+    </p> 
+  </div>
+</div>
+
+
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
     <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/auxthink.jpg">
