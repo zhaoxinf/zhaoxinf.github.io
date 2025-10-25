@@ -16,7 +16,20 @@ About me
   
 
 *  Our team focuses on **human-centric artificial intelligence**, with the ultimate goal of achieving **intelligence that surpasses human capabilities**. Currently, our research spans three key areas: **Avatar**, where we study human interaction and motion from a software perspective; **LLM (Large Language Models)**, where we explore human cognition and thought processes through the lens of software; and **Embodied Intelligence**, where we investigate how to transfer the capabilities of avatars and LLMs in virtual environments into the real world, aiming to create **robots that truly exceed human performance**. Through these interconnected efforts, we strive to advance the frontier of artificial intelligence and realize the vision of **superhuman intelligence**.
-
+  
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/vision_faita.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>Research Vision of the FAITA Team</strong><br/>
+      Our vision is to unify MLLMs as the brain, avatars in virtual environments, and robots in physical environments to achieve superhuman artificial intelligence.<br/>
+    </p> 
+  </div>
+</div>
+14:42
 
 * If you are interested in becoming my student or a close collaborator, please answer the following questions before contacting me via email:
   * Firstly, familiarize yourself with my research area by reading my recent papers and visiting our research group's webpage. Research requires passion, and lack of interest may hinder persistence.
