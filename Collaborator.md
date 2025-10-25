@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-**Below are the core students and faculty collaborators from our team. You are welcome to reach out to them for potential collaborations. Interns are not listed here—however, <span style="color: red;">we warmly welcome motivated individuals to join us!</span> **
+** Below are the core students and faculty collaborators from our team. You are welcome to reach out to them for potential collaborations. Interns are not listed here—however, <span style="color: red;">we warmly welcome motivated individuals to join us!</span> **
 
 Faculty
 ======
