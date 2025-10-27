@@ -12,7 +12,7 @@ About me
 ======
 * I am currently working as an assistant professor, collaborating with Prof. [[Zhiming Zheng]](https://iai.buaa.edu.cn/info/1013/1088.htm), Academician of the Chinese Academy of Sciences and Prof. [[Wenjun Wu]](https://iai.buaa.edu.cn/info/1013/1093.htm), at School of Artificial Intelligence, Beihang University.   I am now also working as the chief young scientist of [Psyche AI Inc](https://www.psyai.com/home)（深锶科技）, fosuing on developing advanced AI algorithms for avatars, including avatar driving, avatar generation, and avatar reconsctrution.
 
-* I pursued my PhD from 2019 to 2024 across three prestigious institutions: [Carnegie Mellon University](https://www.cmu.edu)（卡内基梅隆大学）, [The Hong Kong University of Science and Technology](https://www.ust.hk)（香港科技大学）, and [Renmin University of China](https://www.ruc.edu.cn)（中国人民大学）, studying Computer Science (计算机科学). At CMU, I had the privilege of working under the guidance of Prof. [Min Xu](https://xulabs.github.io/min-xu/). My time at HKUST was spent collaborating with Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/). While at RUC, I worked closely with Prof. [Jun He](http://info.ruc.edu.cn/jsky/rtjs/index.htm) and Prof. [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1210/32067.htm) from Tsinghua University. My research interests lie in the areas of multi-modal LLMs, avatars, and embodied AI.Please feel free to contact me by  email (fanzhaoxinruc@gmail.com or zhaoxinf@buaa.edu.cn), if you are interested in my research.
+* I pursued my PhD from 2019 to 2024 across three prestigious institutions: [Carnegie Mellon University](https://www.cmu.edu), [The Hong Kong University of Science and Technology](https://www.ust.hk), and [Renmin University of China](https://www.ruc.edu.cn), studying Computer Science. At CMU, I had the privilege of working under the guidance of Prof. [Min Xu](https://xulabs.github.io/min-xu/). My time at HKUST was spent collaborating with Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/). While at RUC, I worked closely with Prof. [Jun He](http://info.ruc.edu.cn/jsky/rtjs/index.htm) and Prof. [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1210/32067.htm) from Tsinghua University. My research interests lie in the areas of multi-modal LLMs, avatars, and embodied AI.Please feel free to contact me by  email (fanzhaoxinruc@gmail.com or zhaoxinf@buaa.edu.cn), if you are interested in my research.
   
 
 *  Our team focuses on **human-centric artificial intelligence**, with the ultimate goal of achieving **intelligence that surpasses human capabilities**. Currently, our research spans three key areas: **Avatar**, where we study human interaction and motion from a software perspective; **MLLM**, where we explore human cognition and thought processes through the lens of software; and **Embodied AI**, where we investigate how to transfer the capabilities of avatars and LLMs in virtual environments into the real world, aiming to create **robots that truly exceed human performance**. Through these interconnected efforts, we strive to advance the frontier of artificial intelligence and realize the vision of **superhuman intelligence**.
@@ -131,20 +131,6 @@ Selected Publications
   </div>
 </div>
 
-<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div class="column left" style="flex: 1;"> 
-    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/asynfusion.jpg"> 
-  </div> 
-  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
-  <div class="column right" style="flex: 2;"> 
-    <p> 
-      <strong>AsynFusion: Towards Asynchronous Latent Consistency Models for Decoupled Whole-Body Audio-Driven Avatars</strong><br/>
-      Tianbao Zhang, Jian Zhao, Yuer Li, Zheng Zhu, Ping Hu, <strong>Zhaoxin Fan</strong> (corresponding author), Wenjun Wu, Xuelong Li<br/> 
-       Chinese Conference on Pattern Recognition and Computer Vision (<strong>PRCV Best Student Paper& CCF outstanding Paper!</strong>), 2025.<br/> 
-      [<a href="https://arxiv.org/pdf/2505.15058">Paper</a>] [<a href="#">Code</a>]
-    </p> 
-  </div>
-</div>
 
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
