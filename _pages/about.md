@@ -156,7 +156,7 @@ Selected Publications
   <div class="column right" style="flex: 2;">
     <p>
       <strong>Aux-Think: Exploring Reasoning Strategies for Data-Efficient Vision-Language Navigation</strong><br/>
-      Shuo Wang, Yongcai Wang, Wanting Li, Xudong Cai, Yucheng Wang, Maiyue Chen, Kaihui Wang, Zhizhong Su, Deying Li, <strong>Zhaoxin Fan(corresponding author)</strong><br/>
+      Shuo Wang, Yongcai Wang, Wanting Li, Xudong Cai, Yucheng Wang, Maiyue Chen, Kaihui Wang, Zhizhong Su, Deying Li, <strong>Zhaoxin Fan</strong>(corresponding author)<br/>
       Neural Information Processing Systems Conference (<strong>NeurIPS</strong>), 2025.<br/>
       [<a href="https://arxiv.org/pdf/2505.11886">Paper</a>]  [<a href="https://horizonrobotics.github.io/robot_lab/aux-think/">Code</a>]  
     </p>
@@ -344,7 +344,7 @@ Selected Publications
   <div class="column right" style="flex: 2;"> 
     <p> 
       <strong>EraseAnything: Enabling Concept Erasure in Rectified Flow Transformers</strong><br/>
-      Daiheng Gao, Shilin Lu, Wenbo Zhou, Jiaming Chu, Jie Zhang, Mengxi Jia, Bang Zhang, c, Weiming Zhang<br/> 
+      Daiheng Gao, Shilin Lu, Wenbo Zhou, Jiaming Chu, Jie Zhang, Mengxi Jia, Bang Zhang, <strong>Zhaoxin Fan</strong> (corresponding author), Weiming Zhang<br/> 
       Forty-second International Conference on Machine Learning (<strong>ICML</strong>), 2025.<br/> 
       [<a href="https://arxiv.org/pdf/2412.20413">Paper</a>] [<a href="https://github.com/">Code</a>] 
     </p> 
