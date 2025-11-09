@@ -45,6 +45,7 @@ About me
 
 News!
 ======
+*  Nov/8/2025,  Glad to annouce that Monodream and Mem4d are accepted to **AAAI 2026** ! 
 *  Oct/25/2025,  Excited to annouce that SyncTalk++ is accepted to **TPAMI** !
 *  Oct/16/2025,  Excited to annouce that AsynFusion is awarded by PRCV 2025 **best student paper** and **CCF outstand paper**! 
 *  Sep/24/2025,  Glad to annouce that 1 paper is accepted to **Neurips**.
@@ -115,6 +116,37 @@ Working Experience
 
 Selected Publications
 ======
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/mem4d.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>Mem4D: Decoupling Static and Dynamic Memory for Dynamic Scene Reconstruction</strong><br/>
+      Xudong Cai, Shuo Wang, Peng Wang, Yongcai Wang, <strong>Zhaoxin Fan</strong> (corresponding author), Wanting Li, Tianbao Zhang, Jianrong Tao, Yeying Jin, Deying Li<br/>
+      AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2026.<br/>
+      [<a href="https://arxiv.org/pdf/2508.07908">Paper</a>] [<a href="https://github.com/">Code</a>]
+    </p>
+  </div>  
+</div>
+
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/monodream.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>MonoDream: Monocular Vision-Language Navigation with Panoramic Dreaming</strong><br/>
+      Shuo Wang, Yongcai Wang, Wanting Li, Yucheng Wang, Maiyue Chen, Kaihui Wang, Zhizhong Su, Xudong Cai, Yeying Jin, Deying Li, <strong>Zhaoxin Fan</strong> (corresponding author)<br/>
+      AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2026.<br/>
+      [<a href="https://arxiv.org/pdf/2508.02549">Paper</a>] [<a href="https://github.com/">Code</a>]
+    </p>
+  </div>  
+</div>
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;"> 
