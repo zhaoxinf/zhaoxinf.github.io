@@ -7,6 +7,20 @@ author_profile: true
 
 **2025**
 
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/monodream.jpg"> 
+  </div> 
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
+  <div class="column right" style="flex: 2;"> 
+    <p> 
+      <strong>MonoDream: Monocular Vision-Language Navigation with Panoramic Dreaming</strong><br/>
+      Shuo Wang, Yongcai Wang, Wanting Li, Yucheng Wang, Maiyue Chen, Kaihui Wang, Zhizhong Su, Xudong Cai, Yeying Jin, Deying Li, <strong>Zhaoxin Fan</strong> (corresponding author)<br/>
+      AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2026.<br/>
+      [<a href="https://github.com/">Code</a>]
+    </p> 
+  </div>
+</div>
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;"> 
