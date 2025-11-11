@@ -1,4 +1,4 @@
----
+  ---
 permalink: /
 title: ""
 excerpt: ""
@@ -49,13 +49,13 @@ News!
 *  Oct/25/2025,  Excited to annouce that SyncTalk++ is accepted to **TPAMI** !
 *  Oct/16/2025,  Excited to annouce that AsynFusion is awarded by PRCV 2025 **best student paper** and **CCF outstand paper**! 
 *  Sep/24/2025,  Glad to annouce that 1 paper is accepted to **Neurips**.
+*  Sep/13/2025,  Glad to annouce that our latest survey paper on avatars is accept to **ACM Computing Surveys！**.
 *  Sep/1/2025,  Glad to annouce that 1 paper is accepted to **Pattern Recognition**. The impact factor of PR is 7.6 now.
 *  Aug/21//2025,  Glad to annouce that 1 paper is accepted to **PRCV 2025**. 
 *  Aug/2/2025,  Excited to annouce that LongVLA is accepted to **CoRL2025** !
 *  July/5/2025,  Excited to annouce that 2 papers are accepted to **ACM MM 2025** !
 *  June/26/2025,  Excited to annouce that 2 papers are accepted to **ICCV 2025** !
 *  June/22/2025,  Glad to annouce that TBA is accepted to **Pattern Recongition**. Our first work on avatar security!
-*  June/12/2025,  We will serve as a gestor editor of the **Electronics**, to organize **Special Issue on Advances and Challenges in Multimodal Pattern Recognition**!
 *  June/8/2025,  I am happy to serve as the **Area Chair of 3DV 2026**!
 *  May/20/2025,  I am happy to serve as the **Area Chair of PRCV 2025**!
 *  May/15/2025,  Excited to annouce that 2 papers are accepted to **ACL 2025** !
