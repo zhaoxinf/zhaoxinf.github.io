@@ -7,22 +7,20 @@ author_profile: true
 
 **2025**
 
-
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
-    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/mem4d.jpg">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/pruning.jpg">
   </div>
   <div class="column middle" style="flex: 0.05;">&nbsp;</div>
   <div class="column right" style="flex: 2;">
     <p>
       <strong>A Singular Learning Theory for Unified Large Language Model Pruning</strong><br/>
-      Xinyu Wang<sup>a</sup>, Zhaoxin Fan<sup>a</sup> (corresponding author), Faguo Wu<sup>a</sup>, Hongwei Zheng<sup>c</sup>, Yuanze Hu<sup>a</sup>, Gen Li<sup>a</sup>, Zhichao Yang<sup>a</sup>, Ye Qiu<sup>a</sup>, Yifan Sun<sup>b</sup>, Wenjun Wu<sup>a</sup><br/>
+      Xinyu Wang, <strong>Zhaoxin Fan</strong> (corresponding author), Faguo Wu, Hongwei Zheng, Yuanze Hu, Gen Li, Zhichao Yang, Ye Qiu, Yifan Sun, Wenjun Wu<br/>
       <em>Neurocomputing</em>, 2024.<br/>
       [<a href="https://www.sciencedirect.com/science/article/abs/pii/S092523122502716X" target="_blank">Paper</a>] [<a href="https://github.com/" target="_blank">Code</a>]
     </p>
   </div>  
 </div>
-
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
