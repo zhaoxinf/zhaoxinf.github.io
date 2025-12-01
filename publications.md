@@ -16,7 +16,7 @@ author_profile: true
     <p>
       <strong>A Singular Learning Theory for Unified Large Language Model Pruning</strong><br/>
       Xinyu Wang, <strong>Zhaoxin Fan</strong> (corresponding author), Faguo Wu, Hongwei Zheng, Yuanze Hu, Gen Li, Zhichao Yang, Ye Qiu, Yifan Sun, Wenjun Wu<br/>
-      <em>Neurocomputing</em>, 2024.<br/>
+      <em>Neurocomputing</em>, 2025.<br/>
       [<a href="https://www.sciencedirect.com/science/article/abs/pii/S092523122502716X" target="_blank">Paper</a>] [<a href="https://github.com/" target="_blank">Code</a>]
     </p>
   </div>  
