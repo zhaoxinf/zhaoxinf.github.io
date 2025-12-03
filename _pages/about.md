@@ -121,7 +121,7 @@ Selected Publications
     <p style="font-size: 1.08em; margin:0;">
       <strong>R-FGDepth: Towards Foundation Models for Recurrent Depth Learning with Frequency-Guided Initialization and Refinement</strong><br/>
       <strong>Zhaoxin Fan</strong>, Gen Li, Zhongkai Zhou<br/>
-      <em>Pattern Recognition</em>, 2025.<br/>
+      <em> Pattern Recognition (<strong>PR</strong>)</em>, 2025.<br/>
       [<a href="https://arvix.com" target="_blank">Paper</a>] 
       [<a href="https://github.com/" target="_blank">Code</a>]
     </p>
