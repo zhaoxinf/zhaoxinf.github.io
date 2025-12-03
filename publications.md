@@ -17,11 +17,10 @@ author_profile: true
       <strong>R-FGDepth: Towards Foundation Models for Recurrent Depth Learning with Frequency-Guided Initialization and Refinement</strong><br/>
       <strong>Zhaoxin Fan</strong>, Gen Li, Zhongkai Zhou<br/>
       Pattern Recognition (<strong>PR</strong>), 2025.<br/>
-      [<a href="https://arvix.com" target="_blank">Paper</a>] [<a href="https://github.com/" target="_blank">Code</a>]
+      [<a href="https://arxiv.org/pdf/">Paper</a>] [<a href="https://github.com/">Code</a>]
     </p>
   </div>  
 </div>
-
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
