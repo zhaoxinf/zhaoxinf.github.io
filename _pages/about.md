@@ -39,6 +39,7 @@ About me
 
 News!
 ======
+*  Dec/3/2025,  Glad to annouce that R-FGDepth is accepted to  **Pattern Recongition**!.
 *  Nov/26/2025,  Congrats to Xinyu for his first theory work on pruning being accepted by **Neurocomputing**!
 *  Nov/8/2025,  Glad to annouce that Monodream and Mem4d are accepted to **AAAI 2026** ! 
 *  Oct/25/2025,  Excited to annouce that SyncTalk++ is accepted to **TPAMI** !
