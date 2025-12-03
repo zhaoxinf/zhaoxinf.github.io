@@ -7,6 +7,23 @@ author_profile: true
 
 **2025**
 
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
+  <div class="column left" style="flex: 1; min-width: 120px;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/R-FGDepth.jpg" style="max-width:180px; border-radius:6px;">
+  </div>
+  <div class="column middle" style="flex: 0.05; min-width: 10px;">&nbsp;</div>
+  <div class="column right" style="flex: 2; min-width: 220px;">
+    <p style="font-size: 1.08em; margin:0;">
+      <strong>R-FGDepth: Towards Foundation Models for Recurrent Depth Learning with Frequency-Guided Initialization and Refinement</strong><br/>
+      <strong>Zhaoxin Fan</strong>, Gen Li, Zhongkai Zhou<br/>
+      <em>Pattern Recognition</em>, 2025.<br/>
+      [<a href="https://arvix.com" target="_blank">Paper</a>] 
+      [<a href="https://github.com/" target="_blank">Code</a>]
+    </p>
+  </div>  
+</div>
+
+
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
     <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/pruning.jpg">
