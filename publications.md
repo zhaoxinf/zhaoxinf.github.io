@@ -17,7 +17,7 @@ author_profile: true
       <strong>R-FGDepth: Towards Foundation Models for Recurrent Depth Learning with Frequency-Guided Initialization and Refinement</strong><br/>
       <strong>Zhaoxin Fan</strong>, Gen Li, Zhongkai Zhou<br/>
       Pattern Recognition (<strong>PR</strong>), 2025.<br/>
-      [<a href="https://arxiv.org/pdf/">Paper</a>] [<a href="https://github.com/">Code</a>]
+      [<a href="https://www.sciencedirect.com/science/article/pii/S0031320325015067">Paper</a>] [<a href="https://github.com/">Code</a>]
     </p>
   </div>  
 </div>
@@ -187,7 +187,7 @@ author_profile: true
       <strong>Flexible Multi-view Clustering with Dynamic Views Generation</strong><br/>
       Yalan Qin, Nan Pu, Hanzhou Wu, <strong>Zhaoxin Fan</strong> (corresponding author)<br/> 
       ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2025.<br/> 
-      [<a href="https://arxiv.org/pdf/">Paper</a>] [<a href="https://github.com/">Code</a>]
+      [<a href="https://dl.acm.org/doi/10.1145/3746027.3754930">Paper</a>] [<a href="https://github.com/">Code</a>]
     </p> 
   </div>
 </div>
