@@ -20,14 +20,13 @@ Awards
 ======
 * PRCV 2025 Best Student Paper.
 * CCF Outstanding Paper in 2025.
-* Postdoctoral Innovation Talent Support Program.
-* Future Scientist Scholarship from Psyche AI,  along with a bonus of 150,000 CNY.
-* The first prize in the "Technology Star" research application activity, along with a bonus of 80,000 CNY.
-* Full financial support for PhD Student from CMU.
-* Full financial support for PhD Student from HKUST.
-* National scholarship for PhD.
+* Postdoctoral Innovation Talent Support Program（博新计划）.
+* Young Elite Scientists Sponsorship Program of the Beijing High Innovation Plan（北京“高创计划”-青年人才托举工程）
+* CCF智能机器人专委会优博、北京市图象图形学学会优博
+* 2nd Place Award in The 4th Anti-UAV Workshop & Challenge Track 1
+* Full financial support for PhD Student from CMU and HKUST.
 * Second prize in the National Challenge Cup
-
+* Chinese National scholarship for PhD student.
 
 Invited Talks
 ======
