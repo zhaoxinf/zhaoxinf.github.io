@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-* I am currently working as an assistant professor, collaborating with Prof. [[Zhiming Zheng]](https://iai.buaa.edu.cn/info/1013/1088.htm) and Prof. [[Wenjun Wu]](https://iai.buaa.edu.cn/info/1013/1093.htm), at School of Artificial Intelligence, Beihang University.   I am now also working as the chief young scientist of [Psyche AI Inc](https://www.psyai.com/home)（深锶科技）, fosuing on developing advanced AI algorithms for avatars, including avatar driving, avatar generation, and avatar reconsctrution.
+* I am currently working as an assistant professor, collaborating with Prof. [[Zhiming Zheng]](https://iai.buaa.edu.cn/info/1013/1088.htm) and Prof. [[Wenjun Wu]](https://iai.buaa.edu.cn/info/1013/1093.htm), at School of Artificial Intelligence, Beihang University.  
 
 * I pursued my PhD from 2019 to 2024 across three prestigious institutions: [Carnegie Mellon University](https://www.cmu.edu), [The Hong Kong University of Science and Technology](https://www.ust.hk), and [Renmin University of China](https://www.ruc.edu.cn), studying Computer Science. At CMU, I had the privilege of working under the guidance of Prof. [Min Xu](https://xulabs.github.io/min-xu/). My time at HKUST was spent collaborating with Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/). While at RUC, I worked closely with Prof. [Jun He](http://info.ruc.edu.cn/jsky/rtjs/index.htm) and Prof. [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1210/32067.htm) from Tsinghua University. My research interests lie in the areas of multi-modal LLMs, avatars, and embodied AI.Please feel free to contact me by  email (fanzhaoxinruc@gmail.com or zhaoxinf@buaa.edu.cn), if you are interested in my research.
   
@@ -39,6 +39,7 @@ About me
 
 News!
 ======
+*  Dec/20/2025, Congrats to Ye for his first VLA work being accepted by **Neurocomputing**!
 *  Dec/3/2025,  Glad to annouce that R-FGDepth is accepted to  **Pattern Recongition**!.
 *  Nov/26/2025,  Congrats to Xinyu for his first theory work on pruning being accepted by **Neurocomputing**!
 *  Nov/8/2025,  Glad to annouce that Monodream and Mem4d are accepted to **AAAI 2026** ! 
