@@ -30,6 +30,8 @@ Awards
 
 Invited Talks
 ======
+* CCF CAD&CG 专委会 “名企大咖面对面” 第十季第二期——“工业界视角下的具身智能”主题分享会：三维数字人与人形机器人驱动算法与应用实践 [News](https://mp.weixin.qq.com/s/GOxM1fPdDP0dCE7IveGGvQ)
+* 天工造物开源社区校园主题活动分享报告：大模型时代的具身智能初探索  [News](https://mp.weixin.qq.com/s/REbzTwmyTJrX41GPv74QjQ)
 * 华为2024特邀讲座：AIGC时代下的数字人技术革新与介绍
 * 中国铁建大桥局创新院2024特邀讲座：大模型驱动的人形机器人技术与展望 [News](https://mp.weixin.qq.com/s/2HvOPghJFI7BN_GgOqkm2A)
 * 华为2023特邀讲座：基于隐式参数化模型的3D人体重建和人脸驱动前沿进展介绍
