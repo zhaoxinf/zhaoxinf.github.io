@@ -12,7 +12,7 @@ President and Reviewer Roles
 
 * Area Chair of 3DV 2026 and PRCV 2025
 * Organizer of CVPR 2025 Anti-UAV Workshop & Challenge
-* Conference Reviewers: NeurIPS, CVPR, ICCV, ECCV, AAAI, ACL, EMNLP, IJCAI, ACM MM, et al.
+* Conference Reviewers: ICML, NeurIPS, ILCR, CVPR, ICCV, ECCV, AAAI, ACL, EMNLP, IJCAI, ACM MM, et al.
 * Journal Reviewers TPAMI, IJCV, TIP, TMM, PR, TCSVT, RAL,TII, JIS,自动化学报
 
 
