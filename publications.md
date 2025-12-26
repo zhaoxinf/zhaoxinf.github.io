@@ -9,6 +9,21 @@ author_profile: true
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="GRPCI.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>GRPCI: Harnessing Temporal-Spatial Dynamics for Graph Representation Learning</strong><br/>
+      Xiang Wu, Rong-Hua Li, <strong>Zhaoxin Fan</strong>, Kai Chen, Yujin Gao, Hongchao Qin, and Guoren Wang<br/>
+      [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11271600">Paper</a>] [<a href="https://github.com/">Code</a>]
+    </p>
+  </div>  
+</div>
+
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
     <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/R-FGDepth.jpg">
   </div>
   <div class="column middle" style="flex: 0.05;">&nbsp;</div>
