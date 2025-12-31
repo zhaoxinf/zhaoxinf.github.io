@@ -9,6 +9,21 @@ author_profile: true
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/eocd.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>Entropy-optimized contrastive decoding for hallucination suppression in vision-language-action models</strong><br/>
+      Ye Qiu, <strong>Zhaoxin Fan</strong> (corresponding author), Qingchen Yu, Faguo Wu, Hongwei Zheng, Yifan Sun, Wenjun Wu<br/>
+      <em>Neurocomputing</em>, 2025.<br/>
+      [<a href="https://www.sciencedirect.com/science/article/pii/S0925231225031790" target="_blank">Paper</a>] [<a href="https://github.com/" target="_blank">Code</a>]
+    </p>
+  </div>  
+</div>
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
     <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/GRPCI.jpg">
   </div>
   <div class="column middle" style="flex: 0.05;">&nbsp;</div>
