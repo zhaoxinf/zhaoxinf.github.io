@@ -31,6 +31,7 @@ author_profile: true
     <p>
       <strong>GRPCI: Harnessing Temporal-Spatial Dynamics for Graph Representation Learning</strong><br/>
       Xiang Wu, Rong-Hua Li, <strong>Zhaoxin Fan</strong>, Kai Chen, Yujin Gao, Hongchao Qin, and Guoren Wang<br/>
+      IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>), 2025.<br/>
       [<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11271600">Paper</a>] [<a href="https://github.com/">Code</a>]
     </p>
   </div>  
