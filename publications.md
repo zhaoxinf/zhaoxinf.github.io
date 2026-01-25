@@ -8,6 +8,21 @@ author_profile: true
 **2025**
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+ <div class="column left" style="flex: 1;">
+  <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/DSSmoothing.jpg">
+</div>
+<div class="column middle" style="flex: 0.05;">&nbsp;</div>
+<div class="column right" style="flex: 2;">
+  <p>
+    <strong>DSSmoothing: Toward Certified Dataset Ownership Verification for Pre-trained Language Models via Dual-Space Smoothing</strong><br/>
+    Ting Qiao, Xing Liu, Wenke Huang, Jianbin Li, <strong>Zhaoxin Fan</strong>, Yiming Li<br/>
+    <em>The Web Conference</em>, 2026.<br/>
+    [<a href="https://arxiv.org/pdf/2510.15303" target="_blank">Paper</a>] [<a href="https://github.com/" target="_blank">Code</a>]
+  </p>
+</div>
+
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
     <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/eocd.jpg">
   </div>
