@@ -19,6 +19,7 @@ author_profile: true
     <em>The Web Conference</em>, 2026.<br/>
     [<a href="https://arxiv.org/pdf/2510.15303" target="_blank">Paper</a>] [<a href="https://github.com/" target="_blank">Code</a>]
   </p>
+ </div>
 </div>
 
 
