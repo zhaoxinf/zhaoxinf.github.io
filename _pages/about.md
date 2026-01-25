@@ -39,6 +39,7 @@ About me
 
 News!
 ======
+*  Jan/20/2025,  I am happy to serve as the **Area Chair of ICME 2026**!
 *  Jan/14/2026,  Glad to annouce that DSSmoothing is accepted to  **WWW**!.
 *  Dec/20/2025, Congrats to Ye for his first VLA work being accepted by **Neurocomputing**!
 *  Dec/3/2025,  Glad to annouce that R-FGDepth is accepted to  **Pattern Recongition**!.
