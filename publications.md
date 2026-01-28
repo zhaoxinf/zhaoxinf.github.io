@@ -5,7 +5,25 @@ permalink: /publications/
 author_profile: true
 ---
 
-**2025**
+**2026**
+
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/poserft.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>Pose-RFT: Enhancing MLLMs for 3D Pose Generation via Hybrid Action Reinforcement Fine-Tuning</strong><br/>
+      Bao Li, Xiaomei Zhang, Miao Xu, <strong>Zhaoxin Fan</strong>, Xiangyu Zhu, Zhen Lei<br/>
+      International Conference on Learning Representations (<strong>ICLR</strong>), 2026.<br/>
+      [<a href="https://arxiv.org/pdf/2508.07804" target="_blank">Paper</a>] 
+      [<a href="https://github.com/" target="_blank">Code</a>]
+    </p>
+  </div>
+</div>
+
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
  <div class="column left" style="flex: 1;">
@@ -22,6 +40,7 @@ author_profile: true
  </div>
 </div>
 
+**2025**
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
