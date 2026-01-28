@@ -14,7 +14,7 @@ author_profile: true
   <div class="column right" style="flex: 2;">
     <p>
       <strong>The Achilles' Heel of LLMs: How Altering a Handful of Neurons Can Cripple Language Abilities</strong><br/>
-      Zixuan Qin, Kunlin Lyu, Qingchen Yu, Yifan Sun, <strong>Zhaoxin Fan</strong><br/>(corresponding author),
+      Zixuan Qin, Kunlin Lyu, Qingchen Yu, <strong>Zhaoxin Fan</strong>(corresponding author), Yifan Sun<br/>
       International Conference on Learning Representations (<strong>ICLR</strong>), 2026.<br/>
       [<a href="https://arxiv.org/pdf/2510.10238">Paper</a>] 
       [<a href="https://github.com/">Code</a>]
