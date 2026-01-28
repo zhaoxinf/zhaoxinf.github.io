@@ -116,6 +116,71 @@ Working Experience
 
 Selected Publications
 ======
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/heelofllms.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>The Achilles' Heel of LLMs: How Altering a Handful of Neurons Can Cripple Language Abilities</strong><br/>
+      Zixuan Qin, Kunlin Lyu, Qingchen Yu, Yifan Sun, <strong>Zhaoxin Fan</strong><br/>(corresponding author),
+      International Conference on Learning Representations (<strong>ICLR</strong>), 2026.<br/>
+      [<a href="https://arxiv.org/pdf/2510.10238">Paper</a>] 
+      [<a href="https://github.com/">Code</a>]
+    </p>
+  </div>  
+</div>
+
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/robopara.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>RoboPARA: Dual-Arm Robot Planning with Parallel Allocation and Recomposition Across Tasks</strong><br/>
+      Shiying Duan, Pei Ren, Nanxiang Jiang, Zhengping Che, Jian Tang, <strong>Zhaoxin Fan</strong>(corresponding author), Yifan Sun, Wenjun Wu<br/>
+      International Conference on Learning Representations (<strong>ICLR</strong>), 2026.<br/>
+      [<a href="https://arxiv.org/pdf/2506.06683">Paper</a>] 
+      [<a href="https://github.com/">Code</a>]
+    </p>
+  </div>  
+</div>
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/poserft.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>Pose-RFT: Enhancing MLLMs for 3D Pose Generation via Hybrid Action Reinforcement Fine-Tuning</strong><br/>
+      Bao Li, Xiaomei Zhang, Miao Xu, <strong>Zhaoxin Fan</strong>, Xiangyu Zhu, Zhen Lei<br/>
+      International Conference on Learning Representations (<strong>ICLR</strong>), 2026.<br/>
+      [<a href="https://arxiv.org/pdf/2508.07804" target="_blank">Paper</a>] 
+      [<a href="https://github.com/" target="_blank">Code</a>]
+    </p>
+  </div>
+</div>
+
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+ <div class="column left" style="flex: 1;">
+  <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/DSSmoothing.jpg">
+</div>
+<div class="column middle" style="flex: 0.05;">&nbsp;</div>
+<div class="column right" style="flex: 2;">
+  <p>
+    <strong>DSSmoothing: Toward Certified Dataset Ownership Verification for Pre-trained Language Models via Dual-Space Smoothing</strong><br/>
+    Ting Qiao, Xing Liu, Wenke Huang, Jianbin Li, <strong>Zhaoxin Fan</strong>, Yiming Li<br/>
+    The Web Conference (<strong>WWW</strong>), 2026.<br/>
+    [<a href="https://arxiv.org/pdf/2510.15303" target="_blank">Paper</a>] [<a href="https://github.com/" target="_blank">Code</a>]
+  </p>
+ </div>
+</div>
+
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
