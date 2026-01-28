@@ -6,7 +6,21 @@ author_profile: true
 ---
 
 **2026**
-
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/robopara.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>RoboPARA: Dual-Arm Robot Planning with Parallel Allocation and Recomposition Across Tasks</strong><br/>
+      Shiying Duan, Pei Ren, Nanxiang Jiang, Zhengping Che, Jian Tang, Yifan Sun, <strong>Zhaoxin Fan</strong>, Wenjun Wu<br/>
+      International Conference on Learning Representations (<strong>ICLR</strong>), 2026.<br/>
+      [<a href="https://arxiv.org/pdf/2506.06683">Paper</a>] 
+      [<a href="https://github.com/">Code</a>]
+    </p>
+  </div>  
+</div>
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
