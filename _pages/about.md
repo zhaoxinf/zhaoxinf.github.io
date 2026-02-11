@@ -224,7 +224,7 @@ Selected Publications
       <strong>MonoDream: Monocular Vision-Language Navigation with Panoramic Dreaming</strong><br/>
       Shuo Wang, Yongcai Wang, Wanting Li, Yucheng Wang, Maiyue Chen, Kaihui Wang, Zhizhong Su, Xudong Cai, Yeying Jin, Deying Li, <strong>Zhaoxin Fan</strong> (corresponding author)<br/>
       AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2026.<br/>
-      [<a href="https://arxiv.org/pdf/2508.02549">Paper</a>] [<a href="https://github.com/">Code</a>]
+      [<a href="https://arxiv.org/pdf/2508.02549">Paper</a>] [<a href="https://github.com/HorizonRobotics/RoboOrchardLab/tree/master/projects/monodream">Code</a>]
     </p>
   </div>  
 </div>
