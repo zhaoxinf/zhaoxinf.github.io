@@ -17,7 +17,7 @@ author_profile: true
       Zixuan Qin, Kunlin Lyu, Qingchen Yu, <strong>Zhaoxin Fan</strong>(corresponding author), Yifan Sun<br/>
       International Conference on Learning Representations (<strong>ICLR</strong>), 2026.<br/>
       [<a href="https://arxiv.org/pdf/2510.10238">Paper</a>] 
-      [<a href="https://github.com/">Code</a>]
+      [<a href="https://github.com/qqqqqqqzx/The-Achilles-Heel-of-LLMs">Code</a>]
     </p>
   </div>  
 </div>
@@ -34,7 +34,7 @@ author_profile: true
       Shiying Duan, Pei Ren, Nanxiang Jiang, Zhengping Che, Jian Tang, <strong>Zhaoxin Fan</strong>(corresponding author), Yifan Sun, Wenjun Wu<br/>
       International Conference on Learning Representations (<strong>ICLR</strong>), 2026.<br/>
       [<a href="https://arxiv.org/pdf/2506.06683">Paper</a>] 
-      [<a href="https://github.com/">Code</a>]
+      [<a href="https://github.com/AiDuanshiying/RoboPARA">Code</a>]
     </p>
   </div>  
 </div>
@@ -66,7 +66,7 @@ author_profile: true
     <strong>DSSmoothing: Toward Certified Dataset Ownership Verification for Pre-trained Language Models via Dual-Space Smoothing</strong><br/>
     Ting Qiao, Xing Liu, Wenke Huang, Jianbin Li, <strong>Zhaoxin Fan</strong>, Yiming Li<br/>
     The Web Conference (<strong>WWW</strong>), 2026.<br/>
-    [<a href="https://arxiv.org/pdf/2510.15303" target="_blank">Paper</a>] [<a href="https://github.com/" target="_blank">Code</a>]
+    [<a href="https://arxiv.org/pdf/2510.15303" target="_blank">Paper</a>] [<a href="https://github.com/NcepuQiaoTing/DSSmoothing" target="_blank">Code</a>]
   </p>
  </div>
 </div>
