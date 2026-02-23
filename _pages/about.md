@@ -39,8 +39,9 @@ About me
 
 News!
 ======
-*  Jan/26/2025,  Glad to annouce that 3 papers are accepted to  **ICLR 2026**!
-*  Jan/20/2025,  I am happy to serve as the **Area Chair of ICME 2026**!
+*  Feb/20/2026,   Excited to annouce that 5 Papers are accepted to **CVPR 2026** !
+*  Jan/26/2026,  Glad to annouce that 3 papers are accepted to  **ICLR 2026**!
+*  Jan/20/2026,  I am happy to serve as the **Area Chair of ICME 2026**!
 *  Jan/14/2026,  Glad to annouce that DSSmoothing is accepted to  **WWW 2026**!.
 *  Dec/20/2025, Congrats to Ye for his first VLA work being accepted by **Neurocomputing**!
 *  Dec/3/2025,  Glad to annouce that R-FGDepth is accepted to  **Pattern Recongition**!.
