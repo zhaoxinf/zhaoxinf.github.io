@@ -121,13 +121,13 @@ Selected Publications
 <!-- HVG-3D -->
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
-    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/heelofllms.jpg">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/hvg3d.jpg">
   </div>
   <div class="column middle" style="flex: 0.05;">&nbsp;</div>
   <div class="column right" style="flex: 2;">
     <p>
       <strong>HVG-3D: Bridging Real and Simulation Domains for 3D-Conditional Hand-Object Interaction Video Synthesis</strong><br/>
-      Mingjin Chen, Junhao Chen, Zhaoxin Fan (corresponding author), Yujian Lee, Zichen Dang, Lili Wang, Yawen Cui, Lap-Pui Chau, Yi Wang<br/>
+      Mingjin Chen, Junhao Chen,<strong>Zhaoxin Fan</strong>(corresponding author), Yujian Lee, Zichen Dang, Yawen Cui, Lap-Pui Chau, Yi Wang, Lili Wang<br/>
       Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026.<br/>
       [<a href="arxiv.org">Paper</a>]
       [<a href="github.com">Code</a>]
@@ -138,13 +138,13 @@ Selected Publications
 <!-- Progress-Think -->
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
-    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/heelofllms.jpg">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/progressthink.jpg">
   </div>
   <div class="column middle" style="flex: 0.05;">&nbsp;</div>
   <div class="column right" style="flex: 2;">
     <p>
       <strong>Progress-Think: Semantic Progress Reasoning for Vision-Language Navigation</strong><br/>
-      Shuo Wang, Yucheng Wang, Guoxin Lian, Yongcai Wang, Maiyue Chen, kaihui.wang, Bo Zhang, Zhizhong Su, Zhou Yutian, Wanting Li, Deying Li, Zhaoxin Fan (corresponding author)<br/>
+      Shuo Wang, Yucheng Wang, Guoxin Lian, Yongcai Wang, Maiyue Chen, kaihui.wang, Bo Zhang, Zhizhong Su, Zhou Yutian, Wanting Li, Deying Li, <strong>Zhaoxin Fan</strong>(corresponding author)<br/>
       Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026.<br/>
       [<a href="https://arxiv.org/pdf/2511.17097">Paper</a>]
       [<a href="https://horizonrobotics.github.io/robot_lab/progress-think/">Code</a>]
@@ -155,13 +155,13 @@ Selected Publications
 <!-- ActAvatar -->
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
-    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/heelofllms.jpg">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/actavatar.jpg">
   </div>
   <div class="column middle" style="flex: 0.05;">&nbsp;</div>
   <div class="column right" style="flex: 2;">
     <p>
       <strong>ActAvatar: Temporally-Aware Precise Action Control for Talking Avatars</strong><br/>
-      Ziqiao Peng, Yi Chen, Yifeng Ma, Guozhen Zhang, Zhiyao Sun, Zixiang Zhou, Youliang Zhang, Zhengguang Zhou, Zhaoxin Fan (corresponding author), Hongyan Liu, Yuan Zhou, Qinglin Lu, Jun He<br/>
+      Ziqiao Peng, Yi Chen, Yifeng Ma, Guozhen Zhang, Zhiyao Sun, Zixiang Zhou, Youliang Zhang, Zhengguang Zhou, Zhaoxin Fan, Hongyan Liu, Yuan Zhou, Qinglin Lu, Jun He<br/>
       Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026.<br/>
       [<a href="https://arxiv.org/pdf/2512.19546">Paper</a>]
       [<a href="https://ziqiaopeng.github.io/ActAvatar/">Code</a>]
@@ -172,13 +172,13 @@ Selected Publications
 <!-- CUBic -->
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
-    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/heelofllms.jpg">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/cubic.jpg">
   </div>
   <div class="column middle" style="flex: 0.05;">&nbsp;</div>
   <div class="column right" style="flex: 2;">
     <p>
       <strong>CUBic: Coordinated Unified Bimanual Perception and Control Framework</strong><br/>
-      Xingyu Wang, Pengxiang Ding, Jingkai Xu, Donglin Wang, Zhaoxin Fan (corresponding author)<br/>
+      Xingyu Wang, Pengxiang Ding, Jingkai Xu, Donglin Wang,<strong>Zhaoxin Fan</strong>(corresponding author)<br/>
       Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026.<br/>
       [<a href="arxiv.org">Paper</a>]
       [<a href="github.com">Code</a>]
@@ -189,13 +189,13 @@ Selected Publications
 <!-- Lyapunov Probes -->
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
-    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/heelofllms.jpg">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/lprobes.jpg">
   </div>
   <div class="column middle" style="flex: 0.05;">&nbsp;</div>
   <div class="column right" style="flex: 2;">
     <p>
       <strong>Lyapunov Probes for Hallucination Detection in Large Foundation Models</strong><br/>
-      Bozhi Luan, Gen Li, Yalan Qin, Jifeng Guo, Yun Zhou, Faguo Wu, Hongwei Zheng, wenjun wu, Zhaoxin Fan (corresponding author)<br/>
+      Bozhi Luan, Gen Li, Yalan Qin, Jifeng Guo, Yun Zhou, Faguo Wu, Hongwei Zheng, Wenjun Wu,  <strong>Zhaoxin Fan</strong>(corresponding author)<br/>
       Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026.<br/>
       [<a href="arxiv.org">Paper</a>]
       [<a href="github.com">Code</a>]
@@ -206,13 +206,13 @@ Selected Publications
 <!-- Erased, But Not Forgotten -->
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
-    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/heelofllms.jpg">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/reflux.jpg">
   </div>
   <div class="column middle" style="flex: 0.05;">&nbsp;</div>
   <div class="column right" style="flex: 2;">
     <p>
       <strong>Erased, But Not Forgotten: Erased Rectified Flow Transformers Still Remain Unsafe Under Concept Attack</strong><br/>
-      Nanxiang Jiang, Zhaoxin Fan (corresponding author), Enhan Kang, Daiheng Gao, Yun Zhou, Yanxia Chang, Zheng Zhu, Yeying Jin, wenjun wu<br/>
+      Nanxiang Jiang,  <strong>Zhaoxin Fan</strong>(corresponding author), Enhan Kang, Daiheng Gao, Yun Zhou, Yanxia Chang, Zheng Zhu, Yeying Jin, Wenjun wu<br/>
       Conference on Computer Vision and Pattern Recognition (<strong>CVPR (Findings)</strong>) , 2026.<br/>
       [<a href="https://arxiv.org/pdf/2510.00635">Paper</a>]
       [<a href="github.com">Code</a>]
