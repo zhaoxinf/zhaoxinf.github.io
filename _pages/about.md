@@ -127,7 +127,7 @@ Selected Publications
   <div class="column right" style="flex: 2;">
     <p>
       <strong>HVG-3D: Bridging Real and Simulation Domains for 3D-Conditional Hand-Object Interaction Video Synthesis</strong><br/>
-      Mingjin Chen, Junhao Chen,<strong>Zhaoxin Fan</strong>(corresponding author), Yujian Lee, Zichen Dang, Yawen Cui, Lap-Pui Chau, Yi Wang, Lili Wang<br/>
+      Mingjin Chen, Junhao Chen, <strong>Zhaoxin Fan</strong>(corresponding author), Yujian Lee, Zichen Dang, Yawen Cui, Lap-Pui Chau, Yi Wang, Lili Wang<br/>
       Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026.<br/>
       [<a href="arxiv.org">Paper</a>]
       [<a href="github.com">Code</a>]
@@ -178,7 +178,7 @@ Selected Publications
   <div class="column right" style="flex: 2;">
     <p>
       <strong>CUBic: Coordinated Unified Bimanual Perception and Control Framework</strong><br/>
-      Xingyu Wang, Pengxiang Ding, Jingkai Xu, Donglin Wang,<strong>Zhaoxin Fan</strong>(corresponding author)<br/>
+      Xingyu Wang, Pengxiang Ding, Jingkai Xu, Donglin Wang, <strong>Zhaoxin Fan</strong>(corresponding author)<br/>
       Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026.<br/>
       [<a href="arxiv.org">Paper</a>]
       [<a href="github.com">Code</a>]
@@ -195,7 +195,7 @@ Selected Publications
   <div class="column right" style="flex: 2;">
     <p>
       <strong>Lyapunov Probes for Hallucination Detection in Large Foundation Models</strong><br/>
-      Bozhi Luan, Gen Li, Yalan Qin, Jifeng Guo, Yun Zhou, Faguo Wu, Hongwei Zheng, Wenjun Wu,  <strong>Zhaoxin Fan</strong>(corresponding author)<br/>
+      Bozhi Luan, Gen Li, Yalan Qin, Jifeng Guo, Yun Zhou, Faguo Wu, Hongwei Zheng, <strong>Zhaoxin Fan</strong>(corresponding author), Wenjun Wu<br/>
       Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026.<br/>
       [<a href="arxiv.org">Paper</a>]
       [<a href="github.com">Code</a>]
@@ -212,7 +212,7 @@ Selected Publications
   <div class="column right" style="flex: 2;">
     <p>
       <strong>Erased, But Not Forgotten: Erased Rectified Flow Transformers Still Remain Unsafe Under Concept Attack</strong><br/>
-      Nanxiang Jiang,  <strong>Zhaoxin Fan</strong>(corresponding author), Enhan Kang, Daiheng Gao, Yun Zhou, Yanxia Chang, Zheng Zhu, Yeying Jin, Wenjun wu<br/>
+      Nanxiang Jiang,  <strong>Zhaoxin Fan</strong>(corresponding author), Enhan Kang, Daiheng Gao, Yun Zhou, Yanxia Chang, Zheng Zhu, Yeying Jin, Wenjun Wu<br/>
       Conference on Computer Vision and Pattern Recognition (<strong>CVPR (Findings)</strong>) , 2026.<br/>
       [<a href="https://arxiv.org/pdf/2510.00635">Paper</a>]
       [<a href="github.com">Code</a>]
