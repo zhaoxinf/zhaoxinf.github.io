@@ -1010,15 +1010,15 @@ author_profile: true
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;"> 
-    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/srnet1.jpg"> 
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/srnet_v2.jpg"> 
   </div> 
   <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
   <div class="column right" style="flex: 2;"> 
     <p> 
       <strong>SRNet: A 3D Scene Recognition Network using Static Graph and Dense Semantic Fusion</strong><br/>
-      Zhaoxin Fan, Hongyan Liu, Jun He, Qi Sun, Xiaoyong Du<br/> 
+      <strong>Zhaoxin Fan</strong>, Hongyan Liu, Jun He, Qi Sun, Xiaoyong Du<br/> 
       Computer Graphics Forum (<strong>CGF</strong>), 2020.<br/> 
-      [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14146">Paper</a>]
+      [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14146">Paper</a>] 
     </p> 
   </div>
 </div>
