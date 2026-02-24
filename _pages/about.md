@@ -15,17 +15,7 @@ About me
 * I pursued my PhD from 2019 to 2024 across three prestigious institutions: [Carnegie Mellon University](https://www.cmu.edu), [The Hong Kong University of Science and Technology](https://www.ust.hk), and [Renmin University of China](https://www.ruc.edu.cn), studying Computer Science. At CMU, I had the privilege of working under the guidance of Prof. [Min Xu](https://xulabs.github.io/min-xu/). My time at HKUST was spent collaborating with Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/). While at RUC, I worked closely with Prof. [Jun He](http://info.ruc.edu.cn/jsky/rtjs/index.htm) and Prof. [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1210/32067.htm) from Tsinghua University. My research interests lie in the areas of multi-modal LLMs, avatars, and embodied AI.Please feel free to contact me by  email (fanzhaoxinruc@gmail.com or zhaoxinf@buaa.edu.cn), if you are interested in my research.
   
 
-Our team is dedicated to realizing the vision of **embodied artificial intelligence**, with a clear roadmap starting from **scientific embodiment** and progressing towards **general embodied intelligence**.
-
----
-
-### Scientific Embodiment: The First Goal
-
-Our first goal is to achieve **scientific embodiment**: empowering robots to proficiently perform scientific experiments, including precise manipulation, observation, measurement, and use of laboratory equipment. This requires not only advanced motor skills, but also the capability to interact intelligently with complex scientific instruments and environments.
-
----
-
-### Research Directions
+Our team is dedicated to realizing the vision of **embodied artificial intelligence**, with a clear roadmap starting from **scientific embodiment** and progressing towards **general embodied intelligence**. Our first goal is to achieve **scientific embodiment**: empowering robots to proficiently perform scientific experiments, including precise manipulation, observation, measurement, and use of laboratory equipment. This requires not only advanced motor skills, but also the capability to interact intelligently with complex scientific instruments and environments.
 
 To support this, we explore:
 
@@ -35,10 +25,6 @@ To support this, we explore:
   By simulating human behaviors and interactions in virtual environments, we can study, predict, and refine how robots should behave in real-world scientific scenarios, accelerating the transfer of knowledge from simulation to reality.
 - **Scientific Embodiment:**
   We integrate the above advances to create robots purpose-built for complex scientific experiments, setting a new standard for intelligence and utility in laboratory automation.
-
----
-
-### Toward General Embodied Intelligence
 
 Looking ahead, our ultimate vision is **general embodied intelligence**: building robots that can master and utilize any human tool, extending far beyond the laboratory into all domains where tool use and embodied reasoning are needed.
 
