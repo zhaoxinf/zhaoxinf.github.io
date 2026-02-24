@@ -34,12 +34,6 @@ Through this stepwise approach—from **scientific embodiment** as the initial b
   
 
 
-<div class="row" style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <div class="column left" style="flex: 1; text-align: center;"> 
-    <img style="display: block; margin: 0 auto;" width="80%" src="https://zhaoxinf.github.io/pic/vision_v2.jpg"> 
-  </div> 
-</div>
-
 
 * If you are interested in becoming my student or a close collaborator, please answer the following questions before contacting me via email:
   * Firstly, familiarize yourself with my research area by reading my recent papers and visiting our research group's webpage. Research requires passion, and lack of interest may hinder persistence.
