@@ -15,7 +15,36 @@ About me
 * I pursued my PhD from 2019 to 2024 across three prestigious institutions: [Carnegie Mellon University](https://www.cmu.edu), [The Hong Kong University of Science and Technology](https://www.ust.hk), and [Renmin University of China](https://www.ruc.edu.cn), studying Computer Science. At CMU, I had the privilege of working under the guidance of Prof. [Min Xu](https://xulabs.github.io/min-xu/). My time at HKUST was spent collaborating with Prof. [Kai Chen](https://cse.hkust.edu.hk/~kaichen/). While at RUC, I worked closely with Prof. [Jun He](http://info.ruc.edu.cn/jsky/rtjs/index.htm) and Prof. [Hongyan Liu](https://www.sem.tsinghua.edu.cn/info/1210/32067.htm) from Tsinghua University. My research interests lie in the areas of multi-modal LLMs, avatars, and embodied AI.Please feel free to contact me by  email (fanzhaoxinruc@gmail.com or zhaoxinf@buaa.edu.cn), if you are interested in my research.
   
 
-*  Our team focuses on **human-centric artificial intelligence**, with the ultimate goal of achieving **intelligence that surpasses human capabilities**. Currently, our research spans three key areas: **Avatar**, where we study human interaction and motion from a software perspective; **MLLM**, where we explore human cognition and thought processes through the lens of software; and **Embodied AI**, where we investigate how to transfer the capabilities of avatars and LLMs in virtual environments into the real world, aiming to create **robots that truly exceed human performance**. Through these interconnected efforts, we strive to advance the frontier of artificial intelligence and realize the vision of **superhuman intelligence**.
+Our team is dedicated to realizing the vision of **embodied artificial intelligence**, with a clear roadmap starting from **scientific embodiment** and progressing towards **general embodied intelligence**.
+
+---
+
+### Scientific Embodiment: The First Goal
+
+Our first goal is to achieve **scientific embodiment**: empowering robots to proficiently perform scientific experiments, including precise manipulation, observation, measurement, and use of laboratory equipment. This requires not only advanced motor skills, but also the capability to interact intelligently with complex scientific instruments and environments.
+
+---
+
+### Research Directions
+
+To support this, we explore:
+
+- **MLLMs (Multimodal Large Language Models):**
+  We develop MLLMs to study and replicate the low-energy, highly efficient "big and small brain" mechanisms of humans (cerebrum and cerebellum), providing the core intelligence for our robots.
+- **Avatar (Digital Human Simulation):**
+  By simulating human behaviors and interactions in virtual environments, we can study, predict, and refine how robots should behave in real-world scientific scenarios, accelerating the transfer of knowledge from simulation to reality.
+- **Scientific Embodiment:**
+  We integrate the above advances to create robots purpose-built for complex scientific experiments, setting a new standard for intelligence and utility in laboratory automation.
+
+---
+
+### Toward General Embodied Intelligence
+
+Looking ahead, our ultimate vision is **general embodied intelligence**: building robots that can master and utilize any human tool, extending far beyond the laboratory into all domains where tool use and embodied reasoning are needed.
+
+---
+
+Through this stepwise approach—from **scientific embodiment** as the initial breakthrough, to **general embodied intelligence** as the final goal—we aim to push the boundaries of artificial intelligence and robotics.
   
 
 
