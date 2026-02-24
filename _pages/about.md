@@ -28,10 +28,7 @@ To support this, we explore:
 
 Looking ahead, our ultimate vision is **general embodied intelligence**: building robots that can master and utilize any human tool, extending far beyond the laboratory into all domains where tool use and embodied reasoning are needed.
 
----
 
-Through this stepwise approach—from **scientific embodiment** as the initial breakthrough, to **general embodied intelligence** as the final goal—we aim to push the boundaries of artificial intelligence and robotics.
-  
 
 
 
