@@ -13,16 +13,16 @@ Faculty
 ======
 * Xiaomei Zhang, Associate Professor of Institute of Automation，Chinese Academy of Sciences.
 * Zhenbo Song, Associate Professor of Nanjing University of Science and Technolog.
+* Pengju Zhang, Associate Professor of Institute of Automation，Chinese Academy of Sciences.
 * Wanting Li, Assistant Professor of Institute of Automation，Chinese Academy of Sciences.
-* Pengju Zhang, Assistant Professor of Institute of Automation，Chinese Academy of Sciences.
 * Ming Meng,  Assistant Professor of Communication University of China.
+* Xukun Zhou, Assistant Professor of Jiangnan University.
 
 
 
 Ph.D student
 ======
 * Ziqiao Peng, PhD student of Renmin University of China, working on avatars.
-* Xukun Zhou, PhD student of Renmin University of China, working on avatars.
 * Kaixing Yang, PhD student of Renmin University of China, working on davatars.
 * Tianbao Zhang, PhD student of Shanghai Jiaotong University, working on embodied AI.
 * Jian Yang, PhD student of Renmin University of China, working on LLMs.
