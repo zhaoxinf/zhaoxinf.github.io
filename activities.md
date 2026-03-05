@@ -19,8 +19,7 @@ President and Reviewer Roles
 
 Awards
 ======
-* PRCV 2025 Best Student Paper.
-* CCF Outstanding Paper in 2025.
+* PRCV 2025 Best Student Paper and CCF Outstanding Paper.
 * Postdoctoral Innovation Talent Support Program（博新计划）.
 * Young Elite Scientists Sponsorship Program of the Beijing High Innovation Plan（北京市“高创计划”-青年人才托举工程）
 * CCF智能机器人专委会优博、北京市图象图形学学会优博
