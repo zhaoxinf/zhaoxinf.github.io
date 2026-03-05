@@ -9,7 +9,7 @@ author_profile: true
 
 President and Reviewer Roles
 ======
-* Organizer of NTIRE 2026 | The Second Challenge on Day and Night Raindrop Removal for Dual-Focused Images [Website](https://lixinustc.github.io/CVPR-NTIRE2026-RainDrop-Competition.github.io/)
+* Organizer of NTIRE 2026-The Second Challenge on Day and Night Raindrop Removal for Dual-Focused Images [Website](https://lixinustc.github.io/CVPR-NTIRE2026-RainDrop-Competition.github.io/)
 * Organizer of CVPR 2025 Anti-UAV Workshop & Challenge [Website](https://anti-uav.github.io/)
 * Area Chair of ICME 2026, 3DV 2026 and PRCV 2025
 * Conference Reviewers: ICML, NeurIPS, ILCR, CVPR, ICCV, ECCV, AAAI, ACL, EMNLP, IJCAI, ACM MM, et al.
