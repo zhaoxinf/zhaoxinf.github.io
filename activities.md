@@ -11,7 +11,8 @@ President and Reviewer Roles
 ======
 
 * Area Chair of ICME 2026, 3DV 2026 and PRCV 2025
-* Organizer of CVPR 2025 Anti-UAV Workshop & Challenge
+* Organizer of NTIRE 2026 | The Second Challenge on Day and Night Raindrop Removal for Dual-Focused Images[website](https://lixinustc.github.io/CVPR-NTIRE2026-RainDrop-Competition.github.io/)
+* Organizer of CVPR 2025 Anti-UAV Workshop & Challenge [website](https://anti-uav.github.io/)
 * Conference Reviewers: ICML, NeurIPS, ILCR, CVPR, ICCV, ECCV, AAAI, ACL, EMNLP, IJCAI, ACM MM, et al.
 * Journal Reviewers TPAMI, IJCV, TIP, TMM, PR, TCSVT, RAL,TII, JIS,自动化学报
 
