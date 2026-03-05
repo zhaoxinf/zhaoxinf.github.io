@@ -11,10 +11,10 @@ President and Reviewer Roles
 ======
 
 * Area Chair of ICME 2026, 3DV 2026 and PRCV 2025
-* Organizer of NTIRE 2026 | The Second Challenge on Day and Night Raindrop Removal for Dual-Focused Images[website](https://lixinustc.github.io/CVPR-NTIRE2026-RainDrop-Competition.github.io/)
-* Organizer of CVPR 2025 Anti-UAV Workshop & Challenge [website](https://anti-uav.github.io/)
+* Organizer of NTIRE 2026 | The Second Challenge on Day and Night Raindrop Removal for Dual-Focused Images [Website](https://lixinustc.github.io/CVPR-NTIRE2026-RainDrop-Competition.github.io/)
+* Organizer of CVPR 2025 Anti-UAV Workshop & Challenge [Website](https://anti-uav.github.io/)
 * Conference Reviewers: ICML, NeurIPS, ILCR, CVPR, ICCV, ECCV, AAAI, ACL, EMNLP, IJCAI, ACM MM, et al.
-* Journal Reviewers TPAMI, IJCV, TIP, TMM, PR, TCSVT, RAL,TII, JIS,自动化学报
+* Journal Reviewers TPAMI, IJRR, IJCV, TIP, TMM, PR, TCSVT, RAL,TII, JIS, et al.
 
 
 Awards
@@ -22,7 +22,7 @@ Awards
 * PRCV 2025 Best Student Paper.
 * CCF Outstanding Paper in 2025.
 * Postdoctoral Innovation Talent Support Program（博新计划）.
-* Young Elite Scientists Sponsorship Program of the Beijing High Innovation Plan（北京“高创计划”-青年人才托举工程）
+* Young Elite Scientists Sponsorship Program of the Beijing High Innovation Plan（北京市“高创计划”-青年人才托举工程）
 * CCF智能机器人专委会优博、北京市图象图形学学会优博
 * 2nd Place Award in The 4th Anti-UAV Workshop & Challenge Track 1
 * Full financial support for PhD Student from CMU and HKUST.
