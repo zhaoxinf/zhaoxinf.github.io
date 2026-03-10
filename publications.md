@@ -923,7 +923,7 @@ author_profile: true
   <div class="column right" style="flex: 2;"> 
     <p> 
       <strong>Object Level Depth Reconstruction for Category Level 6D Object Pose Estimation From Monocular RGB Image</strong><br/>
-      Zhaoxin Fan, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu, Jun He<br/> 
+      <strong>Zhaoxin Fan</strong>, Zhenbo Song, Jian Xu, Zhicheng Wang, Kejian Wu, Hongyan Liu, Jun He<br/> 
       European Conference on Computer Vision (<strong>ECCV</strong>), 2022.<br/> 
       [<a href="https://arxiv.org/pdf/2204.01586.pdf">Paper</a>] [<a href="https://github.com/FANzhaoxin666/OLD_Net_release">Code</a>] 
     </p> 
@@ -938,7 +938,7 @@ author_profile: true
   <div class="column right" style="flex: 2;"> 
     <p> 
       <strong>RPR-Net: A Point Cloud-based Rotation-Aware Large Scale Place Recognition Network</strong><br/>
-      Zhaoxin Fan, Zhenbo Song, Wenping Zhang, Hongyan Liu, Jun He, Xiaoyong Du<br/> 
+     <strong>Zhaoxin Fan</strong>, Zhenbo Song, Wenping Zhang, Hongyan Liu, Jun He, Xiaoyong Du<br/> 
       European Conference on Computer Vision Workshop (<strong>ECCV Workshop</strong>), 2022.<br/> 
       [<a href="https://arxiv.org/pdf/2108.12790.pdf">Paper</a>] 
     </p> 
@@ -953,7 +953,7 @@ author_profile: true
   <div class="column right" style="flex: 2;"> 
     <p> 
       <strong>SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place Recognition</strong><br/>
-      Zhaoxin Fan, Zhenbo Song, Zhiwu Lu, Hongyan Liu, Jun He, Xiaoyong Du<br/> 
+      <strong>Zhaoxin Fan</strong>, Zhenbo Song, Zhiwu Lu, Hongyan Liu, Jun He, Xiaoyong Du<br/> 
       AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2022.<br/> 
       [<a href="https://arxiv.org/pdf/2105.00149.pdf">Paper</a>] [<a href="https://github.com/ZhenboSong/SVTNet">Code</a>] 
     </p> 
@@ -968,7 +968,7 @@ author_profile: true
   <div class="column right" style="flex: 2;"> 
     <p> 
       <strong>Unsupervised Multi-task Learning for 3D Subtomogram Image Alignment, Clustering and Segmentation</strong><br/>
-      Haoyi Zhu, Chuting Wang, Yuanxin Wang, Zhaoxin Fan, Mostofa Rafid Uddin, Xin Gao, Jing Zhang, Xiangrui Zeng, Min Xu<br/> 
+      Haoyi Zhu, Chuting Wang, Yuanxin Wang, <strong>Zhaoxin Fan</strong>, Mostofa Rafid Uddin, Xin Gao, Jing Zhang, Xiangrui Zeng, Min Xu<br/> 
       IEEE International Conference on Information Processing (<strong>ICIP</strong>), 2022.<br/> 
       [<a href="https://repository.kaust.edu.sa/server/api/core/bitstreams/97ddabc6-8dde-403c-a7f2-4da45368545f/content">Paper</a>] 
     </p> 
@@ -983,7 +983,7 @@ author_profile: true
   <div class="column right" style="flex: 2;"> 
     <p> 
       <strong>PilotAttnNet: Multi-Modal Attention Network for End-to-End Steering Control</strong><br/>
-      Jincan Zhang, Zhenbo Song, Jianfeng Lu, Xingwei Qu, Zhaoxin Fan<br/> 
+      Jincan Zhang, Zhenbo Song, Jianfeng Lu, Xingwei Qu, <strong>Zhaoxin Fan</strong><br/> 
       Chinese Conference on Pattern Recognition and Computer Vision (<strong>PRCV</strong>), 2022.<br/> 
       [<a href="https://link.springer.com/chapter/10.1007/978-3-031-18913-5_14">Paper</a>] 
     </p> 
@@ -998,7 +998,7 @@ author_profile: true
   <div class="column right" style="flex: 2;"> 
     <p> 
       <strong>Deep Learning on Monocular Object Pose Detection and Tracking: A Comprehensive Overview</strong><br/>
-      Zhaoxin Fan, Yazhi Zhu, Yulin He, Qi Sun, Hongyan Liu, Jun He<br/> 
+      <strong>Zhaoxin Fan</strong>, Yazhi Zhu, Yulin He, Qi Sun, Hongyan Liu, Jun He<br/> 
       ACM Computing Surveys (<strong>CSUR</strong>), 2022.<br/> 
       [<a href="https://arxiv.org/pdf/2105.14291.pdf">Paper</a>] 
     </p> 
@@ -1031,7 +1031,7 @@ author_profile: true
   <div class="column right" style="flex: 2;"> 
     <p> 
       <strong>A Graph‐based One‐Shot Learning Method for Point Cloud Recognition</strong><br/>
-      Zhaoxin Fan, Hongyan Liu, Jun He, Qi Sun, Xiaoyong Du<br/> 
+      <strong>Zhaoxin Fan</strong>, Hongyan Liu, Jun He, Qi Sun, Xiaoyong Du<br/> 
       Computer Graphics Forum (<strong>CGF</strong>), 2020.<br/> 
       [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14147">Paper</a>]
     </p> 
@@ -1046,7 +1046,7 @@ author_profile: true
   <div class="column right" style="flex: 2;"> 
     <p> 
       <strong>MPDNet: A 3D Missing Part Detection Network Based on Point Cloud Segmentation</strong><br/>
-      Zhaoxin Fan, Hongyan Liu, Jun He, Min Zhang, Xiaoyong Du<br/> 
+      <strong>Zhaoxin Fan</strong>, Hongyan Liu, Jun He, Min Zhang, Xiaoyong Du<br/> 
       IEEE International Conference on Acoustics, Speech and Signal Processing (<strong>ICASSP</strong>), 2021.<br/> 
       [<a href="https://ieeexplore.ieee.org/abstract/document/9414867/">Paper</a>]
     </p> 
@@ -1061,7 +1061,7 @@ author_profile: true
   <div class="column right" style="flex: 2;"> 
     <p> 
       <strong>DAGC: Employing Dual Attention and Graph Convolution for Point Cloud based Place Recognition</strong><br/>
-      Qi Sun, Hongyan Liu, Jun He, Zhaoxin Fan, Xiaoyong Du<br/> 
+      Qi Sun, Hongyan Liu, Jun He, <strong>Zhaoxin Fan</strong>, Xiaoyong Du<br/> 
       ACM International Conference on Multimedia Retrieval (<strong>ICMR</strong>), 2020.<br/> 
       [<a href="https://dl.acm.org/doi/abs/10.1145/3372278.3390693">Paper</a>]
     </p> 
@@ -1076,7 +1076,7 @@ author_profile: true
   <div class="column right" style="flex: 2;"> 
     <p> 
       <strong>PointFPN: A Frustum-based Feature Pyramid Network for 3D Object Detection</strong><br/>
-      Zhaoxin Fan, Hongyan Liu, Jun He, Siwei Jiang, Xiaoyong Du<br/> 
+      <strong>Zhaoxin Fan</strong>, Hongyan Liu, Jun He, Siwei Jiang, Xiaoyong Du<br/> 
       International Conference on Tools with Artificial Intelligence (<strong>ICTAI</strong>), 2020.<br/> 
       [<a href="https://ieeexplore.ieee.org/abstract/document/9288277">Paper</a>]
     </p> 
