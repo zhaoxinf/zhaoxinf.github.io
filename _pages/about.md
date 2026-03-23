@@ -43,8 +43,9 @@ Looking ahead, our ultimate vision is **general embodied intelligence**: buildin
 
 <br>
 
-News!
+News!Dust to Tower
 ======
+*  Mar/22/2026,   Glad to annouce that Dust to Tower is accepted to  **TVCG**!.
 *  Feb/20/2026,   Excited to annouce that 5 Papers are accepted to **CVPR 2026** !
 *  Jan/26/2026,  Glad to annouce that 3 papers are accepted to  **ICLR 2026**!
 *  Jan/20/2026,  I am happy to serve as the **Area Chair of ICME 2026**!
