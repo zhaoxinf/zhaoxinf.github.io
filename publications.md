@@ -6,6 +6,22 @@ author_profile: true
 ---
 
 **2026**
+<!-- Dust to Tower -->
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/dust.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>Dust to Tower: Coarse-to-Fine Photo-Realistic Scene Reconstruction from Sparse Uncalibrated Image</strong><br/>
+      Xudong Cai, Yongcai Wang, <strong>Zhaoxin Fan</strong> (corresponding author), Deng Haoran, Shuo Wang, Wanting Li, Deying Li, Lun Luo, Minhang Wang, Jintao Xu<br/>
+      [<a href="https://arxiv.org/pdf/2412.19518">Paper</a>]
+      [<a href="https://github.io">Code</a>]
+    </p>
+  </div>
+</div>
+
 <!-- HVG-3D -->
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
@@ -85,7 +101,7 @@ author_profile: true
       <strong>Lyapunov Probes for Hallucination Detection in Large Foundation Models</strong><br/>
       Bozhi Luan, Gen Li, Yalan Qin, Jifeng Guo, Yun Zhou, Faguo Wu, Hongwei Zheng, <strong>Zhaoxin Fan</strong>(corresponding author), Wenjun Wu<br/>
       Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026.<br/>
-      [<a href="arxiv.org">Paper</a>]
+      [<a href="https://arxiv.org/pdf/2603.06081">Paper</a>]
       [<a href="github.com">Code</a>]
     </p>
   </div>
