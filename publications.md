@@ -6,23 +6,6 @@ author_profile: true
 ---
 
 **2026**
-
-<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div class="column left" style="flex: 1;">
-    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/exges.jpg">
-  </div>
-  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
-  <div class="column right" style="flex: 2;">
-    <p>
-      <strong>ExGes: Expressive Human Motion Retrieval and Modulation for Audio-Driven Gesture Synthesis</strong><br/>
-      Xukun Zhou, Fengxin Li, Ming Chen, Yan Zhou, Pengfei Wan, Yeying Jin, Hongyuan Zhang, Hongyan Liu, <strong>Zhaoxin Fan</strong> (corresponding author), Jun He, Xuelong Li<br/>
-      IEEE Transactions on Visualization and Computer Graphics (<strong>TVCG</strong>), 2026.<br/>
-      [<a href="https://arxiv.org/abs/2503.06499">Paper</a>]
-      [<a href="https://github.io">Code</a>]
-    </p>
-  </div>
-</div>
-
 <!-- Dust to Tower -->
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
