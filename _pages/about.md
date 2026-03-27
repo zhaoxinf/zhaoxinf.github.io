@@ -43,8 +43,9 @@ Looking ahead, our ultimate vision is **general embodied intelligence**: buildin
 
 <br>
 
-News!Dust to Tower
+News!
 ======
+*  Mar/26/2026,  Happy to annouce that ExGes is accepted to  **TVCG**!.
 *  Mar/22/2026,   Glad to annouce that Dust to Tower is accepted to  **TVCG**!.
 *  Feb/20/2026,   Excited to annouce that 5 Papers are accepted to **CVPR 2026** !
 *  Jan/26/2026,  Glad to annouce that 3 papers are accepted to  **ICLR 2026**!
@@ -124,6 +125,22 @@ Working Experience
 
 Selected Publications
 ======
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/exges.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>ExGes: Expressive Human Motion Retrieval and Modulation for Audio-Driven Gesture Synthesis</strong><br/>
+      Xukun Zhou, Fengxin Li, Ming Chen, Yan Zhou, Pengfei Wan, Yeying Jin, Hongyuan Zhang, Hongyan Liu, <strong>Zhaoxin Fan</strong> (corresponding author), Jun He, Xuelong Li<br/>
+      <br/>
+      [<a href="https://arxiv.org/abs/2503.06499">Paper</a>]
+      [<a href="https://github.io">Code</a>]
+    </p>
+  </div>
+</div>
 
 <!-- Dust to Tower -->
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
