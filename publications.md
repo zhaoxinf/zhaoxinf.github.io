@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **2026**
+
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
     <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/exges.jpg">
