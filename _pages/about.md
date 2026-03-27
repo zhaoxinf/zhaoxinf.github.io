@@ -135,7 +135,7 @@ Selected Publications
     <p>
       <strong>ExGes: Expressive Human Motion Retrieval and Modulation for Audio-Driven Gesture Synthesis</strong><br/>
       Xukun Zhou, Fengxin Li, Ming Chen, Yan Zhou, Pengfei Wan, Yeying Jin, Hongyuan Zhang, Hongyan Liu, <strong>Zhaoxin Fan</strong> (corresponding author), Jun He, Xuelong Li<br/>
-      <br/>
+      IEEE Transactions on Visualization and Computer Graphics (<strong>TVCG</strong>), 2026.<br/>
       [<a href="https://arxiv.org/abs/2503.06499">Paper</a>]
       [<a href="https://github.io">Code</a>]
     </p>
