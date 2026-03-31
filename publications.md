@@ -33,7 +33,7 @@ author_profile: true
   <div class="column right" style="flex: 2;">
     <p>
       <strong>Dust to Tower: Coarse-to-Fine Photo-Realistic Scene Reconstruction from Sparse Uncalibrated Image</strong><br/>
-      Xudong Cai, Yongcai Wang, <strong>Zhaoxin Fan</strong> (corresponding author), Deng Haoran, Shuo Wang, Wanting Li, Deying Li, Lun Luo, Minhang Wang, Jintao Xu<br/>
+      Xudong Cai, Yongcai Wang, <strong>Zhaoxin Fan</strong> (corresponding author), Haoran Deng, Shuo Wang, Wanting Li, Deying Li, Lun Luo, Minhang Wang, Hongyuan Zhang, Xuelong Li<br/>
       IEEE Transactions on Visualization and Computer Graphics (<strong>TVCG</strong>), 2026.<br/>
       [<a href="https://arxiv.org/pdf/2412.19518">Paper</a>]
       [<a href="https://github.io">Code</a>]
