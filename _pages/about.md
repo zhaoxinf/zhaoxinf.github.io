@@ -45,6 +45,7 @@ Looking ahead, our ultimate vision is **general embodied intelligence**: buildin
 
 News!
 ======
+*  April/6/2026,  Happy to annouce that 2 papers are accepted to **ACL** main concerence and 2 papers are accepted as findings!
 *  Mar/26/2026,  Happy to annouce that ExGes is accepted to  **TVCG**!
 *  Mar/22/2026,   Glad to annouce that Dust to Tower is accepted to  **TVCG**!
 *  Feb/20/2026,   Excited to annouce that 5 Papers are accepted to **CVPR 2026** !
