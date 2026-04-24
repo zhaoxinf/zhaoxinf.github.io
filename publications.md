@@ -7,6 +7,23 @@ author_profile: true
 
 **2026**
 
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
+  <div class="column left" style="flex: 1; min-width: 180px;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/deepsynth.jpg" alt="DeepSynth-Eval">
+  </div>
+  <div class="column middle" style="flex: 0.05; min-width: 10px;">&nbsp;</div>
+  <div class="column right" style="flex: 2; min-width: 240px;">
+    <p>
+      <strong>DeepSynth-Eval: Objectively Evaluating Information Consolidation in Deep Survey Writing</strong><br/>
+      Hongzhi Zhang, Yuanze Hu, Tinghai Zhang, Jia Fu, Tao Wang, Junwei Jing, Zhaoxin Fan, Qi Wang, Ruiming Tang, Han Li, Guorui Zhou, Kun Gai<br/>
+      <em>arXiv preprint</em>, 2026.<br/>
+      [<a href="https://arxiv.org/pdf/2601.03540">Paper</a>]
+      [<a href="https://github.com">Code</a>]
+    </p>
+  </div>
+</div>
+
+
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
     <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/exges.jpg">
