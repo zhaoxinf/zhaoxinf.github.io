@@ -545,7 +545,7 @@ author_profile: true
   <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
   <div class="column right" style="flex: 2;"> 
     <p> 
-      <strong>c</strong><br/>
+      <strong>Phys-EdiGAN: A privacy-preserving method for editing physiological signals in facial videos</strong><br/>
      Xiaoguang Tu, Zhiyi Niu, Juhang Yin, Yanyan Zhang, Ming Yang, Lin Wei, Yu Wang,  <strong>Zhaoxin Fan</strong>, Jian Zhao<br/> 
       Pattern Recognition (<strong>PR</strong>), 2025.<br/> 
       [<a href="https://www.sciencedirect.com/science/article/pii/S0031320325006260">Paper</a>] [<a href="https://github.com/">Code</a>] 
