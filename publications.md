@@ -466,7 +466,7 @@ author_profile: true
   <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
   <div class="column right" style="flex: 2;"> 
     <p> 
-      <strong>c</strong><br/>
+      <strong>CoheDancers: Enhancing Interactive Group Dance Generation through Music-Driven Coherence Decomposition</strong><br/>
       kaixing yang, XulongTang, Haoyu Wu, Biao Qin, Hongyan Liu, Jun He, <strong>Zhaoxin Fan</strong> (corresponding author)<br/> 
       ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2025.<br/> 
       [<a href="https://arxiv.org/pdf/2412.19123">Paper</a>] [<a href="https://github.com/XulongT/CoheDancers">Code</a>]
