@@ -50,7 +50,7 @@ author_profile: true
       Yuanze Hu,  <strong>Zhaoxin Fan</strong> (corresponding author), Xinyu Wang, Gen Li, Ye Qiu, Zhichao Yang, Wenjun Wu, Kejian Wu, Yifan Sun, Xiaotie Deng, Jin Dong<br/>
       <em>Annual Meeting of the Association for Computational Linguistics (ACL Findings)</em>, 2026.<br/>
       [<a href="https://arxiv.org/pdf/2505.12884">Paper</a>]
-      [<a href="https://github.com">Code</a>]
+      [<a href="https://github.com/depixels/TinyAlign">Code</a>]
     </p>
   </div>
 </div>
@@ -66,7 +66,7 @@ author_profile: true
       Hongzhi Zhang, Yuanze Hu, Tinghai Zhang, Jia Fu, Tao Wang, Junwei Jing,  <strong>Zhaoxin Fan</strong>, Qi Wang, Ruiming Tang, Han Li, Guorui Zhou, Kun Gai<br/>
       <em>Annual Meeting of the Association for Computational Linguistics (ACL Findings)</em>, 2026.<br/>
       [<a href="https://arxiv.org/pdf/2601.03540">Paper</a>]
-      [<a href="https://github.com">Code</a>]
+      [<a href="https://github.com/Kwai-Klear/DeepSynth-Eval">Code</a>]
     </p>
   </div>
 </div>
@@ -202,7 +202,7 @@ author_profile: true
       Nanxiang Jiang,  <strong>Zhaoxin Fan</strong>(corresponding author), Enhan Kang, Daiheng Gao, Yun Zhou, Yanxia Chang, Zheng Zhu, Yeying Jin, Wenjun Wu<br/>
       Conference on Computer Vision and Pattern Recognition (<strong>CVPR (Findings)</strong>) , 2026.<br/>
       [<a href="https://arxiv.org/pdf/2510.00635">Paper</a>]
-      [<a href="github.com">Code</a>]
+      [<a href="https://github.com/nxjiang-jnx/ReFlux">Code</a>]
     </p>
   </div>
 </div>
@@ -453,7 +453,7 @@ author_profile: true
       <strong>Long-VLA: Unleashing Long-Horizon Capability of Vision Language Action Model for Robot Manipulation</strong><br/>
      Yiguo Fan, Shuanghao Bai, Xinyang Tong, Pengxiang Ding, Yuyang Zhu, Hongchao Lu, Fengqi Dai, Wei Zhao, Yang Liu, Siteng Huang,   <strong>Zhaoxin Fan</strong> , Badong Chen, Donglin Wang<br/> 
       Conference on Robot Learning (<strong>CoRL</strong>), 2025.<br/> 
-      [<a href="https://arxiv.org/pdf/2508.19958">Paper</a>] [<a href="https://github.com/">Code</a>]
+      [<a href="https://arxiv.org/pdf/2508.19958">Paper</a>] [<a href="https://long-vla.github.io/">Code</a>]
     </p> 
   </div>
 </div>
@@ -466,10 +466,10 @@ author_profile: true
   <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
   <div class="column right" style="flex: 2;"> 
     <p> 
-      <strong>CoheDancers: Enhancing Interactive Group Dance Generation through Music-Driven Coherence Decomposition</strong><br/>
+      <strong>c</strong><br/>
       kaixing yang, XulongTang, Haoyu Wu, Biao Qin, Hongyan Liu, Jun He, <strong>Zhaoxin Fan</strong> (corresponding author)<br/> 
       ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2025.<br/> 
-      [<a href="https://arxiv.org/pdf/2412.19123">Paper</a>] [<a href="https://github.com/">Code</a>]
+      [<a href="https://arxiv.org/pdf/2412.19123">Paper</a>] [<a href="https://github.com/XulongT/CoheDancers">Code</a>]
     </p> 
   </div>
 </div>
@@ -485,7 +485,7 @@ author_profile: true
       <strong>Flexible Multi-view Clustering with Dynamic Views Generation</strong><br/>
       Yalan Qin, Nan Pu, Hanzhou Wu, <strong>Zhaoxin Fan</strong> (corresponding author)<br/> 
       ACM International Conference on Multimedia (<strong>ACM MM</strong>), 2025.<br/> 
-      [<a href="https://dl.acm.org/doi/10.1145/3746027.3754930">Paper</a>] [<a href="https://github.com/">Code</a>]
+      [<a href="https://dl.acm.org/doi/10.1145/3746027.3754930">Paper</a>] [<a href="https://github.com/Julie177/Flexible-Multi-view-Clustering-with-Dynamic-Views-Generation">Code</a>]
     </p> 
   </div>
 </div>
@@ -500,7 +500,7 @@ author_profile: true
       <strong>Moderating the Generalization of Score-based Generative Model</strong><br/>
       Wan Jiang, He Wang, Xin Zhang, Dan Guo,  <strong>Zhaoxin Fan</strong>, Yunfeng Diao, Richang Hong<br/> 
       International Conference on Computer Vision (<strong>ICCV</strong>), 2025.<br/>
-      [<a href="https://arxiv.org/pdf/2412.07229">Paper</a>] [<a href="https://github.com/">Code</a>]
+      [<a href="https://arxiv.org/pdf/2412.07229">Paper</a>] [<a href="https://github.com/yunfengdiao/Moderated-Score-based-Generative-Model">Code</a>]
     </p> 
   </div>
 </div>
@@ -517,7 +517,7 @@ author_profile: true
       <strong>CARP: Visuomotor Policy Learning via Coarse-to-Fine Autoregressive Prediction</strong><br/>
       Zhefei Gong, Pengxiang Ding, Shangke Lyu, Siteng Huang, Mingyang Sun, Wei Zhao,  <strong>Zhaoxin Fan</strong>, Donglin Wang<br/> 
       International Conference on Computer Vision (<strong>ICCV</strong>), 2025.<br/>
-      [<a href="https://arxiv.org/pdf/2412.06782">Paper</a>] [<a href="https://github.com/">Code</a>]
+      [<a href="https://arxiv.org/pdf/2412.06782">Paper</a>] [<a href="https://github.com/ZhefeiGong/carp">Code</a>]
     </p> 
   </div>
 </div>
@@ -545,7 +545,7 @@ author_profile: true
   <div class="column middle" style="flex: 0.05;">&nbsp;</div> 
   <div class="column right" style="flex: 2;"> 
     <p> 
-      <strong>Phys-EdiGAN: A privacy-preserving method for editing physiological signals in facial videos</strong><br/>
+      <strong>c</strong><br/>
      Xiaoguang Tu, Zhiyi Niu, Juhang Yin, Yanyan Zhang, Ming Yang, Lin Wei, Yu Wang,  <strong>Zhaoxin Fan</strong>, Jian Zhao<br/> 
       Pattern Recognition (<strong>PR</strong>), 2025.<br/> 
       [<a href="https://www.sciencedirect.com/science/article/pii/S0031320325006260">Paper</a>] [<a href="https://github.com/">Code</a>] 
@@ -595,7 +595,7 @@ author_profile: true
       <strong>EraseAnything: Enabling Concept Erasure in Rectified Flow Transformers</strong><br/>
       Daiheng Gao, Shilin Lu, Wenbo Zhou, Jiaming Chu, Jie Zhang, Mengxi Jia, Bang Zhang, <strong>Zhaoxin Fan</strong> (corresponding author), Weiming Zhang<br/>
       Forty-second International Conference on Machine Learning (<strong>ICML</strong>), 2025.<br/>
-      [<a href="https://arxiv.org/pdf/2412.20413">Paper</a>] [<a href="https://github.com/">Code</a>]
+      [<a href="https://arxiv.org/pdf/2412.20413">Paper</a>] [<a href="https://github.com/tomguluson92/EraseAnything">Code</a>]
     </p>
   </div>
 </div>
@@ -625,25 +625,12 @@ author_profile: true
       <strong>Meta-Learning Empowered Meta-Face: Personalized Speaking Style Adaptation for Audio-Driven 3D Talking Face Animation</strong><br/>
       Xukun Zhou, Fengxin Li, Ziqiao Peng, Xinyu Wang, Hongyan Liu, <strong>Zhaoxin Fan</strong> (corresponding author), Jun He<br/>
       IEEE International Conference on Multimedia and Expo (<strong>ICME</strong>), 2025.<br/>
-      [<a href="https://arxiv.org/pdf/2408.09357">Paper</a>] [<a href="https://github.com/">Code</a>]
+      [<a href="https://arxiv.org/pdf/2408.09357">Paper</a>] [<a href="https://github.com/zxk19981227/MetaFace">Code</a>]
     </p>
   </div>
 </div>
 
-<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div class="column left" style="flex: 1;">
-    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/twinpg.jpg">
-  </div>
-  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
-  <div class="column right" style="flex: 2;">
-    <p>
-      <strong>Twin Progressive Generative Adversarial Network For High-Resolution Image Inpainting</strong><br/>
-      Zhiying Li, Weibin Chen, <strong>Zhaoxin Fan</strong>, Kaichuan Kong, Xiaobo Jin, Guanggang Geng<br/>
-      IEEE International Conference on Multimedia and Expo (<strong>ICME</strong>), 2025.<br/>
-      [<a href="https://arxiv.org/">Paper</a>] [<a href="https://github.com/">Code</a>]
-    </p>
-  </div>
-</div>
+
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
@@ -655,7 +642,7 @@ author_profile: true
       <strong>DualTalk: Dual-Speaker Interaction for 3D Talking Head Conversations</strong><br/>
       Ziqiao Peng, Yanbo Fan, Haoyu Wu, Xuan Wang, Hongyan Liu, Jun He, <strong>Zhaoxin Fan</strong> (corresponding author)<br/>
       IEEE Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025.<br/>
-      [<a href="https://arxiv.org/pdf/2505.18096">Paper</a>] [<a href="https://github.com/">Code</a>]
+      [<a href="https://arxiv.org/pdf/2505.18096">Paper</a>] [<a href="https://github.com/ZiqiaoPeng/DualTalk">Code</a>]
     </p>
   </div>
 </div>
