@@ -16,13 +16,12 @@ author_profile: true
     <p>
       <strong>DeepSynth-Eval: Objectively Evaluating Information Consolidation in Deep Survey Writing</strong><br/>
       Hongzhi Zhang, Yuanze Hu, Tinghai Zhang, Jia Fu, Tao Wang, Junwei Jing, Zhaoxin Fan, Qi Wang, Ruiming Tang, Han Li, Guorui Zhou, Kun Gai<br/>
-      <em>Findings of ACL</em>, 2026.<br/>
+      <em>Findings of the Association for Computational Linguistics (ACL)</em>, 2026.<br/>
       [<a href="https://arxiv.org/pdf/2601.03540">Paper</a>]
       [<a href="https://github.com">Code</a>]
     </p>
   </div>
 </div>
-
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
