@@ -6,6 +6,21 @@ author_profile: true
 ---
 
 **2026**
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
+  <div class="column left" style="flex: 1; min-width: 180px;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/reap.jpg" alt="PEAP">
+  </div>
+  <div class="column middle" style="flex: 0.05; min-width: 10px;">&nbsp;</div>
+  <div class="column right" style="flex: 2; min-width: 240px;">
+    <p>
+      <strong>PEAP: Proactive Embodied Action Sequence Planning with Joint Understanding of Vision and Audio Perception</strong><br/>
+      Tianwei Lan, Jiaqi Wu, Zeming Liu, <strong>Zhaoxin Fan</strong>, Haifeng Wang, Yuhang Guo<br/>
+      <em>Annual Meeting of the Association for Computational Linguistics (ACL)</em>, 2026.<br/>
+      [<a href="https://openreview.net/pdf?id=vVZSS56OUv">Paper</a>]
+      [<a href="https://github.com/BITHLP/PEAP">Code</a>]
+    </p>
+  </div>
+</div>
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
   <div class="column left" style="flex: 1; min-width: 180px;">
