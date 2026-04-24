@@ -9,14 +9,30 @@ author_profile: true
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
   <div class="column left" style="flex: 1; min-width: 180px;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/tinyalign.jpg" alt="TinyAlign">
+  </div>
+  <div class="column middle" style="flex: 0.05; min-width: 10px;">&nbsp;</div>
+  <div class="column right" style="flex: 2; min-width: 240px;">
+    <p>
+      <strong>TinyAlign: Boosting Lightweight Vision-Language Models by Mitigating Modal Alignment Bottlenecks</strong><br/>
+      Yuanze Hu,  <strong>Zhaoxin Fan</strong> (corresponding author), Xinyu Wang, Gen Li, Ye Qiu, Zhichao Yang, Wenjun Wu, Kejian Wu, Yifan Sun, Xiaotie Deng, Jin Dong<br/>
+      <em>Annual Meeting of the Association for Computational Linguistics (ACL Findings)</em>, 2026.<br/>
+      [<a href="https://arxiv.org/pdf/2505.12884">Paper</a>]
+      [<a href="https://github.com">Code</a>]
+    </p>
+  </div>
+</div>
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
+  <div class="column left" style="flex: 1; min-width: 180px;">
     <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/deepsynth.jpg" alt="DeepSynth-Eval">
   </div>
   <div class="column middle" style="flex: 0.05; min-width: 10px;">&nbsp;</div>
   <div class="column right" style="flex: 2; min-width: 240px;">
     <p>
       <strong>DeepSynth-Eval: Objectively Evaluating Information Consolidation in Deep Survey Writing</strong><br/>
-      Hongzhi Zhang, Yuanze Hu, Tinghai Zhang, Jia Fu, Tao Wang, Junwei Jing, Zhaoxin Fan, Qi Wang, Ruiming Tang, Han Li, Guorui Zhou, Kun Gai<br/>
-      <em>Findings of the Association for Computational Linguistics (ACL)</em>, 2026.<br/>
+      Hongzhi Zhang, Yuanze Hu, Tinghai Zhang, Jia Fu, Tao Wang, Junwei Jing,  <strong>Zhaoxin Fan</strong>, Qi Wang, Ruiming Tang, Han Li, Guorui Zhou, Kun Gai<br/>
+      <em>Annual Meeting of the Association for Computational Linguistics (ACL Findings)</em>, 2026.<br/>
       [<a href="https://arxiv.org/pdf/2601.03540">Paper</a>]
       [<a href="https://github.com">Code</a>]
     </p>
