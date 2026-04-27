@@ -45,6 +45,7 @@ Looking ahead, our ultimate vision is **general embodied intelligence**: buildin
 
 News!
 ======
+*  April/27/2026,  Happy to annouce that 1 papers is accepted to **Pattern Recognition**!
 *  April/6/2026,  Happy to annouce that 2 papers are accepted to **ACL** main concerence and 2 papers are accepted as findings!
 *  Mar/26/2026,  Happy to annouce that ExGes is accepted to  **TVCG**!
 *  Mar/22/2026,   Glad to annouce that Dust to Tower is accepted to  **TVCG**!
@@ -53,13 +54,13 @@ News!
 *  Jan/20/2026,  I am happy to serve as the **Area Chair of ICME 2026**!
 *  Jan/14/2026,  Glad to annouce that DSSmoothing is accepted to  **WWW 2026**!.
 *  Dec/20/2025, Congrats to Ye for his first VLA work being accepted by **Neurocomputing**!
-*  Dec/3/2025,  Glad to annouce that R-FGDepth is accepted to  **Pattern Recongition**!.
+*  Dec/3/2025,  Glad to annouce that R-FGDepth is accepted to  **Pattern Recongition**!
 *  Nov/26/2025,  Congrats to Xinyu for his first theory work on pruning being accepted by **Neurocomputing**!
 *  Nov/8/2025,  Glad to annouce that Monodream and Mem4d are accepted to **AAAI 2026** ! 
 *  Oct/25/2025,  Excited to annouce that SyncTalk++ is accepted to **TPAMI** !
 *  Oct/16/2025,  Excited to annouce that AsynFusion is awarded by PRCV 2025 **best student paper** and **CCF outstand paper**! 
 *  Sep/24/2025,  Glad to annouce that 1 paper is accepted to **Neurips**.
-*  Sep/13/2025,  Glad to annouce that our latest survey paper on avatars is accept to **ACM Computing Surveys！**.
+*  Sep/13/2025,  Glad to annouce that our latest survey paper on avatars is accept to **ACM Computing Surveys！**
 *  Sep/1/2025,  Glad to annouce that 1 paper is accepted to **Pattern Recognition**. The impact factor of PR is 7.6 now.
 *  Aug/21//2025,  Glad to annouce that 1 paper is accepted to **PRCV 2025**. 
 *  Aug/2/2025,  Excited to annouce that LongVLA is accepted to **CoRL2025** !
