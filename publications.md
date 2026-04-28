@@ -16,7 +16,7 @@ author_profile: true
     <p>
       <strong>Segment and pick any fruit: Text-prompted robotic harvesting</strong><br/>
       <strong>Zhaoxin Fan</strong>, Xiaotong Su, Yanfeng Lu, Yuan Fang, Zeyu Gao, Jungui Feng, Yuanzhe Hu<br/>
-      <em>Pattern Recognition</em>, 2026.<br/>
+      <em><strong>Pattern Recognition<strong></em>, 2026.<br/>
       [<a href="https://www.sciencedirect.com/science/article/pii/S0031320326008010">Paper</a>]
       [<a href="https://github.com/">Code</a>]
     </p>
@@ -32,7 +32,7 @@ author_profile: true
     <p>
       <strong>Inside Out: Evolving User-Centric Core Memory Trees for Long-Term Personalized Dialogue Systems</strong><br/>
       Jihao Zhao, Ding Chen, <strong>Zhaoxin Fan</strong>, Kerun Xu, Mengting Hu, Bo Tang, Feiyu Xiong, Zhiyu Li<br/>
-      <em>Annual Meeting of the Association for Computational Linguistics (ACL)</em>, 2026.<br/>
+      <em>Annual Meeting of the Association for Computational Linguistics (<strong>ACL<strong>)</em>, 2026.<br/>
       [<a href="https://arxiv.org/pdf/2601.05171">Paper</a>]
       [<a href="https://github.com/MemTensor/InsideOut">Code</a>]
     </p>
@@ -48,7 +48,7 @@ author_profile: true
     <p>
       <strong>PEAP: Proactive Embodied Action Sequence Planning with Joint Understanding of Vision and Audio Perception</strong><br/>
       Tianwei Lan, Jiaqi Wu, Zeming Liu, <strong>Zhaoxin Fan</strong>, Haifeng Wang, Yuhang Guo<br/>
-      <em>Annual Meeting of the Association for Computational Linguistics (ACL)</em>, 2026.<br/>
+      <em>Annual Meeting of the Association for Computational Linguistics (<strong>ACL<strong>)</em>, 2026.<br/>
       [<a href="https://openreview.net/pdf?id=vVZSS56OUv">Paper</a>]
       [<a href="https://github.com/BITHLP/PEAP">Code</a>]
     </p>
@@ -64,7 +64,7 @@ author_profile: true
     <p>
       <strong>TinyAlign: Boosting Lightweight Vision-Language Models by Mitigating Modal Alignment Bottlenecks</strong><br/>
       Yuanze Hu,  <strong>Zhaoxin Fan</strong> (corresponding author), Xinyu Wang, Gen Li, Ye Qiu, Zhichao Yang, Wenjun Wu, Kejian Wu, Yifan Sun, Xiaotie Deng, Jin Dong<br/>
-      <em>Annual Meeting of the Association for Computational Linguistics (ACL Findings)</em>, 2026.<br/>
+      <em>Annual Meeting of the Association for Computational Linguistics (<strong>ACL Findings<strong>)</em>, 2026.<br/>
       [<a href="https://arxiv.org/pdf/2505.12884">Paper</a>]
       [<a href="https://github.com/depixels/TinyAlign">Code</a>]
     </p>
@@ -80,7 +80,7 @@ author_profile: true
     <p>
       <strong>DeepSynth-Eval: Objectively Evaluating Information Consolidation in Deep Survey Writing</strong><br/>
       Hongzhi Zhang, Yuanze Hu, Tinghai Zhang, Jia Fu, Tao Wang, Junwei Jing,  <strong>Zhaoxin Fan</strong>, Qi Wang, Ruiming Tang, Han Li, Guorui Zhou, Kun Gai<br/>
-      <em>Annual Meeting of the Association for Computational Linguistics (ACL Findings)</em>, 2026.<br/>
+      <em>Annual Meeting of the Association for Computational Linguistics (<strong>ACL Findings)<strong></em>, 2026.<br/>
       [<a href="https://arxiv.org/pdf/2601.03540">Paper</a>]
       [<a href="https://github.com/Kwai-Klear/DeepSynth-Eval">Code</a>]
     </p>
