@@ -128,6 +128,22 @@ Working Experience
 Selected Publications
 ======
 
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
+  <div class="column left" style="flex: 1; min-width: 180px;">
+   <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/pickanyfruit.jpg" alt="Inside Out">
+  </div>
+  <div class="column middle" style="flex: 0.05; min-width: 10px;">&nbsp;</div>
+  <div class="column right" style="flex: 2; min-width: 240px;">
+    <p>
+      <strong>Segment and pick any fruit: Text-prompted robotic harvesting</strong><br/>
+      <strong>Zhaoxin Fan</strong>, Xiaotong Su, Yanfeng Lu, Yuan Fang, Zeyu Gao, Jungui Feng, Yuanzhe Hu<br/>
+      <em><strong>Pattern Recognition</strong></em>, 2026.<br/>
+      [<a href="https://www.sciencedirect.com/science/article/pii/S0031320326008010">Paper</a>]
+      [<a href="https://github.com/">Code</a>]
+    </p>
+  </div>
+</div>
+
 <p style="color: #d32f2f; font-weight: bold;">
   If you find that some code links are unavailable or lead to empty repositories, please visit
   <a href="https://zhaoxinf.github.io/publications/" style="color: #d32f2f; text-decoration: underline;">this page</a>
