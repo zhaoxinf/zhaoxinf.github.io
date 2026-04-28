@@ -15,7 +15,7 @@ author_profile: true
   <div class="column right" style="flex: 2; min-width: 240px;">
     <p>
       <strong>Segment and pick any fruit: Text-prompted robotic harvesting</strong><br/>
-      Zhaoxin Fan, Xiaotong Su, Yanfeng Lu, Yuan Fang, Zeyu Gao, Jungui Feng, Yuanzhe Hu<br/>
+      <strong>Zhaoxin Fan</strong>, Xiaotong Su, Yanfeng Lu, Yuan Fang, Zeyu Gao, Jungui Feng, Yuanzhe Hu<br/>
       <em>Pattern Recognition</em>, 2026.<br/>
       [<a href="https://www.sciencedirect.com/science/article/pii/S0031320326008010">Paper</a>]
       [<a href="https://github.com/">Code</a>]
