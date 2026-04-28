@@ -9,7 +9,7 @@ author_profile: true
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
   <div class="column left" style="flex: 1; min-width: 180px;">
-    <img align="left" width="100%" src="pickanyfruit.jpg" alt="Segment and pick any fruit">
+   <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/pickanyfruit.jpg" alt="Inside Out">
   </div>
   <div class="column middle" style="flex: 0.05; min-width: 10px;">&nbsp;</div>
   <div class="column right" style="flex: 2; min-width: 240px;">
