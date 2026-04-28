@@ -9,6 +9,22 @@ author_profile: true
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
   <div class="column left" style="flex: 1; min-width: 180px;">
+    <img align="left" width="100%" src="pickanyfruit.jpg" alt="Segment and pick any fruit">
+  </div>
+  <div class="column middle" style="flex: 0.05; min-width: 10px;">&nbsp;</div>
+  <div class="column right" style="flex: 2; min-width: 240px;">
+    <p>
+      <strong>Segment and pick any fruit: Text-prompted robotic harvesting</strong><br/>
+      Zhaoxin Fan, Xiaotong Su, Yanfeng Lu, Yuan Fang, Zeyu Gao, Jungui Feng, Yuanzhe Hu<br/>
+      <em>Pattern Recognition</em>, 2026.<br/>
+      [<a href="https://www.sciencedirect.com/science/article/pii/S0031320326008010">Paper</a>]
+      [<a href="https://github.com/">Code</a>]
+    </p>
+  </div>
+</div>
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
+  <div class="column left" style="flex: 1; min-width: 180px;">
     <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/insideoutside.jpg" alt="Inside Out">
   </div>
   <div class="column middle" style="flex: 0.05; min-width: 10px;">&nbsp;</div>
