@@ -127,6 +127,12 @@ Working Experience
 
 Selected Publications
 ======
+<p style="color: #d32f2f; font-weight: bold;">
+  If you find that some code links are unavailable or lead to empty repositories, please visit
+  <a href="https://zhaoxinf.github.io/publications/" style="color: #d32f2f; text-decoration: underline;">this page</a>
+  for the latest updates. We will maintain updated releases on that page if available.
+</p>
+
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
   <div class="column left" style="flex: 1; min-width: 180px;">
@@ -144,11 +150,6 @@ Selected Publications
   </div>
 </div>
 
-<p style="color: #d32f2f; font-weight: bold;">
-  If you find that some code links are unavailable or lead to empty repositories, please visit
-  <a href="https://zhaoxinf.github.io/publications/" style="color: #d32f2f; text-decoration: underline;">this page</a>
-  for the latest updates. We will maintain updated releases on that page if available.
-</p>
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
