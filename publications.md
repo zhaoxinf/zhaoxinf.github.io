@@ -43,7 +43,7 @@ author_profile: true
 </div>
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
-   <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/pickanyfruit.jpg" alt="Inside Out">
+   <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/pickanyfruit.jpg">
   </div>
   <div class="column middle" style="flex: 0.05; min-width: 10px;">&nbsp;</div>
   <div class="column right" style="flex: 2; min-width: 240px;">
@@ -59,7 +59,7 @@ author_profile: true
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
   <div class="column left" style="flex: 1; min-width: 180px;">
-    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/insideoutside.jpg" alt="Inside Out">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/insideoutside.jpg">
   </div>
   <div class="column middle" style="flex: 0.05; min-width: 10px;">&nbsp;</div>
   <div class="column right" style="flex: 2; min-width: 240px;">
@@ -75,7 +75,7 @@ author_profile: true
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
   <div class="column left" style="flex: 1; min-width: 180px;">
-    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/reap.jpg" alt="PEAP">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/reap.jpg">
   </div>
   <div class="column middle" style="flex: 0.05; min-width: 10px;">&nbsp;</div>
   <div class="column right" style="flex: 2; min-width: 240px;">
@@ -91,7 +91,7 @@ author_profile: true
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
-    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/tinyalign.jpg" alt="TinyAlign">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/tinyalign.jpg">
   </div>
   <div class="column middle" style="flex: 0.05; min-width: 10px;">&nbsp;</div>
   <div class="column right" style="flex: 2; min-width: 240px;">
@@ -107,7 +107,7 @@ author_profile: true
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
-    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/deepsynth.jpg" alt="DeepSynth-Eval">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/deepsynth.jpg">
   </div>
   <div class="column middle" style="flex: 0.05; min-width: 10px;">&nbsp;</div>
   <div class="column right" style="flex: 2; min-width: 240px;">
