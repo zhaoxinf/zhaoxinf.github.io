@@ -9,20 +9,20 @@ author_profile: true
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
-    <img align="left" width="100%" src="zerase.jpg">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/zerase.jpg">
   </div>
   <div class="column middle" style="flex: 0.05;">&nbsp;</div>
   <div class="column right" style="flex: 2;">
     <p>
       <strong>Z-Erase: Enabling Concept Erasure in Single-Stream Diffusion Transformers</strong><br/>
       Nanxiang Jiang, <strong>Zhaoxin Fan</strong> (corresponding author), Baisen Wang, Daiheng Gao, Junhang Cheng, Jifeng Guo, Yalan Qin, Yeying Jin, Hongwei Zheng, Faguo Wu, Wenjun Wu<br/>
-      <em>arXiv preprint</em>, 2026.<br/>
+      <em>International Conference on Machine Learning (<strong>ICML</strong>)</em>, 2026.<br/>
       [<a href="https://arxiv.org/pdf/2603.25074">Paper</a>]
       [<a href="https://github.com/">Code</a>]
     </p>
   </div>
-</div>
 
+</div>
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/pickanyfruit.jpg" alt="Inside Out">
