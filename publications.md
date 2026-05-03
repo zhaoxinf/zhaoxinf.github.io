@@ -39,8 +39,8 @@ author_profile: true
       [<a href="https://github.com/">Code</a>]
     </p>
   </div>
-
 </div>
+
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/pickanyfruit.jpg">
