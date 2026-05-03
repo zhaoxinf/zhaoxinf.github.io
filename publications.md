@@ -57,8 +57,8 @@ author_profile: true
   </div>
 </div>
 
-<div class="row" style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
-  <div class="column left" style="flex: 1; min-width: 180px;">
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
     <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/insideoutside.jpg">
   </div>
   <div class="column middle" style="flex: 0.05; min-width: 10px;">&nbsp;</div>
@@ -73,8 +73,8 @@ author_profile: true
   </div>
 </div>
 
-<div class="row" style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
-  <div class="column left" style="flex: 1; min-width: 180px;">
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
     <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/reap.jpg">
   </div>
   <div class="column middle" style="flex: 0.05; min-width: 10px;">&nbsp;</div>
