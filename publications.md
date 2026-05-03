@@ -7,6 +7,24 @@ author_profile: true
 
 **2026**
 
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/mapdream.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>MapDream: Task-Driven Map Learning for Vision-Language Navigation</strong><br/>
+      Guoxin Lian, Shuo Wang, Yucheng Wang, Yongcai Wang, Maiyue Chen, Kaihui Wang, Bo Zhang, Zhizhong Su, Deying Li, <strong>Zhaoxin Fan</strong> (corresponding author)<br/>
+      <em>International Conference on Machine Learning (<strong>ICML</strong>)</em>, 2026.<br/>
+      [<a href="https://arxiv.org/pdf/2602.00222">Paper</a>]
+      [<a href="https://horizonrobotics.github.io/robot_lab/mapdream/">Code</a>]
+    </p>
+  </div>
+</div>
+
+
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
     <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/zerase.jpg">
