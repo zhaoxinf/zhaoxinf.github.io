@@ -135,7 +135,7 @@ Selected Publications
 </p>
 
 
-<div class="row" style="display: flex; align-items: center; margin-bottom: 20px; flex-wrap: wrap;">
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1; min-width: 180px;">
    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/pickanyfruit.jpg" alt="Inside Out">
   </div>
