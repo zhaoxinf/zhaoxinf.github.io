@@ -166,6 +166,7 @@ Selected Publications
       [<a href="https://github.com/">Code</a>]
     </p>
   </div>
+</div>
 
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
