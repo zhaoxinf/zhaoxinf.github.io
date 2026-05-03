@@ -45,8 +45,8 @@ author_profile: true
   <div class="column left" style="flex: 1;">
    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/pickanyfruit.jpg">
   </div>
-  <div class="column middle" style="flex: 0.05; min-width: 10px;">&nbsp;</div>
-  <div class="column right" style="flex: 2; min-width: 240px;">
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
     <p>
       <strong>Segment and pick any fruit: Text-prompted robotic harvesting</strong><br/>
       <strong>Zhaoxin Fan</strong>, Xiaotong Su, Yanfeng Lu, Yuan Fang, Zeyu Gao, Jungui Feng, Yuanzhe Hu<br/>
@@ -61,8 +61,8 @@ author_profile: true
   <div class="column left" style="flex: 1;">
     <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/insideoutside.jpg">
   </div>
-  <div class="column middle" style="flex: 0.05; min-width: 10px;">&nbsp;</div>
-  <div class="column right" style="flex: 2; min-width: 240px;">
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
     <p>
       <strong>Inside Out: Evolving User-Centric Core Memory Trees for Long-Term Personalized Dialogue Systems</strong><br/>
       Jihao Zhao, Ding Chen, <strong>Zhaoxin Fan</strong>, Kerun Xu, Mengting Hu, Bo Tang, Feiyu Xiong, Zhiyu Li<br/>
@@ -77,8 +77,8 @@ author_profile: true
   <div class="column left" style="flex: 1;">
     <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/reap.jpg">
   </div>
-  <div class="column middle" style="flex: 0.05; min-width: 10px;">&nbsp;</div>
-  <div class="column right" style="flex: 2; min-width: 240px;">
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
     <p>
       <strong>PEAP: Proactive Embodied Action Sequence Planning with Joint Understanding of Vision and Audio Perception</strong><br/>
       Tianwei Lan, Jiaqi Wu, Zeming Liu, <strong>Zhaoxin Fan</strong>, Haifeng Wang, Yuhang Guo<br/>
@@ -93,8 +93,8 @@ author_profile: true
   <div class="column left" style="flex: 1;">
     <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/tinyalign.jpg">
   </div>
-  <div class="column middle" style="flex: 0.05; min-width: 10px;">&nbsp;</div>
-  <div class="column right" style="flex: 2; min-width: 240px;">
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
     <p>
       <strong>TinyAlign: Boosting Lightweight Vision-Language Models by Mitigating Modal Alignment Bottlenecks</strong><br/>
       Yuanze Hu,  <strong>Zhaoxin Fan</strong> (corresponding author), Xinyu Wang, Gen Li, Ye Qiu, Zhichao Yang, Wenjun Wu, Kejian Wu, Yifan Sun, Xiaotie Deng, Jin Dong<br/>
