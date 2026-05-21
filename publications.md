@@ -7,6 +7,21 @@ author_profile: true
 
 **2026**
 
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/cose.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>CoSE: connectivity-oriented semantic enhancement for mitigating hallucinations in multimodal LLMs</strong><br/>
+      Yuanze Hu, Zhaoxin Fan, Gen Li, Zhichao Yang, Xinyu Wang, Ye Qiu, Wenjun Wu, Kejian Wu, Yifan Sun, Xiaotie Deng, Jin Dong, Ziyu Jia, <strong>Zhaoxin Fan</strong> (corresponding author)<br/>
+      <em>Information Fusion</em>, 2026.<br/>
+      [<a href="https://www.sciencedirect.com/science/article/pii/S156625352600357X">Paper</a>]
+      [<a href="https://github.com">Code</a>]
+    </p>
+  </div>
+</div>
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
