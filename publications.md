@@ -9,6 +9,23 @@ author_profile: true
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/3dseg.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>Enhancing weakly supervised 3D medical image segmentation through probabilistic-aware learning</strong><br/>
+      Runmin Jiang, <strong>Zhaoxin Fan</strong> (corresponding author), Junhao Wu, Lenghan Zhu, Xin Huang, Tianyang Wang, Heng Huang, Min Xu<br/>
+      <em>Pattern Recognition</em>, 2026.<br/>
+      [<a href="https://www.sciencedirect.com/science/article/pii/S0031320326009386">Paper</a>]
+      [<a href="https://github.com/runminjiang/PW4MedSeg">Code</a>]
+    </p>
+  </div>
+</div>
+
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
     <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/cose.jpg">
   </div>
   <div class="column middle" style="flex: 0.05;">&nbsp;</div>
