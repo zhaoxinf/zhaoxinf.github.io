@@ -45,6 +45,7 @@ Looking ahead, our ultimate vision is **general embodied intelligence**: buildin
 
 News!
 ======
+*  June/8/2026,  Happy to annouce that we won the **CVPR Compute Transparency Champion**!
 *  May/1/2026,  Happy to annouce that we won the **Best Paper Runner Up** award in GigaBrain Challenge 2026 @ CVPR 2026!
 *  May/1/2026,  Happy to annouce that 2 papers are accepted to **ICML 2026** and 1 paper is accepted to **IJCAI 2026**!
 *  April/27/2026,  Happy to annouce that 1 papers is accepted to **Pattern Recognition**!
