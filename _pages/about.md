@@ -137,6 +137,21 @@ Selected Publications
   for the latest updates. We will maintain updated releases on that page if available.
 </p>
 
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/2kretrofit.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>2K Retrofit: Entropy-Guided Efficient Sparse Refinement for High-Resolution 3D Geometry Prediction</strong><br/>
+      Tianbao Zhang, Zhenyu Liang, Zhenbo Song, Nana Wang, Xiaomei Zhang, Xudong Cai, Zheng Zhu, Kejian Wu, Gang Wang, <strong>Zhaoxin Fan</strong>（corresponding author)<br/>
+      <em>European Conference on Computer Vision  (<strong>ECCV 2026</strong>)</em>, 2026.<br/>
+      [<a href="https://arxiv.org/pdf/2603.19964">Paper</a>]
+      [<a href="https://github.io">Code</a>]
+    </p>
+  </div>
+</div>
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
