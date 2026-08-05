@@ -45,6 +45,7 @@ Looking ahead, our ultimate vision is **general embodied intelligence**: buildin
 
 News!
 ======
+*  Aug/4/2026,  Excited to annouce that we won the **Best Paper** award in TCSAUC Workshop @ UbiComp/ISWC 2026!
 *  June/18/2026,  Excited to annouce that 2K Retrofit is accepted to **ECCV 2026** !
 *  June/8/2026,  Happy to annouce that we won the **CVPR Compute Transparency Champion**!
 *  May/1/2026,  Happy to annouce that we won the **Best Paper Runner Up** award in GigaBrain Challenge 2026 @ CVPR 2026!
