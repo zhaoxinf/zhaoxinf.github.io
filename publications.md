@@ -32,7 +32,7 @@ author_profile: true
     <p>
       <strong>2K Retrofit: Entropy-Guided Efficient Sparse Refinement for High-Resolution 3D Geometry Prediction</strong><br/>
       Tianbao Zhang, Zhenyu Liang, Zhenbo Song, Nana Wang, Xiaomei Zhang, Xudong Cai, Zheng Zhu, Kejian Wu, Gang Wang, <strong>Zhaoxin Fan</strong>（corresponding author)<br/>
-      <em>European Conference on Computer Vision  (<strong>ECCV 2026</strong>)</em>, 2026.<br/>
+      <em>European Conference on Computer Vision  (<strong>ECCV</strong>)</em>, 2026.<br/>
       [<a href="https://arxiv.org/pdf/2603.19964">Paper</a>]
       [<a href="https://github.io">Code</a>]
     </p>
