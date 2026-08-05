@@ -16,7 +16,7 @@ author_profile: true
     <p>
       <strong>LiteMVS: Efficient Multi-View Stereo with Foundation Distillation and Expert Aggregation</strong><br/>
       Tianbao Zhang, Zeyu Liu, Shuyu Wu, Fanxing Li,  <strong>Zhaoxin Fan</strong>（corresponding author), Wenjun Wu, Danping Zou<br/>
-      <em>GigaBrain Challenge 2026 Workshop</em> <span style="color: #d2691e;">(<strong>Best Paper/strong>)</span><br/>
+       <em>CVPR 2026 GigaBrain Challenge 2026 Workshop  (<strong>Best Paper Runner Up</strong>)</em>, 2026.<br/>
       [<a href="https://arxiv.org/pdf/2608.03851">Paper</a>]
       [<a href="https://github.com">Code</a>]
     </p>
