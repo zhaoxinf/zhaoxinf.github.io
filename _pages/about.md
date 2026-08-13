@@ -132,6 +132,21 @@ Working Experience
 
 Selected Publications
 ======
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/chainclaw.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>ChainClaw: A Layered Agent Framework for Reliable On-Chain Execution</strong><br/>
+      Jiacheng Wei, <strong>Zhaoxin Fan</strong> (corresponding author), Xin Wen, Yuqin Lan, Dongrun Li, Wenjun Wu, Faguo Wu, Xiao Zhang<br/>
+      <em>TCSAUC Workshop @ UbiComp/ISWC 2026 (<strong>Best Paper</strong>)</em>, 2026.<br/>
+      [<a href="https://arxiv.org/pdf/2608.05790">Paper</a>]
+      [<a href="https://github.com">Code</a>]
+    </p>
+  </div>
+</div>
 
 <p style="color: #d32f2f; font-weight: bold;">
   If you find that some code links are unavailable or lead to empty repositories, please visit
