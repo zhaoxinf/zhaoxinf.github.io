@@ -114,7 +114,7 @@ author_profile: true
     <p>
       <strong>Segment and pick any fruit: Text-prompted robotic harvesting</strong><br/>
       <strong>Zhaoxin Fan</strong>, Xiaotong Su, Yanfeng Lu, Yuan Fang, Zeyu Gao, Jungui Feng, Yuanzhe Hu<br/>
-      <em>Pattern Recognition (<strong>IF</strong>) </em>, 2026.<br/>
+      <em>Pattern Recognition (<strong>PR</strong>) </em>, 2026.<br/>
       [<a href="https://www.sciencedirect.com/science/article/pii/S0031320326008010">Paper</a>]
       [<a href="https://github.com/">Code</a>]
     </p>
@@ -230,8 +230,8 @@ author_profile: true
       <strong>HVG-3D: Bridging Real and Simulation Domains for 3D-Conditional Hand-Object Interaction Video Synthesis</strong><br/>
       Mingjin Chen, Junhao Chen, <strong>Zhaoxin Fan</strong>(corresponding author), Yujian Lee, Zichen Dang, Yawen Cui, Lap-Pui Chau, Yi Wang, Lili Wang<br/>
       Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026.<br/>
-      [<a href="arxiv.org">Paper</a>]
-      [<a href="github.com">Code</a>]
+      [<a href="https://arxiv.org/pdf/2604.03305">Paper</a>]
+      [<a href="https://hvg3d.github.io/">Code</a>]
     </p>
   </div>
 </div>
@@ -281,7 +281,7 @@ author_profile: true
       <strong>CUBic: Coordinated Unified Bimanual Perception and Control Framework</strong><br/>
       Xingyu Wang, Pengxiang Ding, Jingkai Xu, Donglin Wang, <strong>Zhaoxin Fan</strong>(corresponding author)<br/>
       Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2026.<br/>
-      [<a href="arxiv.org">Paper</a>]
+      [<a href="https://arxiv.org/pdf/2605.13452">Paper</a>]
       [<a href="github.com">Code</a>]
     </p>
   </div>
