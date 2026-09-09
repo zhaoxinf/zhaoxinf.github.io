@@ -140,6 +140,22 @@ Selected Publications
   for the latest updates. We will maintain updated releases on that page if available.
 </p>
 
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/colmin.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>CoLMIN: LLM-based Multi-Decision Path Negotiation for Cooperative Autonomous Driving</strong><br/>
+      Zhe Huang, <strong>Zhaoxin Fan</strong> (corresponding author), Shuo Wang, Wenjun Wu, Xuan Zhao, Min Liu<br/>
+      <em>IEEE Transactions on Multimedia (TMM)</em>.<br/>
+       [<a href="https://arxiv.org/pdf/2609.04807">Paper</a>]
+      [<a href="https://github.com/HuangZhe885/CoLMIN">Code</a>]
+    </p>
+  </div>
+</div>
+
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
