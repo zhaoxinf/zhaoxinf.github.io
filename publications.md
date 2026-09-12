@@ -9,6 +9,22 @@ author_profile: true
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/shuangqu.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>A Hyperbolicity Atlas of Large Language Model Hidden States</strong><br/>
+      Zhichao Yang, Yuanze Hu, Gen Li, Qingchen Yu, Shiying Duan, Xinyu Wang, Ye Qiu, Zeming Liu, Guangxu Chen, <strong>Zhaoxin Fan</strong> (corresponding author)<br/>
+      <em>Findings of the Association for Computational Linguistics: EMNLP (<strong>EMNLP Findings</strong>)</em>, 2026.<br/>
+      [<a href="https://arxiv.org/pdf/2609.07053">Paper</a>]
+      [<a href="https://github.com">Code</a>]
+    </p>
+  </div>
+</div>
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
     <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/colmin.jpg">
   </div>
   <div class="column middle" style="flex: 0.05;">&nbsp;</div>
