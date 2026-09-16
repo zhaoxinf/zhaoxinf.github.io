@@ -17,8 +17,8 @@ author_profile: true
       <strong>Cascade: Hierarchical Recoverability Control for Large Language Model Unlearning</strong><br/>
       Qingchen Yu, Shiying Duan, Xiaodong Li, Yuhua Wang, Zhiyu Li, Shiji Zhou, Yifan Sun, <strong>Zhaoxin Fan</strong>（corresponding author）<br/>
       <em>Findings of the Association for Computational Linguistics: EMNLP (<strong>EMNLP Findings</strong>)</em>, 2026.<br/>
-      [<a href="https://arxiv.org/pdf/2609.16890">论文</a>]
-      [<a href="https://github.com/Noryxen/Cascade">代码</a>]
+      [<a href="https://arxiv.org/pdf/2609.16890">Paper</a>]
+      [<a href="https://github.com/Noryxen/Cascade">Code</a>]
     </p>
   </div>
 </div>
