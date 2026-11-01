@@ -15,7 +15,7 @@ author_profile: true
   <div class="column right" style="flex: 2;">
     <p>
       <strong>From bits to atoms: A survey of cross-layer safety in Embodied AI</strong><br/>
-      Tuo Feng, Yue Zhang, Shiji Zhou,<strong>Zhaoxin Fan</strong> (corresponding author), Wenguan Wang, Xiaowei Chi, Tianyu Shen, Xiangtai Li, Xuesong Bai, Zheng Zhu, Sirui Han, Boyu Zhou, Zhaosong Wang, Shizhe Chen, Zilong Zheng, Chenjia Bai, Jiangmiao Pang, Yaodong Yang, Hao Zhao, Di Hu, Li Yi, Yan Huang, Qi Wu, Hanwang Zhang, Fei Gao, et al. <br/>
+      Tuo Feng, Yue Zhang, Shiji Zhou, <strong>Zhaoxin Fan</strong> (corresponding author), Wenguan Wang, et al. <br/>
       <em>AI Plus Journal</em>.<br/>
       [<a href="https://arxiv.org/pdf/2610.14038">Paper</a>]
       [<a href="https://github.com">Code</a>]
