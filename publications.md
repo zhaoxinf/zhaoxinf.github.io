@@ -15,7 +15,7 @@ author_profile: true
   <div class="column right" style="flex: 2;">
     <p>
       <strong>MATHDance: Mamba-Transformer Architecture with Uniform Tokenization for High-Quality 3D Dance Generation</strong><br/>
-      Kaixing Yang, Xulong Tang, Ziqiao Peng, Yuxuan Hu, Xiangyue Zhang, Puwei Wang, Hongyan Liu, Jun He, <strong>Zhaoxin Fan</strong>（通讯作者）<br/>
+      Kaixing Yang, Xulong Tang, Ziqiao Peng, Yuxuan Hu, Xiangyue Zhang, Puwei Wang, Hongyan Liu, Jun He, <strong>Zhaoxin Fan</strong>（corresponding author）<br/>
       <em>ACM MM HUMA 2026 Workshop</em> <strong>(Best Paper)</strong>.<br/>
       [<a href="https://arxiv.org/pdf/2505.14222">Paper</a>]
       [<a href="https://github.com">Code</a>]
