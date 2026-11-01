@@ -9,6 +9,22 @@ author_profile: true
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/mathdance.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>MATHDance: Mamba-Transformer Architecture with Uniform Tokenization for High-Quality 3D Dance Generation</strong><br/>
+      Kaixing Yang, Xulong Tang, Ziqiao Peng, Yuxuan Hu, Xiangyue Zhang, Puwei Wang, Hongyan Liu, Jun He, <strong>Zhaoxin Fan</strong>（通讯作者）<br/>
+      <em>ACM MM HUMA 2026 Workshop</em> <strong>(Best Paper)</strong>.<br/>
+      [<a href="https://arxiv.org/pdf/2505.14222">论文地址</a>]
+      [<a href="https://github.com">代码</a>]
+    </p>
+  </div>
+</div>
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
     <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/cascade.jpg">
   </div>
   <div class="column middle" style="flex: 0.05;">&nbsp;</div>
