@@ -45,6 +45,7 @@ Looking ahead, our ultimate vision is **general embodied intelligence**: buildin
 
 News!
 ======
+*  Nov/1/2026,   Excited to annouce that 1 papers are eccepted to **AI Plus** and mathdance paper is awarded as **Best Paper** in ACM MM HUMA 2026 Workshop  !
 *  Sep/4/2026,   Excited to annouce that 2 papers are eccepted to **EMNLP** and 1 paper is accepted to **TMM** !
 *  Aug/4/2026,  Excited to annouce that we won the **Best Paper** award in TCSAUC Workshop @ UbiComp/ISWC 2026!
 *  June/18/2026,  Excited to annouce that 2K Retrofit is accepted to **ECCV 2026** !
@@ -139,6 +140,39 @@ Selected Publications
   <a href="https://zhaoxinf.github.io/publications/" style="color: #d32f2f; text-decoration: underline;">this page</a>
   for the latest updates. We will maintain updated releases on that page if available.
 </p>
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/robosafe.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>From bits to atoms: A survey of cross-layer safety in Embodied AI</strong><br/>
+      Tuo Feng, Yue Zhang, Shiji Zhou,<strong>Zhaoxin Fan</strong> (corresponding author), Wenguan Wang, Xiaowei Chi, Tianyu Shen, Xiangtai Li, Xuesong Bai, Zheng Zhu, Sirui Han, Boyu Zhou, Zhaosong Wang, Shizhe Chen, Zilong Zheng, Chenjia Bai, Jiangmiao Pang, Yaodong Yang, Hao Zhao, Di Hu, Li Yi, Yan Huang, Qi Wu, Hanwang Zhang, Fei Gao, <em>et al.</em><br/>
+      <em>AI Plus Journal</em>.<br/>
+      [<a href="https://arxiv.org/pdf/2610.14038">Paper</a>]
+      [<a href="https://github.com">Code</a>]
+    </p>
+  </div>
+</div>
+
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/mathdance.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>MATHDance: Mamba-Transformer Architecture with Uniform Tokenization for High-Quality 3D Dance Generation</strong><br/>
+      Kaixing Yang, Xulong Tang, Ziqiao Peng, Yuxuan Hu, Xiangyue Zhang, Puwei Wang, Hongyan Liu, Jun He, <strong>Zhaoxin Fan</strong>（corresponding author）<br/>
+      <em>ACM MM HUMA 2026 Workshop</em> <strong>(Best Paper)</strong>.<br/>
+      [<a href="https://arxiv.org/pdf/2505.14222">Paper</a>]
+      [<a href="https://github.com">Code</a>]
+    </p>
+  </div>
+</div>
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
