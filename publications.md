@@ -9,6 +9,23 @@ author_profile: true
 
 <div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
   <div class="column left" style="flex: 1;">
+    <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/robosafe.jpg">
+  </div>
+  <div class="column middle" style="flex: 0.05;">&nbsp;</div>
+  <div class="column right" style="flex: 2;">
+    <p>
+      <strong>From bits to atoms: A survey of cross-layer safety in Embodied AI</strong><br/>
+      Tuo Feng, Yue Zhang, Shiji Zhou,<strong>Zhaoxin Fan</strong> (corresponding author), Wenguan Wang, Xiaowei Chi, Tianyu Shen, Xiangtai Li, Xuesong Bai, Zheng Zhu, Sirui Han, Boyu Zhou, Zhaosong Wang, Shizhe Chen, Zilong Zheng, Chenjia Bai, Jiangmiao Pang, Yaodong Yang, Hao Zhao, Di Hu, Li Yi, Yan Huang, Qi Wu, Hanwang Zhang, Fei Gao, <em>et al.</em><br/>
+      <em>AI Plus Journal</em>.<br/>
+      [<a href="https://arxiv.org/pdf/2610.14038">Paper</a>]
+      [<a href="https://github.com">Code</a>]
+    </p>
+  </div>
+</div>
+
+
+<div class="row" style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div class="column left" style="flex: 1;">
     <img align="left" width="100%" src="https://zhaoxinf.github.io/pic/mathdance.jpg">
   </div>
   <div class="column middle" style="flex: 0.05;">&nbsp;</div>
